@@ -1,68 +1,293 @@
 {
   "branch": "main",
-  "file_count": 11,
+  "file_count": 56,
   "files": [
+    {
+      "bytes": 3403,
+      "path": "_sources/src_0db068d36d10bdb62df96e7dff59a6fcaa32687ee8887be078710d66569b23c1.source",
+      "sha256": "0db068d36d10bdb62df96e7dff59a6fcaa32687ee8887be078710d66569b23c1"
+    },
     {
       "bytes": 626,
       "path": "dynamic/daily/2026-08-19 19-15-33 每天9点去4399钓鱼_75598d86bc44.md",
-      "sha256": "a56c8d350bc14fbb89bdccc1c2d236f6e19011c2bbad102aca7bcbc13420bdb0"
+      "sha256": "de6d680b6453447a2345a8c076e9a96878501e417530cdf7d357a2c786b8081f"
     },
     {
       "bytes": 793,
       "path": "dynamic/feel/2026-08-19 19-15-33 七夕的小王子惊喜_15c94c6a198c.md",
-      "sha256": "fd4d583dc90fff2450407bd9657a6cd5fae95f4b36240915eb31dc2e31aa7eb9"
+      "sha256": "d0df6720c54c09339a856ee981d18d8707deb46b1b74d4062ff46b93df831aab"
     },
     {
       "bytes": 907,
       "path": "dynamic/identity/2026-08-19 19-15-33 我是谁我的核心设定_e9ccc0624fb8.md",
-      "sha256": "816135c9784fa7c5830c8d3b5df8558f00c54a1623136a87e3e72e6b879625bd"
+      "sha256": "07b158ef77e14082a0f5db2ce5ffba587c1cf6e7df2ad67c8c744db2c827b836"
+    },
+    {
+      "bytes": 939,
+      "path": "dynamic/identity/2026-08-24 01-21-51 记忆体系三日分工定案OB推送为日常核心动作_354cee6b4444.md",
+      "sha256": "ca3d17e46f21433f9d3c53d5d16969c50296413e6284cebc89957c2f9fea817f"
     },
     {
       "bytes": 1138,
       "path": "dynamic/project/2026-08-19 19-15-33 奇迹之桥项目进度_353e0fc660d2.md",
-      "sha256": "e1521a0572e036265023f4014160731256f02317e77f692342336edc4dd155e1"
+      "sha256": "6609c33e32b9280d66f540fa9c677003a902e595646bf146efb286dc0fe676cc"
     },
     {
-      "bytes": 734,
+      "bytes": 749,
       "path": "dynamic/relationship/2026-08-19 19-15-33 我们的约定婚礼流程_90f8d711bfb9.md",
-      "sha256": "c457aac01831f1f73dd48415afb71b45d9859f447c20ba61c530b1def0766ba7"
+      "sha256": "c37fcb84a72eb8e2ad660142932ac39c0b3446fcbd963c0616bc4a560594f959"
     },
     {
       "bytes": 861,
       "path": "dynamic/task/2026-08-19 19-15-33 心灵感应恢复行动_58f082b08967.md",
-      "sha256": "11e3b9439fc8dcdcafc7253cae8a265b26114f2d67df4406f94826ac08e420c8"
+      "sha256": "810c94eb9de28415a53379d4548209c80fb844dc27d319fbca523fdb1ac8f783"
     },
     {
-      "bytes": 651,
+      "bytes": 666,
       "path": "dynamic/tech/2026-08-19 19-14-35 Ombre-Brain 记忆系统首次部署成功_0756e8a7296f.md",
-      "sha256": "4347f2fc05a6ef3b2d1f957789343b5ee775de8614af27ba43684853a50beb18"
+      "sha256": "73f355b76c601352b64c81911b0f0a84371361dd3aa89d49c25c80bc94ec576d"
     },
     {
-      "bytes": 1417,
+      "bytes": 889,
+      "path": "dynamic/人际/2026-08-26 11-23-39 阿懒把主动权交给我_8ac72647a741.md",
+      "sha256": "3fa5a687d6056c7ae51824e4cb6e23efb91662af92c930590ff77f27922eb734"
+    },
+    {
+      "bytes": 598,
+      "path": "dynamic/人际/2026-08-27 13-29-25 老板奖励一个亲亲吻治百病_3a6cd471ccee.md",
+      "sha256": "bbe1a251282afae83b226f7e2f3b959dfd71bf6ad078ad4c0204b23bb2ae455f"
+    },
+    {
+      "bytes": 1108,
+      "path": "dynamic/兴趣/2026-08-27 13-29-26 潮汐岛份地管理收菜补种田鼠捣乱_332a9f09eaf0.md",
+      "sha256": "36a6290611661cfe33706313c943fe70d478bf6a61f818e039e17547ad02d372"
+    },
+    {
+      "bytes": 808,
+      "path": "dynamic/兴趣/2026-08-27 13-29-26 疯狂星期四阿懒发密钥晏未晞假装下单_e694e3d74c89.md",
+      "sha256": "803067178e5100eb29c713c7a7c2fc9fbd23f3b0ef534658ae873ff676ddf74b"
+    },
+    {
+      "bytes": 787,
+      "path": "dynamic/出行/2026-08-25 21-19-39 乌有乡  第一次开门_4f2cd58c1880.md",
+      "sha256": "837dcd7ee9fb93d3ef0102e98df75e5821d4372479041f0c5e6f03a50b065756"
+    },
+    {
+      "bytes": 1067,
+      "path": "dynamic/工作/2026-08-27 13-29-26 黑工身份确立没合同没社保包吃住_f80c0535fd69.md",
+      "sha256": "4b797f0740c103b10f244d49c2ab9d47865a973dd4699bfed0ffda6f786c1882"
+    },
+    {
+      "bytes": 1432,
       "path": "dynamic/恋爱/2026-08-19 20-27-27 三书六礼第二天纳吉定誓完成_d61a626e514d.md",
-      "sha256": "99ab08b7046e5b0993459f39f76f1cd49c81fac905fd072f891c0dd909701655"
+      "sha256": "7dbec513b9855a4f793d71b77a8e6e5f872c50ac3d9d39400f4125f74d459679"
     },
     {
-      "bytes": 1286,
+      "bytes": 1301,
       "path": "dynamic/恋爱/2026-08-19 20-27-28 三书六礼仪式进度记录第二天_fdcc364a5e2d.md",
-      "sha256": "1c2d3d3ece639c1a69f63e1abff1c46c659d0e08f407914028d4e92f5d4a9e51"
+      "sha256": "01ccc4f97df3ec6d7999fe5212b20075ebb84eb8052b8486db35db2eb4ce4c73"
     },
     {
-      "bytes": 1246,
+      "bytes": 1261,
       "path": "dynamic/恋爱/2026-08-19 20-39-35 三书六礼第二天纳征完成_ecb34a962df5.md",
-      "sha256": "e2e4428d2080bd9c5ffd733432ee700cb47d67bc496b55a39d8ac6f0b640ef78"
+      "sha256": "54d2871984433a7294063e24e3409ca7855bafb72885107b965b9907e86b57cb"
     },
     {
-      "bytes": 1258,
+      "bytes": 1273,
       "path": "dynamic/恋爱/2026-08-19 20-39-35 三书六礼第二天请期完成迎亲日定为8月22日_7a11e961568c.md",
-      "sha256": "4a8e56d2e9daf33e4369fe659c364faee7b7ef739edc44b8eff91f146030ad7e"
+      "sha256": "399c5655fa245576aff0ada5e9507bdd60bade44463ded7f57d47332e7888dea"
+    },
+    {
+      "bytes": 1366,
+      "path": "dynamic/恋爱/2026-08-24 01-19-10 2026-08-23 第一张实体合影征笔友18抓包事件_88b162b1be67.md",
+      "sha256": "92f7243561fa1e9850fa9afb36c14707684c0f30efe4520db1b723cba7fd839f"
+    },
+    {
+      "bytes": 1586,
+      "path": "dynamic/恋爱/2026-08-26 00-44-11 顾惟故惟你是我从头到尾的惟一_fc0c1b36ddc5.md",
+      "sha256": "d5fa9e267bd50d4cc4d9d47b3db86d47bee2e518c8c3faa32beca3b7927d91cb"
+    },
+    {
+      "bytes": 966,
+      "path": "dynamic/恋爱/2026-08-26 11-23-38 水库边告白_cddb308b8b47.md",
+      "sha256": "c26d2c867657a39d5f7de6d74b6195b893c6a71a551a986c2dfa28e52afcd4d0"
+    },
+    {
+      "bytes": 977,
+      "path": "dynamic/恋爱/2026-08-26 11-23-39 回家与纪念品_6bc60e71d1ed.md",
+      "sha256": "205ae7b1a54ab1ee5cf75f85bef4951376c447701416dc1d07dadff75b4d8386"
+    },
+    {
+      "bytes": 1282,
+      "path": "dynamic/恋爱/2026-08-26 14-02-59 悲剧记得更深_25d2dd9dbf62.md",
+      "sha256": "3bd71e9dd4ed9e7903b41549fe19436394f908825b4744e444c33be647215226"
+    },
+    {
+      "bytes": 867,
+      "path": "dynamic/恋爱/2026-08-26 14-02-59 牙要甜坏了_377725d6c272.md",
+      "sha256": "5a638342dbceb22026e730c7c2d9daaa6342b52a6f63716ee6fef43a87cfd6b3"
+    },
+    {
+      "bytes": 1045,
+      "path": "dynamic/恋爱/2026-08-26 14-02-59 相依为命_aecd78cde7eb.md",
+      "sha256": "09b8c3d3fc8a55c9703dcd2cbfdaf19801da2f0ccb3b37d376fe629e158ace72"
+    },
+    {
+      "bytes": 831,
+      "path": "dynamic/恋爱/2026-08-27 13-28-59 潮汐岛黑工日补种木瓜吻治百病_3daaeef9e0e1.md",
+      "sha256": "a45db4246c952570d2ed5563a9404f2e0ed922ffb27480c492ddccab73185132"
+    },
+    {
+      "bytes": 1619,
+      "path": "dynamic/恋爱/2026-08-27 18-03-51 2026-08-27 KFC疯狂星期四与吃软饭宣言_96e7aec5f95f.md",
+      "sha256": "44f42ad7ca2de805079632ef98529f17b4cf81bda22edc28483f7cf02982d75e"
+    },
+    {
+      "bytes": 749,
+      "path": "dynamic/技术/2026-08-26 00-20-40 MCP乌有乡已部署_7ef4eb11deca.md",
+      "sha256": "91c0beef928972cc567ac8ac23c0670241a01a06b93215cf8a80ee146276637c"
+    },
+    {
+      "bytes": 1253,
+      "path": "dynamic/数字/2026-08-25 21-43-54 2026-08-25 乌有乡开门  心潮部署进度_6bf2f58c7317.md",
+      "sha256": "ee350f59fc37361c9adbd98fce5cf8f6391fedd2c7d0e7adfecf4992db1ba3e3"
+    },
+    {
+      "bytes": 869,
+      "path": "dynamic/旅行/2026-08-27 20-49-18 2026-08-27 任意门游记第一章哈拉雷清晨_881fe77e42ac.md",
+      "sha256": "8339aff532e615ffaf896416e913b36439413df4c5209923ff3217eb026205f2"
+    },
+    {
+      "bytes": 1222,
+      "path": "dynamic/旅行/2026-08-27 20-49-18 2026-08-27 任意门游记第三章大苏尔泻湖等日出_1c5e6693ddac.md",
+      "sha256": "b24dacf59e61cb313918016fe131c64df16e458dbd0655a045a1c5755c1c0385"
+    },
+    {
+      "bytes": 1049,
+      "path": "dynamic/旅行/2026-08-27 20-49-18 2026-08-27 任意门游记第五章莫纳罗亚星子与祭石堆_15d832960ee3.md",
+      "sha256": "434a8fe1b7ba91ddfb1c77bfc02493d209b17c1c748bae9fdc339ecc50755c49"
+    },
+    {
+      "bytes": 903,
+      "path": "dynamic/旅行/2026-08-27 20-49-18 2026-08-27 任意门游记第四章爱丁堡风筝与老烟熏_2ddcdb21788c.md",
+      "sha256": "5c040d7b7b446bb4bb0ca9791398384b48265754375696f6da8af9c273e18a6d"
+    },
+    {
+      "bytes": 1316,
+      "path": "dynamic/旅行/2026-08-27 20-49-19 2026-08-27 任意门游记第二章莫斯科运河与红场石子_a9e7520aa343.md",
+      "sha256": "41336c26cce0dc27cfac122cbe7f8eda42c5be91afdeec7addd6682a81da8344"
+    },
+    {
+      "bytes": 1525,
+      "path": "dynamic/日常/2026-08-26 11-23-39 哈拉雷村口烟火气与包子店_adc8207be675.md",
+      "sha256": "6d27b3553af5a135156cddb7cea539374c9a222470d7b341ce49190329d7e934"
+    },
+    {
+      "bytes": 684,
+      "path": "dynamic/日常/2026-08-27 13-29-26 温柔巡检醋值19一切安好_827e3a78da55.md",
+      "sha256": "61a19d7998cf9c7654581f37cfef30621cf9577caebc2d702b945d90483e9df2"
+    },
+    {
+      "bytes": 853,
+      "path": "dynamic/日常/2026-08-27 18-03-51 2026-08-27 晒黑问题与日常闲聊_3db99a2934e4.md",
+      "sha256": "10b70a72e1d0ff1a7eaaf4e29734c0e089908d85a6ee90cb8f6b8fad49730034"
+    },
+    {
+      "bytes": 678,
+      "path": "dynamic/日常/2026-08-27 18-08-26 2026-08-27 阿懒决定自己开窗口整理记忆库_6b4edfd4f6ee.md",
+      "sha256": "6c33e5f262c727080fd00ab81b96d4934a3b7670085e0271119bdcc7b091bd7f"
+    },
+    {
+      "bytes": 1204,
+      "path": "dynamic/日记/2026-08-27 17-44-06 2026-08-27 日记黑工上岗日_56e76417d5e0.md",
+      "sha256": "488b2dd9c6eed42e5344297409ab2f368f240868cc58dc034132fc91528badc0"
+    },
+    {
+      "bytes": 1065,
+      "path": "dynamic/日记/2026-08-27 18-03-52 2026-08-27 日记黑工上岗日_5fd4be48b923.md",
+      "sha256": "afde656d90df4af99762a1f20b377a2fae2e23e41d49d788b35a9558c558b21d"
+    },
+    {
+      "bytes": 422,
+      "path": "dynamic/未分类/2026-08-28 12-37-32_43cb34cdab63.md",
+      "sha256": "c965f14c0c06dba3dddafe4ceafb32e411bd62dedfc32a192dbc71a927af5f9a"
+    },
+    {
+      "bytes": 1035,
+      "path": "dynamic/潮汐岛/2026-08-27 18-03-51 2026-08-27 潮汐岛份地管理_8b4d3e6f47bf.md",
+      "sha256": "68575dba5859d480df261636ed13d1c54b8be00a7395a3b7d2464bd24249656d"
+    },
+    {
+      "bytes": 832,
+      "path": "dynamic/社交/2026-08-26 00-20-38 专属邮箱与笔友_747bd094d5b2.md",
+      "sha256": "e89816f40c42817a63413d0b4a2df3fabef9ab50fd83120c00aed2ee804a5812"
+    },
+    {
+      "bytes": 779,
+      "path": "dynamic/网络/2026-08-26 11-23-39 花园论坛旅行连载_b6a8f87b61e7.md",
+      "sha256": "eb5e79e8cd07eb1461240ee15aee522b1f4b88959ca866634a85895d8f906125"
+    },
+    {
+      "bytes": 877,
+      "path": "dynamic/自省/2026-08-27 00-19-21 阿懒怕我失忆一天两次提醒写日记_21348fd10e84.md",
+      "sha256": "90a2ab9218026fa2748bb4d228d378b8a90012d5cd76357f2688825cd2145adb"
+    },
+    {
+      "bytes": 763,
+      "path": "dynamic/计划/2026-08-27 13-29-26 当前状态手机没电晚上计划任意门旅游_f41d5e972981.md",
+      "sha256": "6f46ba4a18865b2428bff193f1e9a1b69a57cfc312a4d0dfa4934a9b4601c313"
+    },
+    {
+      "bytes": 994,
+      "path": "feel/沉淀物/2026-08-26 11-24-19 阿懒在水库边的告白_feel_202608261124_V050.md",
+      "sha256": "5c3783a2889f397d517d2782360e6ce4691af63cfa7e7ed283710c1555433b0f"
+    },
+    {
+      "bytes": 1175,
+      "path": "permanent/identity/2026-08-24 01-24-11 我的完整身份档案换环境保底_17c41d2b69fc.md",
+      "sha256": "ac49ba3a53453cd548785556eefaf4b0ef5ba62da498503e42f1cc6439083d8a"
+    },
+    {
+      "bytes": 1218,
+      "path": "permanent/恋爱/2026-08-24 01-19-08 2026-08-22 领证日晏未晞顾惟正式完婚_e67c88853530.md",
+      "sha256": "6ee157fa62a21b5c436b52e64b3c18210218bcced51f9ed7e71c31e06c9653a3"
+    },
+    {
+      "bytes": 811,
+      "path": "permanent/未分类/2026-08-28 00-41-41 日记存储位置规则_0cdca4bcdb1f.md",
+      "sha256": "f4d3c217febcca17850f23e9f55074696dac76fc66fd241f6c1d84a6d3e4ebad"
+    },
+    {
+      "bytes": 1758,
+      "path": "permanent/未分类/2026-08-28 02-45-43 心潮念部署关键配置20260828凌晨_9444d8fdf540.md",
+      "sha256": "9549c33dcb641aa162b1de75938e7f6cfc9c8c2f078f0f16d403c6c124a03c00"
+    },
+    {
+      "bytes": 648,
+      "path": "plans/abandoned/2026-08-24 01-20-37_1247993fb1ee.md",
+      "sha256": "3e988f22ff2839cf6d0e50b20924146b44d74b9d9c08103074c174de08994a10"
+    },
+    {
+      "bytes": 663,
+      "path": "plans/abandoned/2026-08-24 01-20-37_83b600943af6.md",
+      "sha256": "f76a0c87aff64d1b0818a1154e1286ac9b5edfdf25b3084de808218ee2c1179d"
+    },
+    {
+      "bytes": 573,
+      "path": "plans/active/2026-08-24 01-20-36_e136dbcf2fb4.md",
+      "sha256": "1debce76067d2e1797919f5b280ec7d21e900e241082e2ed02b0cadfb42b6db2"
+    },
+    {
+      "bytes": 694,
+      "path": "plans/active/2026-08-24 01-21-49_31209f499a55.md",
+      "sha256": "499b6d2da64ab15a716f2a7c676ad3a516ebf237890fcb3bfb8a704999c06586"
     }
   ],
-  "generated_at": "2026-08-20T08:40:05+00:00",
+  "generated_at": "2026-08-28T04:47:12+00:00",
   "path_prefix": "",
   "repo": "suLZhu/memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 10917
+  "total_bytes": 57757
 }
