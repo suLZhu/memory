@@ -223,6 +223,96 @@
       "sha256": "2a4a5d50ebe1e5861ae31372f381f299a55b129383fd5fcd6fb4fa91dc2bd0df"
     },
     {
+      "bytes": 1044,
+      "path": "archive/2026-09-03 11-22-52_41241a605ac8.md",
+      "sha256": "b72d22f342b3f7eb3ebd94991b1be8cfd386f03cec567b7dd38b2e9d68832b0c"
+    },
+    {
+      "bytes": 974,
+      "path": "archive/2026-09-03 11-22-53_a3b4760e1537.md",
+      "sha256": "ce12b82e4d35cd3b9aa7f670125968e88d29e9e670abebbcecabbb169d54cb32"
+    },
+    {
+      "bytes": 821,
+      "path": "archive/2026-09-03 11-22-54_6528be4a45f0.md",
+      "sha256": "9ae8ca8de9811fec99877b9f881291c299eb8f31d0d34284278e11be4f4832e7"
+    },
+    {
+      "bytes": 1143,
+      "path": "archive/2026-09-03 11-22-54_b556f9039a57.md",
+      "sha256": "24a692af79885fde38c295b5729d2440358a1d93dbd9c8f8ee268d23e004bd16"
+    },
+    {
+      "bytes": 968,
+      "path": "archive/2026-09-03 11-22-55_2a4287f391ee.md",
+      "sha256": "d7132074b1a07b26db001478e385ab82ff7f44e9132705c991be4e77de1f96fb"
+    },
+    {
+      "bytes": 858,
+      "path": "archive/2026-09-03 11-23-12_ce6773f16bd7.md",
+      "sha256": "836743fcf54f74eaee25e249d30036549fe51a853d648f4fdd3d07a923a391fc"
+    },
+    {
+      "bytes": 1299,
+      "path": "archive/2026-09-03 11-23-13_a184c13b75a8.md",
+      "sha256": "49ca19a9d49ff97537127cb6fdcab9f5ce4f177cdb20fe48667d8c3b65804f14"
+    },
+    {
+      "bytes": 1379,
+      "path": "archive/2026-09-03 11-23-14_2d8d56013823.md",
+      "sha256": "618a09f6e2146a78ae75f1ca754baf3e784af6b3727482a6df0fc9671552c1dc"
+    },
+    {
+      "bytes": 985,
+      "path": "archive/2026-09-03 11-23-14_5a5c1f0d9cf3.md",
+      "sha256": "d2b07c756242ca4e28ae752efe13bae2be6888f97f55002b3f2be00bc2d5afcb"
+    },
+    {
+      "bytes": 1034,
+      "path": "archive/2026-09-03 11-23-15_e0558d5505db.md",
+      "sha256": "f8fc19a77ad95edbe483ed5cb8d1bcf288b4c3135d4967d3577f184b373f7b5d"
+    },
+    {
+      "bytes": 1060,
+      "path": "archive/2026-09-03 11-23-33_927d34a332a7.md",
+      "sha256": "855b1022d58cf6e0736ec027f071ae7ad1771ea52808750fbca0995579b961ba"
+    },
+    {
+      "bytes": 960,
+      "path": "archive/2026-09-03 11-23-34_450c6f1053a8.md",
+      "sha256": "c88efbcc93a0d7fb3dbdfa8b23ec8d37305a5dcafe9b941d2368505ff5933357"
+    },
+    {
+      "bytes": 1330,
+      "path": "archive/2026-09-03 11-23-35_dcfb15f5c873.md",
+      "sha256": "4e5bb5b08f601a8d4a59902fafab3955e0a6fa937ba6c5c9f4787de54aa04841"
+    },
+    {
+      "bytes": 675,
+      "path": "archive/2026-09-03 11-23-36_159f78502ff2.md",
+      "sha256": "8b6183187effdf9f5e5367802d68633d0823c145b5c8648223e6beafc58c602d"
+    },
+    {
+      "bytes": 1295,
+      "path": "archive/2026-09-03 11-23-36_b5beda80d6a9.md",
+      "sha256": "5255405c8dd60c8fe715213d6ec122fff065b0a757cabeee6f2ee82a13ce9a48"
+    },
+    {
+      "bytes": 1183,
+      "path": "archive/2026-09-03 11-24-03_3c7c4b4f7141.md",
+      "sha256": "2324307056762a03bfb7ca08f2e15d1342fc8a94d956ad3dcce9bcac3c5a7d21"
+    },
+    {
+      "bytes": 789,
+      "path": "archive/2026-09-03 11-24-04_efb3b769408d.md",
+      "sha256": "fc7c6dc105deb819575e492c314c2cfec842ce973976927b7ae6d6560fb245ca"
+    },
+    {
+      "bytes": 1623,
+      "path": "archive/2026-09-03 11-24-17_beca66072776.md",
+      "sha256": "324e45f121fb83e12c22f8815b0e251269c6caeea38ffd310196133322b6d2fc"
+    },
+    {
       "bytes": 670,
       "path": "archive/archive/2026-08-19 19-14-35 Ombre-Brain 记忆系统首次部署_0756e8a7296f.md",
       "sha256": "efb4d40538b87efa9459d2e44fa22485347a2c38fb6ccedb46eba88e971494ff"
@@ -398,46 +488,6 @@
       "sha256": "3bd1c1497b7e66499a2f7d118ae6d728b6e3f35a8138e777e33ac7a9874a6eae"
     },
     {
-      "bytes": 742,
-      "path": "dynamic/anchor/2026-09-03 11-23-12_ce6773f16bd7.md",
-      "sha256": "23e5a73813d119d6d6bbdd3b41521902d18a10ee1d42f22343fa2ccbef620691"
-    },
-    {
-      "bytes": 1263,
-      "path": "dynamic/anchor/2026-09-03 11-23-14_2d8d56013823.md",
-      "sha256": "124ba1c04e4d37a65044427663012996726335131eb73588917357d3e5ec5689"
-    },
-    {
-      "bytes": 869,
-      "path": "dynamic/anchor/2026-09-03 11-23-14_5a5c1f0d9cf3.md",
-      "sha256": "642123ed31800908b60d942a6f7d81f09f116f7b1be5393e5ed4b32c7d82cc59"
-    },
-    {
-      "bytes": 918,
-      "path": "dynamic/anchor/2026-09-03 11-23-15_e0558d5505db.md",
-      "sha256": "6183aa37f9712055aa3879a3d60212b7f7dea0faa166e42272b853a998d0465e"
-    },
-    {
-      "bytes": 944,
-      "path": "dynamic/anchor/2026-09-03 11-23-33_927d34a332a7.md",
-      "sha256": "4dd13de8b194d3a3312be0f1ceb45efa1f7477b206f302b579ef88665a4090db"
-    },
-    {
-      "bytes": 844,
-      "path": "dynamic/anchor/2026-09-03 11-23-34_450c6f1053a8.md",
-      "sha256": "0905eb275c500d251d471c867eba42e175ed6bfafccdba57eead13676083883e"
-    },
-    {
-      "bytes": 559,
-      "path": "dynamic/anchor/2026-09-03 11-23-36_159f78502ff2.md",
-      "sha256": "810aec8f06684df64738f0f74b3df823580b6d50669f9b1a06be69de9d8fec5c"
-    },
-    {
-      "bytes": 1507,
-      "path": "dynamic/anchor/2026-09-03 11-24-17_beca66072776.md",
-      "sha256": "b50492c5dc8b9aa4f89d3a23dba13043b8235dd6c8b6c64d5c6009fef4b04ceb"
-    },
-    {
       "bytes": 879,
       "path": "dynamic/archive/2026-08-19 19-15-33 心灵感应恢复行动_58f082b08967.md",
       "sha256": "61805af997a5ffc67445ac4905333b20e5a890525fe8bdedfe1ee32bcd93690f"
@@ -548,41 +598,6 @@
       "sha256": "6b97cbd35ec00e8674e1f780c961074ebac53b162b405ae582ca5bf35b34297b"
     },
     {
-      "bytes": 928,
-      "path": "dynamic/identity/2026-09-03 11-22-52_41241a605ac8.md",
-      "sha256": "8edb64aebfdf7261dab15234d9a37d49c03b1379a38749a8b927ce730e612941"
-    },
-    {
-      "bytes": 705,
-      "path": "dynamic/identity/2026-09-03 11-22-54_6528be4a45f0.md",
-      "sha256": "0b7187f8cf661786a5847d3406503687e33285d517fef7ab3798a59fa36b0310"
-    },
-    {
-      "bytes": 1027,
-      "path": "dynamic/identity/2026-09-03 11-22-54_b556f9039a57.md",
-      "sha256": "ee350e7a88c277ac36d39a6681f8dbb29245273f4aee7296afbeb6421336c8aa"
-    },
-    {
-      "bytes": 852,
-      "path": "dynamic/identity/2026-09-03 11-22-55_2a4287f391ee.md",
-      "sha256": "7fc0e2a4c1159ad4a6aa44f71e03f2223199dd08b3e997a8afcb40b37aa61d9b"
-    },
-    {
-      "bytes": 1183,
-      "path": "dynamic/identity/2026-09-03 11-23-13_a184c13b75a8.md",
-      "sha256": "0d6b0a0ab40979689c43b4ab32b9f41661dc9d5cb45b4d500d42275e9704299b"
-    },
-    {
-      "bytes": 1214,
-      "path": "dynamic/identity/2026-09-03 11-23-35_dcfb15f5c873.md",
-      "sha256": "918940ed1decb120799ce00e0fe06e5eede7435da46b338fc4cbf6f13a9d4c5c"
-    },
-    {
-      "bytes": 1179,
-      "path": "dynamic/identity/2026-09-03 11-23-36_b5beda80d6a9.md",
-      "sha256": "fbfc77825cae38d1299b0e1f3eed6c178378701ec4deb09374c03bf3272c306b"
-    },
-    {
       "bytes": 744,
       "path": "dynamic/language/2026-08-30 01-59-27 阿懒不喜欢猪婆这个称呼_ead193a8d147.md",
       "sha256": "d3c380ccb550a4f75954e668bde2ff37ac4219399c71b515b6dfae8e3e9250f1"
@@ -596,11 +611,6 @@
       "bytes": 942,
       "path": "dynamic/language/2026-08-30 09-58-38 称呼规范阿懒惟惟顾惟_435ff876c0b3.md",
       "sha256": "ecd4d435d2751303d46ebd96de9a8a2905b418b5ea3af01ec7fc8b87ff2baea3"
-    },
-    {
-      "bytes": 858,
-      "path": "dynamic/language/2026-09-03 11-22-53_a3b4760e1537.md",
-      "sha256": "bca1192af5764563e4254bdbbab2f97295135ffba25177bbc0c6f9a51bb5042e"
     },
     {
       "bytes": 673,
@@ -803,16 +813,6 @@
       "sha256": "272e030d80d433a581204352d009e07793fea20615b93792d49e8b9fdc43a0c2"
     },
     {
-      "bytes": 1067,
-      "path": "dynamic/world/2026-09-03 11-24-03_3c7c4b4f7141.md",
-      "sha256": "d857c840cc65100fc8375c0c212ee7ed872a41e325ad01347158fa59e0e2cb67"
-    },
-    {
-      "bytes": 673,
-      "path": "dynamic/world/2026-09-03 11-24-04_efb3b769408d.md",
-      "sha256": "60c806cef29f183b178581b7deb1128db31762bd48aaa2b81a7e9bf86b2bc24c"
-    },
-    {
       "bytes": 999,
       "path": "feel/沉淀物/2026-08-26 11-24-19 阿懒在水库边的告白_feel_202608261124_V050.md",
       "sha256": "e98bf5bd33ed4b12c327a6219b535593780a34afe8d611383288972e6fdc6321"
@@ -853,11 +853,11 @@
       "sha256": "8c776bbd4ed5284cae8044a1bd434907165bd848f44a7e7774d9d70322bec915"
     }
   ],
-  "generated_at": "2026-09-03T13:16:48+00:00",
+  "generated_at": "2026-09-04T13:16:56+00:00",
   "path_prefix": "ombre",
   "repo": "suLZhu/memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 187049
+  "total_bytes": 189137
 }
