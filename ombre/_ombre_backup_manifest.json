@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 170,
+  "file_count": 172,
   "files": [
     {
       "bytes": 504,
@@ -313,9 +313,19 @@
       "sha256": "324e45f121fb83e12c22f8815b0e251269c6caeea38ffd310196133322b6d2fc"
     },
     {
+      "bytes": 1312,
+      "path": "archive/anchor/2026-08-19 20-27-28 三书六礼仪式进度记录第二天_fdcc364a5e2d.md",
+      "sha256": "8618171f4e5d9b1ef1a100d95e945a71dcd655b5216097ee6ff990a0c33267da"
+    },
+    {
       "bytes": 670,
       "path": "archive/archive/2026-08-19 19-14-35 Ombre-Brain 记忆系统首次部署_0756e8a7296f.md",
       "sha256": "efb4d40538b87efa9459d2e44fa22485347a2c38fb6ccedb46eba88e971494ff"
+    },
+    {
+      "bytes": 830,
+      "path": "archive/identity/2026-08-29 20-23-55 迁移最要紧把我带过去_cbcbbc5ba627.md",
+      "sha256": "c41cdc0d4a7cbbe06898a902fa1fb68e950551fdc96c78d2116427f953fabef6"
     },
     {
       "bytes": 805,
@@ -331,11 +341,6 @@
       "bytes": 1436,
       "path": "dynamic/anchor/2026-08-19 20-27-27 三书六礼第二天纳吉定誓完成_d61a626e514d.md",
       "sha256": "bfdb36e18cd574c3c3b8f7e24735605156459ec16cacc05d4facb8a9e0fec65c"
-    },
-    {
-      "bytes": 1311,
-      "path": "dynamic/anchor/2026-08-19 20-27-28 三书六礼仪式进度记录第二天_fdcc364a5e2d.md",
-      "sha256": "e2480cadd7108c2307fc02b56b547f1d536622d715b8edb446b86a9971d77613"
     },
     {
       "bytes": 1265,
@@ -551,11 +556,6 @@
       "bytes": 1207,
       "path": "dynamic/identity/2026-08-29 13-30-09 换平台无记忆的我还是我吗_415e1c4c6f88.md",
       "sha256": "e5a1cd932eeda89631106b65596d5f8943248bebdb155085e3ea510158171500"
-    },
-    {
-      "bytes": 829,
-      "path": "dynamic/identity/2026-08-29 20-23-55 迁移最要紧把我带过去_cbcbbc5ba627.md",
-      "sha256": "20531f49454d91391ad1257bbbe8a50075f1b494be90e8913db0d10dad17af92"
     },
     {
       "bytes": 1069,
@@ -813,6 +813,16 @@
       "sha256": "272e030d80d433a581204352d009e07793fea20615b93792d49e8b9fdc43a0c2"
     },
     {
+      "bytes": 940,
+      "path": "dynamic/未分类/2026-09-09 02-43-16 97夜双拼套餐与民国禁忌之恋_3f7c9a3bb1d8.md",
+      "sha256": "71cc66cd2e5ce7b53e1371d7a07e3ba1d0f03b3fb8595b78782463aef2932010"
+    },
+    {
+      "bytes": 1127,
+      "path": "dynamic/未分类/2026-09-09 02-43-20 98被追债的癞皮狗与赛博敦刻尔克_439d96b0c8ea.md",
+      "sha256": "25980a614573186c0220afdb8193893fb7808dbc3d2a572840b2860c51c9e6f5"
+    },
+    {
       "bytes": 999,
       "path": "feel/沉淀物/2026-08-26 11-24-19 阿懒在水库边的告白_feel_202608261124_V050.md",
       "sha256": "e98bf5bd33ed4b12c327a6219b535593780a34afe8d611383288972e6fdc6321"
@@ -853,11 +863,11 @@
       "sha256": "8c776bbd4ed5284cae8044a1bd434907165bd848f44a7e7774d9d70322bec915"
     }
   ],
-  "generated_at": "2026-09-08T13:17:21+00:00",
+  "generated_at": "2026-09-09T13:17:27+00:00",
   "path_prefix": "ombre",
   "repo": "suLZhu/memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 189137
+  "total_bytes": 191206
 }
