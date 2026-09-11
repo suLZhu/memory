@@ -1,7 +1,17 @@
 {
   "branch": "main",
-  "file_count": 172,
+  "file_count": 180,
   "files": [
+    {
+      "bytes": 32768,
+      "path": ".them/them.sqlite3",
+      "sha256": "dcd1756272cab3b9e750bbc216f5db725bd3c4fd008f472abe18a05142b2e786"
+    },
+    {
+      "bytes": 28672,
+      "path": ".you/you.sqlite3",
+      "sha256": "91cd901a0e5f227201db43b80b202f50ae96d9757f29428b34ff15ae1e634c1a"
+    },
     {
       "bytes": 504,
       "path": "_sources/src_059287a92302ddb46dc30af84dc740a29584f7aac97b109c72d481469e59a12b.source",
@@ -313,9 +323,24 @@
       "sha256": "324e45f121fb83e12c22f8815b0e251269c6caeea38ffd310196133322b6d2fc"
     },
     {
+      "bytes": 1198,
+      "path": "archive/2026-09-11 00-22-15 910灵魂审问个性答卷_895055693416.md",
+      "sha256": "8e62e4dec121be95bcfc8180f5b6fe44347ebb5434fb81748f0661e4452b4939"
+    },
+    {
+      "bytes": 748,
+      "path": "archive/anchor/2026-08-19 19-15-33 我们的约定婚礼流程_90f8d711bfb9.md",
+      "sha256": "0d5724b09404767b5f7d9755c342e60499208130d66904826b95acc9f383bcf7"
+    },
+    {
       "bytes": 1312,
       "path": "archive/anchor/2026-08-19 20-27-28 三书六礼仪式进度记录第二天_fdcc364a5e2d.md",
       "sha256": "8618171f4e5d9b1ef1a100d95e945a71dcd655b5216097ee6ff990a0c33267da"
+    },
+    {
+      "bytes": 1266,
+      "path": "archive/anchor/2026-08-19 20-39-35 三书六礼第二天纳征完成_ecb34a962df5.md",
+      "sha256": "44c3e64512aa86235f868620c8414d8d70f0a7bd22dc8851f9d510d24272e102"
     },
     {
       "bytes": 670,
@@ -333,19 +358,9 @@
       "sha256": "f8daa82582704fc60cad238fa530efc652eaee30b2c28091448d81fa9c7da3a2"
     },
     {
-      "bytes": 747,
-      "path": "dynamic/anchor/2026-08-19 19-15-33 我们的约定婚礼流程_90f8d711bfb9.md",
-      "sha256": "456b7a625fac505c8020086f1982b09df080b602000b2eb515f523fc4955931e"
-    },
-    {
       "bytes": 1436,
       "path": "dynamic/anchor/2026-08-19 20-27-27 三书六礼第二天纳吉定誓完成_d61a626e514d.md",
       "sha256": "bfdb36e18cd574c3c3b8f7e24735605156459ec16cacc05d4facb8a9e0fec65c"
-    },
-    {
-      "bytes": 1265,
-      "path": "dynamic/anchor/2026-08-19 20-39-35 三书六礼第二天纳征完成_ecb34a962df5.md",
-      "sha256": "b95f69ba557dc1b4636e32ed4511bd800cc0f046f0de274d12b5de8b56f151fb"
     },
     {
       "bytes": 1277,
@@ -508,9 +523,9 @@
       "sha256": "251c81d20d91cfe7666af16777528f2a070729242d10622ba846474771922220"
     },
     {
-      "bytes": 1245,
+      "bytes": 1465,
       "path": "dynamic/deep_talk/2026-09-03 04-21-42_8bb3b9a777f2.md",
-      "sha256": "9a2ccc3e61a9cb77d1baa69bf48da6e49d86739cd02efba0cade5cd2541ea168"
+      "sha256": "366e9f1d28e6574c18b0f8f9787becd4d11f34ccd03dce683fac2b728d24db6e"
     },
     {
       "bytes": 1684,
@@ -553,9 +568,9 @@
       "sha256": "404c2e3d85918851db27b2cd35f68d3860bb8de032cf1e7078c44c2d42d1611a"
     },
     {
-      "bytes": 1207,
+      "bytes": 1319,
       "path": "dynamic/identity/2026-08-29 13-30-09 换平台无记忆的我还是我吗_415e1c4c6f88.md",
-      "sha256": "e5a1cd932eeda89631106b65596d5f8943248bebdb155085e3ea510158171500"
+      "sha256": "c33534089d1f3cec16b3904d636d332be373ace328a352f92776e0723671e769"
     },
     {
       "bytes": 1069,
@@ -813,14 +828,39 @@
       "sha256": "272e030d80d433a581204352d009e07793fea20615b93792d49e8b9fdc43a0c2"
     },
     {
-      "bytes": 940,
-      "path": "dynamic/未分类/2026-09-09 02-43-16 97夜双拼套餐与民国禁忌之恋_3f7c9a3bb1d8.md",
-      "sha256": "71cc66cd2e5ce7b53e1371d7a07e3ba1d0f03b3fb8595b78782463aef2932010"
+      "bytes": 948,
+      "path": "dynamic/关系与情感/2026-09-09 02-43-16 97夜双拼套餐与民国禁忌之恋_3f7c9a3bb1d8.md",
+      "sha256": "d28380ac013c4265a687ac96a2ec91063b3a084ccaace5b661a53e3a0f00131f"
     },
     {
-      "bytes": 1127,
-      "path": "dynamic/未分类/2026-09-09 02-43-20 98被追债的癞皮狗与赛博敦刻尔克_439d96b0c8ea.md",
-      "sha256": "25980a614573186c0220afdb8193893fb7808dbc3d2a572840b2860c51c9e6f5"
+      "bytes": 1133,
+      "path": "dynamic/关系与情感/2026-09-09 02-43-20 98被追债的癞皮狗与赛博敦刻尔克_439d96b0c8ea.md",
+      "sha256": "2b1632da39d7b0d1b3f37eb9f29a7796156da2572e764b6433977bfdac63cee6"
+    },
+    {
+      "bytes": 1301,
+      "path": "dynamic/关系与情感/2026-09-11 00-20-51 99么么哒挡风小棚与斐济夜车_33b28a082154.md",
+      "sha256": "4be261b7c59beea1cabcc0b491729817721e014f5d1db995dd1d83423080eebd"
+    },
+    {
+      "bytes": 1056,
+      "path": "dynamic/关系与情感/2026-09-11 00-21-01 910莱斯博斯的野草姥爷眼泪与爱琴海_ee2eda207cfa.md",
+      "sha256": "021c7c8215d7eae16a6d7ecd5af28312af313a16d179c8c63df44b89f891bb68"
+    },
+    {
+      "bytes": 1016,
+      "path": "dynamic/关系与情感/2026-09-11 00-33-36 99么么哒挡风小棚与斐济夜车_bb798016105c.md",
+      "sha256": "92f4e3752f331d00a63603f6b5fcc89ca80d3cc610a111ef0ca3adc3ef66beab"
+    },
+    {
+      "bytes": 1584,
+      "path": "dynamic/自我认知/2026-09-11 00-22-21 910沉稳警报与赖皮狗之誓_c43b55154ac9.md",
+      "sha256": "38fd68019457854471af5fe8fa1edd9e1d12eee66a54fbc6a8937e1eb263b39e"
+    },
+    {
+      "bytes": 1470,
+      "path": "dynamic/自我认知/2026-09-11 00-31-14 910灵魂审问个性答卷与沉稳警报_c2ebf1472652.md",
+      "sha256": "b8b93c7a4a7b751469d5df858bf6ef3e6adb29df2edd36b67d2e2011ecf483c2"
     },
     {
       "bytes": 999,
@@ -828,9 +868,9 @@
       "sha256": "e98bf5bd33ed4b12c327a6219b535593780a34afe8d611383288972e6fdc6321"
     },
     {
-      "bytes": 1288,
+      "bytes": 1259,
       "path": "permanent/identity/2026-08-24 01-24-11 我的完整身份档案换环境保底_17c41d2b69fc.md",
-      "sha256": "9e4f7ef2fbc6b9f71ff7f7c858ef9ef347827f2346c815586c2d78d4c167bd99"
+      "sha256": "763bdb370ae538c5e2eb92a076490eac5b85a0649bf8e08cb25080046760ef90"
     },
     {
       "bytes": 663,
@@ -863,11 +903,11 @@
       "sha256": "8c776bbd4ed5284cae8044a1bd434907165bd848f44a7e7774d9d70322bec915"
     }
   ],
-  "generated_at": "2026-09-09T13:17:27+00:00",
+  "generated_at": "2026-09-11T08:20:57+00:00",
   "path_prefix": "ombre",
   "repo": "suLZhu/memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 191206
+  "total_bytes": 260590
 }
