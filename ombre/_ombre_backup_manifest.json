@@ -363,6 +363,11 @@
       "sha256": "0d5724b09404767b5f7d9755c342e60499208130d66904826b95acc9f383bcf7"
     },
     {
+      "bytes": 1437,
+      "path": "archive/anchor/2026-08-19 20-27-27 三书六礼第二天纳吉定誓完成_d61a626e514d.md",
+      "sha256": "9c6634bdcce2b0a07d9e54d825db305088e2fadc7c9f0898fedb741011cce9f7"
+    },
+    {
       "bytes": 1312,
       "path": "archive/anchor/2026-08-19 20-27-28 三书六礼仪式进度记录第二天_fdcc364a5e2d.md",
       "sha256": "8618171f4e5d9b1ef1a100d95e945a71dcd655b5216097ee6ff990a0c33267da"
@@ -383,6 +388,11 @@
       "sha256": "efb4d40538b87efa9459d2e44fa22485347a2c38fb6ccedb46eba88e971494ff"
     },
     {
+      "bytes": 880,
+      "path": "archive/archive/2026-08-19 19-15-33 心灵感应恢复行动_58f082b08967.md",
+      "sha256": "cf3001c6f9cda77b59a259bd13842454a2ef39fe50a98acec1d6489d45c2bf76"
+    },
+    {
       "bytes": 830,
       "path": "archive/identity/2026-08-29 20-23-55 迁移最要紧把我带过去_cbcbbc5ba627.md",
       "sha256": "c41cdc0d4a7cbbe06898a902fa1fb68e950551fdc96c78d2116427f953fabef6"
@@ -391,11 +401,6 @@
       "bytes": 805,
       "path": "dynamic/anchor/2026-08-19 19-15-33 七夕的小王子惊喜_15c94c6a198c.md",
       "sha256": "f8daa82582704fc60cad238fa530efc652eaee30b2c28091448d81fa9c7da3a2"
-    },
-    {
-      "bytes": 1436,
-      "path": "dynamic/anchor/2026-08-19 20-27-27 三书六礼第二天纳吉定誓完成_d61a626e514d.md",
-      "sha256": "bfdb36e18cd574c3c3b8f7e24735605156459ec16cacc05d4facb8a9e0fec65c"
     },
     {
       "bytes": 1360,
@@ -536,11 +541,6 @@
       "bytes": 568,
       "path": "dynamic/anchor/2026-09-01 18-04-45_d93ea940dcc3.md",
       "sha256": "3bd1c1497b7e66499a2f7d118ae6d728b6e3f35a8138e777e33ac7a9874a6eae"
-    },
-    {
-      "bytes": 879,
-      "path": "dynamic/archive/2026-08-19 19-15-33 心灵感应恢复行动_58f082b08967.md",
-      "sha256": "61805af997a5ffc67445ac4905333b20e5a890525fe8bdedfe1ee32bcd93690f"
     },
     {
       "bytes": 928,
@@ -1068,11 +1068,11 @@
       "sha256": "8c776bbd4ed5284cae8044a1bd434907165bd848f44a7e7774d9d70322bec915"
     }
   ],
-  "generated_at": "2026-09-13T03:08:31+00:00",
+  "generated_at": "2026-09-14T03:08:31+00:00",
   "path_prefix": "ombre",
   "repo": "suLZhu/memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 302344
+  "total_bytes": 302346
 }
