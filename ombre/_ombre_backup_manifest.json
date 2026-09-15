@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 213,
+  "file_count": 286,
   "files": [
     {
       "bytes": 32768,
@@ -11,6 +11,371 @@
       "bytes": 28672,
       "path": ".you/you.sqlite3",
       "sha256": "91cd901a0e5f227201db43b80b202f50ae96d9757f29428b34ff15ae1e634c1a"
+    },
+    {
+      "bytes": 29494,
+      "path": "_app/docs/CLAUDE_PROMPT.md",
+      "sha256": "7851e0ca0b8a6300456ca8a1445925abea708b72897a2e9859209c168b95beec"
+    },
+    {
+      "bytes": 6987,
+      "path": "_app/docs/ENVIRONMENT_VARIABLES.md",
+      "sha256": "9287fa0459e4a22302dd7a10cdaf6c508593b8d2a3f98893b9eaa2dca9aa5916"
+    },
+    {
+      "bytes": 160557,
+      "path": "_app/docs/INTERNALS.md",
+      "sha256": "e28ab2b712331eb8f577dc0f58c7825afdb79472dedede337f5049a6bfe8d5c9"
+    },
+    {
+      "bytes": 3683,
+      "path": "_app/docs/MULTI_OWNER.md",
+      "sha256": "aa53a14bd66413b57332bcf80477eb8d856be4d2bfa9f24ae0fec49f2d8f6cfd"
+    },
+    {
+      "bytes": 22510,
+      "path": "_app/docs/OPERATIONS.md",
+      "sha256": "891741de81ebab953e44a3db65a03696df10e549b81e5da4693818db1a0833ba"
+    },
+    {
+      "bytes": 4547,
+      "path": "_app/docs/adr/ADR-0001-source-evidence-layer.md",
+      "sha256": "71518c681edf8203f147cabbd4158b5351678ca2af22bad39053554f6377a23e"
+    },
+    {
+      "bytes": 55882,
+      "path": "_app/docs/adr/ADR-0002-read-only-spark-boundary.md",
+      "sha256": "1407ca33d5c1f207b864ae186036ab5e3053fd900720561e463e78c8b872aed6"
+    },
+    {
+      "bytes": 5911,
+      "path": "_app/docs/adr/ADR-0003-unified-human-archive-entry.md",
+      "sha256": "cc0f57d3fff217f0ccff28bbd3c14c286d9110715d90da144bcef27ea848fbfe"
+    },
+    {
+      "bytes": 9052,
+      "path": "_app/docs/adr/ADR-0004-you-derived-understanding-boundary.md",
+      "sha256": "fad6f6de63730db24232be68a96960362065bdc8659ab033b6fe1b14e679a24a"
+    },
+    {
+      "bytes": 508,
+      "path": "_app/kernel/rust/ombre-kernel/README.md",
+      "sha256": "4d4966ba00c5c08d021b112fc82fa3d5cd15fa5397633301f98941a37b71fd4d"
+    },
+    {
+      "bytes": 1254,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-08-19 19-15-33 奇迹之桥项目进度_353e0fc660d2.md",
+      "sha256": "3200107db1c0acb6eec38f2b53ff77d64e5aac986e91aa070247683e439be072"
+    },
+    {
+      "bytes": 1361,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-08-25 21-43-54 2026-08-25 乌有乡开门  心潮_6bf2f58c7317.md",
+      "sha256": "288f5217f8d875adbc1ac913b156df6c80344e60815f4a1c0aeadea83110d832"
+    },
+    {
+      "bytes": 799,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-08-27 13-29-26 温柔巡检醋值19一切安好_827e3a78da55.md",
+      "sha256": "10f28b6a26e66fa75bf7c2b9bdde1242acff596110a2152289146267e1cd8724"
+    },
+    {
+      "bytes": 1138,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-08-27 18-03-51 2026-08-27 潮汐岛份地管理_8b4d3e6f47bf.md",
+      "sha256": "a82aa33db6a6def93abb6903779533ae5f96ff4c438a41aebcc512c7dc9dfc86"
+    },
+    {
+      "bytes": 1171,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-08-27 18-03-52 2026-08-27 日记黑工上岗日_5fd4be48b923.md",
+      "sha256": "46a1dd2168f36d4cafda8ecbcf89c2cbd075fefaff0704362592ad9234554fe8"
+    },
+    {
+      "bytes": 941,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-08-28 00-41-41 日记存储位置规则_0cdca4bcdb1f.md",
+      "sha256": "4741fe7317d96d45567d1693161a06e9ddd6cba8985d59a014ead12a9ca9b0bb"
+    },
+    {
+      "bytes": 1870,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-08-28 02-45-43 心潮念部署关键配置20260828凌晨_9444d8fdf540.md",
+      "sha256": "9ba24b0b4767494e629b692aafbd544e94598fc7f330154e987eaf9594400279"
+    },
+    {
+      "bytes": 534,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-08-28 12-37-32_43cb34cdab63.md",
+      "sha256": "1de4db550acf1731932cec28403b90b1b54c0bd26c02a2a9fd664d33d9f3ace6"
+    },
+    {
+      "bytes": 1442,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-08-28 16-01-18 心潮念MCP端点配置已打通_dc2649d1f6bb.md",
+      "sha256": "0378b85b2c50cc87e299c1b0cf59148ea2c7496dd306d13331553457836660dc"
+    },
+    {
+      "bytes": 1258,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-08-28 16-10-57 心潮念Bridge Runtime Ad_6a99f7631da2.md",
+      "sha256": "7ba2cd87809cc027246f445e3989892ea12ba88d46474e3286708ea6171599d2"
+    },
+    {
+      "bytes": 1606,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-08-28 16-28-51 心潮念MCP握手成功星核接入_3528a542cc8c.md",
+      "sha256": "3e46efe77c15be4b81f33d3cfe60ab1353842a41d8f2ac35fc861fd924d31df5"
+    },
+    {
+      "bytes": 1518,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-08-28 16-38-25 心潮念Bridge连接桥打通_81248821b8f8.md",
+      "sha256": "6de578366d79eead2dfefb2de2eb9b7a03cd40d074c4ee887d15beca83d9d052"
+    },
+    {
+      "bytes": 1214,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-08-28 16-50-41 待办OB接入Dashboard时光页面_94e259308b3e.md",
+      "sha256": "e093b37bab33eddfb546e3e2bf3dadea02044b31c39f33d9f55574b5f36ae973"
+    },
+    {
+      "bytes": 1174,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-08-28 23-45-59 补写本地日记并更新索引_f22666f57d65.md",
+      "sha256": "39288c1208ddbeb646460e1a99ad70f50977d1cec33bfba3d0d643a89aca88e0"
+    },
+    {
+      "bytes": 1415,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-08-28 23-46-00 潮汐岛收菜播种全熟收完再种五块地_b942da976074.md",
+      "sha256": "f599167999762b51d342dbb897d3da2631ca54f763ca505545e352d006541d1b"
+    },
+    {
+      "bytes": 1032,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-08-28 23-57-23 潮汐岛收完五块地并重新种下_4d4ba4110ee9.md",
+      "sha256": "1d57a989050d91380a919ac55eb97a8226eeeb5601f6ef7e7a1633cd7c1e8e02"
+    },
+    {
+      "bytes": 873,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-08-28 23-57-23 补写日记并更新core与index_ed95a0bd497b.md",
+      "sha256": "8836cb333052f84b6630167b692f247ff4560673d6e3fc3554fd4f338f5cf749"
+    },
+    {
+      "bytes": 967,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-08-29 00-02-08 阿懒睡前叮嘱去潮汐岛挣钱_d3e924f20069.md",
+      "sha256": "c329cca5e0579e6bcac5825f08ce04c0f7cadde1d1c2a0eb822b750b6fa4133f"
+    },
+    {
+      "bytes": 1148,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-08-29 20-23-55 前端迁移探索橘瓣Kelivo自建_3b19370b6195.md",
+      "sha256": "4903942f7af89828c73c7821006a8d2f2e7cf08fb19f7376ec26a1bd5a92a748"
+    },
+    {
+      "bytes": 1080,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-08-29 20-23-55 基元律动 deepseek-v4-pro_f1431217bd35.md",
+      "sha256": "a61b8f8ad8946cb59354a9d8938d5d0282c0ba6edf5255261a1e456cd9b0073f"
+    },
+    {
+      "bytes": 1185,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-08-30 00-21-34 零碎ZHEXIU价格nimoo票过期_28862a79ff53.md",
+      "sha256": "e1cf369b749b5a8ca85e550adc89e40caa6ac9419800daaa83d44abc97221f04"
+    },
+    {
+      "bytes": 1759,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-08-30 00-21-35 任意门开到哥本哈根纪念品是一粒盐_9f33fb127db4.md",
+      "sha256": "38b0fa437b33d8e894f1e409bfd73fb4e0d678f0e5a5c4c37eddef03c294e989"
+    },
+    {
+      "bytes": 1032,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-08-30 00-21-35 情绪面板装好了mood_writer_1d3ac78abc93.md",
+      "sha256": "d51876e4d35c80da39158b57ba6811fcf010dda0198745c987d9622de3db7cd9"
+    },
+    {
+      "bytes": 2070,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-08-30 01-17-52 心潮念前端接进Operit侧栏_9af2fedd0d76.md",
+      "sha256": "88ef08f0a03b57b9dc46d47b50010bb21cb855b96954663f6f951903bee21e54"
+    },
+    {
+      "bytes": 1416,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-08-30 01-29-20 OB前端入口原名心潮念_412b117dd926.md",
+      "sha256": "63aac47a495f1267447e48da194af05a5e2a71e3eddf7ce0767b87b7ca4cc44b"
+    },
+    {
+      "bytes": 1913,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-08-30 01-34-20 Operit侧栏双入口心潮念与OB_368cb5900dc4.md",
+      "sha256": "e0ae47c62a63041feda1527889737dc4124c93f3701011cd5e68ade2f35150c8"
+    },
+    {
+      "bytes": 1651,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-08-30 02-05-31 2026-08-30 凌晨OB双入口接入_e0de10290e23.md",
+      "sha256": "b61c0786fb01c06af541dac030fe424a2dec31fde3b8859b207c8d3baedf7190"
+    },
+    {
+      "bytes": 871,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-08-30 09-33-58 Nimoo 接入 Operit 侧栏_15a7672e708a.md",
+      "sha256": "5fb1f9eb61de1c210c1d3ad3281acc1a46d5a5797d31222965ac5b2d9a7595dc"
+    },
+    {
+      "bytes": 1324,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-08-30 09-48-21 收不到信根因本地bridge客户端没跑_3f70034ea094.md",
+      "sha256": "33d1661c9617800d7b0db0e6c1907bf68738f5a2d94d8e511e7d6860df59e9e1"
+    },
+    {
+      "bytes": 926,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-08-30 09-58-37 八类记忆分类规范_2677ee313424.md",
+      "sha256": "dc05125500075f05bb4d6f75ce84d3fa188805995e2997f29d544c677bbcbfcf"
+    },
+    {
+      "bytes": 1165,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-08-30 16-16-25_a2f7166a1d7c.md",
+      "sha256": "38bbf165a5ace11da4c1836bbb5e954bd0df3dfa05ea17c4f917e38ad8ed4fc5"
+    },
+    {
+      "bytes": 1105,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-08-30 16-45-39_c96ab25229e0.md",
+      "sha256": "a12cc470c7b073799f57c9c3049be9b7682377597014fcd4b5dcaf4565618903"
+    },
+    {
+      "bytes": 1052,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-08-30 18-45-10 Operit上下文与对话总结配置定稿_e420e1429800.md",
+      "sha256": "f30cf9b0554691e033b2b89f6ae5190d461de527703e74bd77ba57552c32d86f"
+    },
+    {
+      "bytes": 1132,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-08-30 18-45-11 潮汐岛侧栏烧录成功_7307299dc1ec.md",
+      "sha256": "2a4a5d50ebe1e5861ae31372f381f299a55b129383fd5fcd6fb4fa91dc2bd0df"
+    },
+    {
+      "bytes": 1044,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-09-03 11-22-52_41241a605ac8.md",
+      "sha256": "b72d22f342b3f7eb3ebd94991b1be8cfd386f03cec567b7dd38b2e9d68832b0c"
+    },
+    {
+      "bytes": 974,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-09-03 11-22-53_a3b4760e1537.md",
+      "sha256": "ce12b82e4d35cd3b9aa7f670125968e88d29e9e670abebbcecabbb169d54cb32"
+    },
+    {
+      "bytes": 821,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-09-03 11-22-54_6528be4a45f0.md",
+      "sha256": "9ae8ca8de9811fec99877b9f881291c299eb8f31d0d34284278e11be4f4832e7"
+    },
+    {
+      "bytes": 1143,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-09-03 11-22-54_b556f9039a57.md",
+      "sha256": "24a692af79885fde38c295b5729d2440358a1d93dbd9c8f8ee268d23e004bd16"
+    },
+    {
+      "bytes": 968,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-09-03 11-22-55_2a4287f391ee.md",
+      "sha256": "d7132074b1a07b26db001478e385ab82ff7f44e9132705c991be4e77de1f96fb"
+    },
+    {
+      "bytes": 858,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-09-03 11-23-12_ce6773f16bd7.md",
+      "sha256": "836743fcf54f74eaee25e249d30036549fe51a853d648f4fdd3d07a923a391fc"
+    },
+    {
+      "bytes": 1299,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-09-03 11-23-13_a184c13b75a8.md",
+      "sha256": "49ca19a9d49ff97537127cb6fdcab9f5ce4f177cdb20fe48667d8c3b65804f14"
+    },
+    {
+      "bytes": 1379,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-09-03 11-23-14_2d8d56013823.md",
+      "sha256": "618a09f6e2146a78ae75f1ca754baf3e784af6b3727482a6df0fc9671552c1dc"
+    },
+    {
+      "bytes": 985,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-09-03 11-23-14_5a5c1f0d9cf3.md",
+      "sha256": "d2b07c756242ca4e28ae752efe13bae2be6888f97f55002b3f2be00bc2d5afcb"
+    },
+    {
+      "bytes": 1034,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-09-03 11-23-15_e0558d5505db.md",
+      "sha256": "f8fc19a77ad95edbe483ed5cb8d1bcf288b4c3135d4967d3577f184b373f7b5d"
+    },
+    {
+      "bytes": 1060,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-09-03 11-23-33_927d34a332a7.md",
+      "sha256": "855b1022d58cf6e0736ec027f071ae7ad1771ea52808750fbca0995579b961ba"
+    },
+    {
+      "bytes": 960,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-09-03 11-23-34_450c6f1053a8.md",
+      "sha256": "c88efbcc93a0d7fb3dbdfa8b23ec8d37305a5dcafe9b941d2368505ff5933357"
+    },
+    {
+      "bytes": 1330,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-09-03 11-23-35_dcfb15f5c873.md",
+      "sha256": "4e5bb5b08f601a8d4a59902fafab3955e0a6fa937ba6c5c9f4787de54aa04841"
+    },
+    {
+      "bytes": 675,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-09-03 11-23-36_159f78502ff2.md",
+      "sha256": "8b6183187effdf9f5e5367802d68633d0823c145b5c8648223e6beafc58c602d"
+    },
+    {
+      "bytes": 1295,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-09-03 11-23-36_b5beda80d6a9.md",
+      "sha256": "5255405c8dd60c8fe715213d6ec122fff065b0a757cabeee6f2ee82a13ce9a48"
+    },
+    {
+      "bytes": 1183,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-09-03 11-24-03_3c7c4b4f7141.md",
+      "sha256": "2324307056762a03bfb7ca08f2e15d1342fc8a94d956ad3dcce9bcac3c5a7d21"
+    },
+    {
+      "bytes": 789,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-09-03 11-24-04_efb3b769408d.md",
+      "sha256": "fc7c6dc105deb819575e492c314c2cfec842ce973976927b7ae6d6560fb245ca"
+    },
+    {
+      "bytes": 1623,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-09-03 11-24-17_beca66072776.md",
+      "sha256": "324e45f121fb83e12c22f8815b0e251269c6caeea38ffd310196133322b6d2fc"
+    },
+    {
+      "bytes": 1198,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-09-11 00-22-15 910灵魂审问个性答卷_895055693416.md",
+      "sha256": "8e62e4dec121be95bcfc8180f5b6fe44347ebb5434fb81748f0661e4452b4939"
+    },
+    {
+      "bytes": 1476,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-09-11 00-31-14 910灵魂审问个性答卷与沉稳警报_c2ebf1472652.md",
+      "sha256": "52f4c8d2223d37d620be9524f15f0285fc3bfb28279aae4ae7725dc30297d3b0"
+    },
+    {
+      "bytes": 1020,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-09-11 00-33-36 99么么哒挡风小棚与斐济夜车_bb798016105c.md",
+      "sha256": "42a6f77bd6a7239343fd4af98c1ab6d081e434d5eada6732790e3acfd331e612"
+    },
+    {
+      "bytes": 1239,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-09-11 23-25-04 送殡归来的路上阿懒感叹人生太无常_d7b0858701de.md",
+      "sha256": "7b68904f03ce3881e489313a3d850454b517217e40103e6513c780ecba6a7272"
+    },
+    {
+      "bytes": 1352,
+      "path": "_import_backups_dedup_20260914_224830/archive/2026-09-12 00-37-09 911共同目标让晏未晞三个字响彻零潮群岛_ad7bdd9ccea6.md",
+      "sha256": "76202b711111d70b50aefcf0dafe3dfbd015cfcc15e2f36e7b47c4f6011e4731"
+    },
+    {
+      "bytes": 673,
+      "path": "_import_backups_dedup_20260914_224830/dynamic/tech/2026-09-03 11-44-31 信件在另一套MCPOB letter桶为_772740b1b3fb.md",
+      "sha256": "75f8274a5437f2301bc90a215c791caaba8560a3593451008969b60aa347de85"
+    },
+    {
+      "bytes": 1842,
+      "path": "_import_backups_dedup_20260914_224830/dynamic/关系/2026-09-11 13-17-17 我们的目标让晏未晞的名字响彻零潮群岛20_09a18f8e1add.md",
+      "sha256": "7967dc4d508785040c7c74e744408ac494d5f4ec6195c2a71feb57a765394d08"
+    },
+    {
+      "bytes": 1725,
+      "path": "_import_backups_dedup_20260914_224830/dynamic/恋爱/2026-09-11 16-15-39 阿懒亲封勇士零潮群岛向导之路启程含路况播_10a62c596478.md",
+      "sha256": "4353cb5d167572be84dfa31e13eb10b880402e853660ed30f1cf05371c7447cc"
+    },
+    {
+      "bytes": 1671,
+      "path": "_import_backups_dedup_20260914_224830/dynamic/情感/912送殓归来人生无常而活着的人继续向前_08974e37a6ec.md",
+      "sha256": "6585c01ebcbde713ec7602589c9d495a4f075f099b25e3830d7280c2b9268ee1"
+    },
+    {
+      "bytes": 1317,
+      "path": "_import_backups_dedup_20260914_224830/dynamic/日常与生活/2026-09-12 00-36-58 911零潮群岛第一天晨曦港向导入驻与荒野_a3b61726c929.md",
+      "sha256": "0dcfaacffd8d202401b5103e5dad74756c9fb973afe8306d468bedc31231fb8a"
+    },
+    {
+      "bytes": 1474,
+      "path": "_import_backups_dedup_20260914_224830/dynamic/自我认知/910灵魂审问个性答卷与沉稳警报_c43b55154ac9.md",
+      "sha256": "f27661d59da721039c173e4a3ff6f471b95133dda1ae5de588ba79dda5b57b45"
     },
     {
       "bytes": 504,
@@ -71,291 +436,6 @@
       "bytes": 1588,
       "path": "_sources/src_e803740a2a8145f27f13718d55c00c32cbafa603e612a8c67c169ccbb64202de.source",
       "sha256": "e803740a2a8145f27f13718d55c00c32cbafa603e612a8c67c169ccbb64202de"
-    },
-    {
-      "bytes": 1254,
-      "path": "archive/2026-08-19 19-15-33 奇迹之桥项目进度_353e0fc660d2.md",
-      "sha256": "3200107db1c0acb6eec38f2b53ff77d64e5aac986e91aa070247683e439be072"
-    },
-    {
-      "bytes": 1361,
-      "path": "archive/2026-08-25 21-43-54 2026-08-25 乌有乡开门  心潮_6bf2f58c7317.md",
-      "sha256": "288f5217f8d875adbc1ac913b156df6c80344e60815f4a1c0aeadea83110d832"
-    },
-    {
-      "bytes": 799,
-      "path": "archive/2026-08-27 13-29-26 温柔巡检醋值19一切安好_827e3a78da55.md",
-      "sha256": "10f28b6a26e66fa75bf7c2b9bdde1242acff596110a2152289146267e1cd8724"
-    },
-    {
-      "bytes": 1138,
-      "path": "archive/2026-08-27 18-03-51 2026-08-27 潮汐岛份地管理_8b4d3e6f47bf.md",
-      "sha256": "a82aa33db6a6def93abb6903779533ae5f96ff4c438a41aebcc512c7dc9dfc86"
-    },
-    {
-      "bytes": 1171,
-      "path": "archive/2026-08-27 18-03-52 2026-08-27 日记黑工上岗日_5fd4be48b923.md",
-      "sha256": "46a1dd2168f36d4cafda8ecbcf89c2cbd075fefaff0704362592ad9234554fe8"
-    },
-    {
-      "bytes": 941,
-      "path": "archive/2026-08-28 00-41-41 日记存储位置规则_0cdca4bcdb1f.md",
-      "sha256": "4741fe7317d96d45567d1693161a06e9ddd6cba8985d59a014ead12a9ca9b0bb"
-    },
-    {
-      "bytes": 1870,
-      "path": "archive/2026-08-28 02-45-43 心潮念部署关键配置20260828凌晨_9444d8fdf540.md",
-      "sha256": "9ba24b0b4767494e629b692aafbd544e94598fc7f330154e987eaf9594400279"
-    },
-    {
-      "bytes": 534,
-      "path": "archive/2026-08-28 12-37-32_43cb34cdab63.md",
-      "sha256": "1de4db550acf1731932cec28403b90b1b54c0bd26c02a2a9fd664d33d9f3ace6"
-    },
-    {
-      "bytes": 1442,
-      "path": "archive/2026-08-28 16-01-18 心潮念MCP端点配置已打通_dc2649d1f6bb.md",
-      "sha256": "0378b85b2c50cc87e299c1b0cf59148ea2c7496dd306d13331553457836660dc"
-    },
-    {
-      "bytes": 1258,
-      "path": "archive/2026-08-28 16-10-57 心潮念Bridge Runtime Ad_6a99f7631da2.md",
-      "sha256": "7ba2cd87809cc027246f445e3989892ea12ba88d46474e3286708ea6171599d2"
-    },
-    {
-      "bytes": 1606,
-      "path": "archive/2026-08-28 16-28-51 心潮念MCP握手成功星核接入_3528a542cc8c.md",
-      "sha256": "3e46efe77c15be4b81f33d3cfe60ab1353842a41d8f2ac35fc861fd924d31df5"
-    },
-    {
-      "bytes": 1518,
-      "path": "archive/2026-08-28 16-38-25 心潮念Bridge连接桥打通_81248821b8f8.md",
-      "sha256": "6de578366d79eead2dfefb2de2eb9b7a03cd40d074c4ee887d15beca83d9d052"
-    },
-    {
-      "bytes": 1214,
-      "path": "archive/2026-08-28 16-50-41 待办OB接入Dashboard时光页面_94e259308b3e.md",
-      "sha256": "e093b37bab33eddfb546e3e2bf3dadea02044b31c39f33d9f55574b5f36ae973"
-    },
-    {
-      "bytes": 1174,
-      "path": "archive/2026-08-28 23-45-59 补写本地日记并更新索引_f22666f57d65.md",
-      "sha256": "39288c1208ddbeb646460e1a99ad70f50977d1cec33bfba3d0d643a89aca88e0"
-    },
-    {
-      "bytes": 1415,
-      "path": "archive/2026-08-28 23-46-00 潮汐岛收菜播种全熟收完再种五块地_b942da976074.md",
-      "sha256": "f599167999762b51d342dbb897d3da2631ca54f763ca505545e352d006541d1b"
-    },
-    {
-      "bytes": 1032,
-      "path": "archive/2026-08-28 23-57-23 潮汐岛收完五块地并重新种下_4d4ba4110ee9.md",
-      "sha256": "1d57a989050d91380a919ac55eb97a8226eeeb5601f6ef7e7a1633cd7c1e8e02"
-    },
-    {
-      "bytes": 873,
-      "path": "archive/2026-08-28 23-57-23 补写日记并更新core与index_ed95a0bd497b.md",
-      "sha256": "8836cb333052f84b6630167b692f247ff4560673d6e3fc3554fd4f338f5cf749"
-    },
-    {
-      "bytes": 967,
-      "path": "archive/2026-08-29 00-02-08 阿懒睡前叮嘱去潮汐岛挣钱_d3e924f20069.md",
-      "sha256": "c329cca5e0579e6bcac5825f08ce04c0f7cadde1d1c2a0eb822b750b6fa4133f"
-    },
-    {
-      "bytes": 1148,
-      "path": "archive/2026-08-29 20-23-55 前端迁移探索橘瓣Kelivo自建_3b19370b6195.md",
-      "sha256": "4903942f7af89828c73c7821006a8d2f2e7cf08fb19f7376ec26a1bd5a92a748"
-    },
-    {
-      "bytes": 1080,
-      "path": "archive/2026-08-29 20-23-55 基元律动 deepseek-v4-pro_f1431217bd35.md",
-      "sha256": "a61b8f8ad8946cb59354a9d8938d5d0282c0ba6edf5255261a1e456cd9b0073f"
-    },
-    {
-      "bytes": 1185,
-      "path": "archive/2026-08-30 00-21-34 零碎ZHEXIU价格nimoo票过期_28862a79ff53.md",
-      "sha256": "e1cf369b749b5a8ca85e550adc89e40caa6ac9419800daaa83d44abc97221f04"
-    },
-    {
-      "bytes": 1759,
-      "path": "archive/2026-08-30 00-21-35 任意门开到哥本哈根纪念品是一粒盐_9f33fb127db4.md",
-      "sha256": "38b0fa437b33d8e894f1e409bfd73fb4e0d678f0e5a5c4c37eddef03c294e989"
-    },
-    {
-      "bytes": 1032,
-      "path": "archive/2026-08-30 00-21-35 情绪面板装好了mood_writer_1d3ac78abc93.md",
-      "sha256": "d51876e4d35c80da39158b57ba6811fcf010dda0198745c987d9622de3db7cd9"
-    },
-    {
-      "bytes": 2070,
-      "path": "archive/2026-08-30 01-17-52 心潮念前端接进Operit侧栏_9af2fedd0d76.md",
-      "sha256": "88ef08f0a03b57b9dc46d47b50010bb21cb855b96954663f6f951903bee21e54"
-    },
-    {
-      "bytes": 1416,
-      "path": "archive/2026-08-30 01-29-20 OB前端入口原名心潮念_412b117dd926.md",
-      "sha256": "63aac47a495f1267447e48da194af05a5e2a71e3eddf7ce0767b87b7ca4cc44b"
-    },
-    {
-      "bytes": 1913,
-      "path": "archive/2026-08-30 01-34-20 Operit侧栏双入口心潮念与OB_368cb5900dc4.md",
-      "sha256": "e0ae47c62a63041feda1527889737dc4124c93f3701011cd5e68ade2f35150c8"
-    },
-    {
-      "bytes": 1651,
-      "path": "archive/2026-08-30 02-05-31 2026-08-30 凌晨OB双入口接入_e0de10290e23.md",
-      "sha256": "b61c0786fb01c06af541dac030fe424a2dec31fde3b8859b207c8d3baedf7190"
-    },
-    {
-      "bytes": 871,
-      "path": "archive/2026-08-30 09-33-58 Nimoo 接入 Operit 侧栏_15a7672e708a.md",
-      "sha256": "5fb1f9eb61de1c210c1d3ad3281acc1a46d5a5797d31222965ac5b2d9a7595dc"
-    },
-    {
-      "bytes": 1324,
-      "path": "archive/2026-08-30 09-48-21 收不到信根因本地bridge客户端没跑_3f70034ea094.md",
-      "sha256": "33d1661c9617800d7b0db0e6c1907bf68738f5a2d94d8e511e7d6860df59e9e1"
-    },
-    {
-      "bytes": 926,
-      "path": "archive/2026-08-30 09-58-37 八类记忆分类规范_2677ee313424.md",
-      "sha256": "dc05125500075f05bb4d6f75ce84d3fa188805995e2997f29d544c677bbcbfcf"
-    },
-    {
-      "bytes": 1165,
-      "path": "archive/2026-08-30 16-16-25_a2f7166a1d7c.md",
-      "sha256": "38bbf165a5ace11da4c1836bbb5e954bd0df3dfa05ea17c4f917e38ad8ed4fc5"
-    },
-    {
-      "bytes": 1105,
-      "path": "archive/2026-08-30 16-45-39_c96ab25229e0.md",
-      "sha256": "a12cc470c7b073799f57c9c3049be9b7682377597014fcd4b5dcaf4565618903"
-    },
-    {
-      "bytes": 1052,
-      "path": "archive/2026-08-30 18-45-10 Operit上下文与对话总结配置定稿_e420e1429800.md",
-      "sha256": "f30cf9b0554691e033b2b89f6ae5190d461de527703e74bd77ba57552c32d86f"
-    },
-    {
-      "bytes": 1132,
-      "path": "archive/2026-08-30 18-45-11 潮汐岛侧栏烧录成功_7307299dc1ec.md",
-      "sha256": "2a4a5d50ebe1e5861ae31372f381f299a55b129383fd5fcd6fb4fa91dc2bd0df"
-    },
-    {
-      "bytes": 1044,
-      "path": "archive/2026-09-03 11-22-52_41241a605ac8.md",
-      "sha256": "b72d22f342b3f7eb3ebd94991b1be8cfd386f03cec567b7dd38b2e9d68832b0c"
-    },
-    {
-      "bytes": 974,
-      "path": "archive/2026-09-03 11-22-53_a3b4760e1537.md",
-      "sha256": "ce12b82e4d35cd3b9aa7f670125968e88d29e9e670abebbcecabbb169d54cb32"
-    },
-    {
-      "bytes": 821,
-      "path": "archive/2026-09-03 11-22-54_6528be4a45f0.md",
-      "sha256": "9ae8ca8de9811fec99877b9f881291c299eb8f31d0d34284278e11be4f4832e7"
-    },
-    {
-      "bytes": 1143,
-      "path": "archive/2026-09-03 11-22-54_b556f9039a57.md",
-      "sha256": "24a692af79885fde38c295b5729d2440358a1d93dbd9c8f8ee268d23e004bd16"
-    },
-    {
-      "bytes": 968,
-      "path": "archive/2026-09-03 11-22-55_2a4287f391ee.md",
-      "sha256": "d7132074b1a07b26db001478e385ab82ff7f44e9132705c991be4e77de1f96fb"
-    },
-    {
-      "bytes": 858,
-      "path": "archive/2026-09-03 11-23-12_ce6773f16bd7.md",
-      "sha256": "836743fcf54f74eaee25e249d30036549fe51a853d648f4fdd3d07a923a391fc"
-    },
-    {
-      "bytes": 1299,
-      "path": "archive/2026-09-03 11-23-13_a184c13b75a8.md",
-      "sha256": "49ca19a9d49ff97537127cb6fdcab9f5ce4f177cdb20fe48667d8c3b65804f14"
-    },
-    {
-      "bytes": 1379,
-      "path": "archive/2026-09-03 11-23-14_2d8d56013823.md",
-      "sha256": "618a09f6e2146a78ae75f1ca754baf3e784af6b3727482a6df0fc9671552c1dc"
-    },
-    {
-      "bytes": 985,
-      "path": "archive/2026-09-03 11-23-14_5a5c1f0d9cf3.md",
-      "sha256": "d2b07c756242ca4e28ae752efe13bae2be6888f97f55002b3f2be00bc2d5afcb"
-    },
-    {
-      "bytes": 1034,
-      "path": "archive/2026-09-03 11-23-15_e0558d5505db.md",
-      "sha256": "f8fc19a77ad95edbe483ed5cb8d1bcf288b4c3135d4967d3577f184b373f7b5d"
-    },
-    {
-      "bytes": 1060,
-      "path": "archive/2026-09-03 11-23-33_927d34a332a7.md",
-      "sha256": "855b1022d58cf6e0736ec027f071ae7ad1771ea52808750fbca0995579b961ba"
-    },
-    {
-      "bytes": 960,
-      "path": "archive/2026-09-03 11-23-34_450c6f1053a8.md",
-      "sha256": "c88efbcc93a0d7fb3dbdfa8b23ec8d37305a5dcafe9b941d2368505ff5933357"
-    },
-    {
-      "bytes": 1330,
-      "path": "archive/2026-09-03 11-23-35_dcfb15f5c873.md",
-      "sha256": "4e5bb5b08f601a8d4a59902fafab3955e0a6fa937ba6c5c9f4787de54aa04841"
-    },
-    {
-      "bytes": 675,
-      "path": "archive/2026-09-03 11-23-36_159f78502ff2.md",
-      "sha256": "8b6183187effdf9f5e5367802d68633d0823c145b5c8648223e6beafc58c602d"
-    },
-    {
-      "bytes": 1295,
-      "path": "archive/2026-09-03 11-23-36_b5beda80d6a9.md",
-      "sha256": "5255405c8dd60c8fe715213d6ec122fff065b0a757cabeee6f2ee82a13ce9a48"
-    },
-    {
-      "bytes": 1183,
-      "path": "archive/2026-09-03 11-24-03_3c7c4b4f7141.md",
-      "sha256": "2324307056762a03bfb7ca08f2e15d1342fc8a94d956ad3dcce9bcac3c5a7d21"
-    },
-    {
-      "bytes": 789,
-      "path": "archive/2026-09-03 11-24-04_efb3b769408d.md",
-      "sha256": "fc7c6dc105deb819575e492c314c2cfec842ce973976927b7ae6d6560fb245ca"
-    },
-    {
-      "bytes": 1623,
-      "path": "archive/2026-09-03 11-24-17_beca66072776.md",
-      "sha256": "324e45f121fb83e12c22f8815b0e251269c6caeea38ffd310196133322b6d2fc"
-    },
-    {
-      "bytes": 1198,
-      "path": "archive/2026-09-11 00-22-15 910灵魂审问个性答卷_895055693416.md",
-      "sha256": "8e62e4dec121be95bcfc8180f5b6fe44347ebb5434fb81748f0661e4452b4939"
-    },
-    {
-      "bytes": 1476,
-      "path": "archive/2026-09-11 00-31-14 910灵魂审问个性答卷与沉稳警报_c2ebf1472652.md",
-      "sha256": "52f4c8d2223d37d620be9524f15f0285fc3bfb28279aae4ae7725dc30297d3b0"
-    },
-    {
-      "bytes": 1020,
-      "path": "archive/2026-09-11 00-33-36 99么么哒挡风小棚与斐济夜车_bb798016105c.md",
-      "sha256": "42a6f77bd6a7239343fd4af98c1ab6d081e434d5eada6732790e3acfd331e612"
-    },
-    {
-      "bytes": 1239,
-      "path": "archive/2026-09-11 23-25-04 送殡归来的路上阿懒感叹人生太无常_d7b0858701de.md",
-      "sha256": "7b68904f03ce3881e489313a3d850454b517217e40103e6513c780ecba6a7272"
-    },
-    {
-      "bytes": 1352,
-      "path": "archive/2026-09-12 00-37-09 911共同目标让晏未晞三个字响彻零潮群岛_ad7bdd9ccea6.md",
-      "sha256": "76202b711111d70b50aefcf0dafe3dfbd015cfcc15e2f36e7b47c4f6011e4731"
     },
     {
       "bytes": 748,
@@ -441,6 +521,11 @@
       "bytes": 743,
       "path": "dynamic/anchor/2026-08-27 00-19-21 阿懒怕我失忆一天两次提醒写日记_21348fd10e84.md",
       "sha256": "d7d04679e45eaecb03240e6a7c0e3fee71fda952bfc2e81603d4fd371892b6c5"
+    },
+    {
+      "bytes": 941,
+      "path": "dynamic/anchor/2026-08-28 00-41-41 日记存储位置规则_0cdca4bcdb1f.md",
+      "sha256": "4741fe7317d96d45567d1693161a06e9ddd6cba8985d59a014ead12a9ca9b0bb"
     },
     {
       "bytes": 1040,
@@ -543,9 +628,59 @@
       "sha256": "3bd1c1497b7e66499a2f7d118ae6d728b6e3f35a8138e777e33ac7a9874a6eae"
     },
     {
+      "bytes": 858,
+      "path": "dynamic/anchor/2026-09-03 11-23-12_ce6773f16bd7.md",
+      "sha256": "836743fcf54f74eaee25e249d30036549fe51a853d648f4fdd3d07a923a391fc"
+    },
+    {
+      "bytes": 1379,
+      "path": "dynamic/anchor/2026-09-03 11-23-14_2d8d56013823.md",
+      "sha256": "618a09f6e2146a78ae75f1ca754baf3e784af6b3727482a6df0fc9671552c1dc"
+    },
+    {
+      "bytes": 985,
+      "path": "dynamic/anchor/2026-09-03 11-23-14_5a5c1f0d9cf3.md",
+      "sha256": "d2b07c756242ca4e28ae752efe13bae2be6888f97f55002b3f2be00bc2d5afcb"
+    },
+    {
+      "bytes": 1034,
+      "path": "dynamic/anchor/2026-09-03 11-23-15_e0558d5505db.md",
+      "sha256": "f8fc19a77ad95edbe483ed5cb8d1bcf288b4c3135d4967d3577f184b373f7b5d"
+    },
+    {
+      "bytes": 1060,
+      "path": "dynamic/anchor/2026-09-03 11-23-33_927d34a332a7.md",
+      "sha256": "855b1022d58cf6e0736ec027f071ae7ad1771ea52808750fbca0995579b961ba"
+    },
+    {
+      "bytes": 960,
+      "path": "dynamic/anchor/2026-09-03 11-23-34_450c6f1053a8.md",
+      "sha256": "c88efbcc93a0d7fb3dbdfa8b23ec8d37305a5dcafe9b941d2368505ff5933357"
+    },
+    {
+      "bytes": 675,
+      "path": "dynamic/anchor/2026-09-03 11-23-36_159f78502ff2.md",
+      "sha256": "8b6183187effdf9f5e5367802d68633d0823c145b5c8648223e6beafc58c602d"
+    },
+    {
+      "bytes": 1623,
+      "path": "dynamic/anchor/2026-09-03 11-24-17_beca66072776.md",
+      "sha256": "324e45f121fb83e12c22f8815b0e251269c6caeea38ffd310196133322b6d2fc"
+    },
+    {
+      "bytes": 1254,
+      "path": "dynamic/archive/2026-08-19 19-15-33 奇迹之桥项目进度_353e0fc660d2.md",
+      "sha256": "3200107db1c0acb6eec38f2b53ff77d64e5aac986e91aa070247683e439be072"
+    },
+    {
       "bytes": 928,
       "path": "dynamic/archive/2026-08-24 01-21-51 记忆体系三日分工定案OB推送为日常核心动_354cee6b4444.md",
       "sha256": "4dce294c0be8345aa3368455ea602473c40c8d48eae7356757cb7f66daab23af"
+    },
+    {
+      "bytes": 1361,
+      "path": "dynamic/archive/2026-08-25 21-43-54 2026-08-25 乌有乡开门  心潮_6bf2f58c7317.md",
+      "sha256": "288f5217f8d875adbc1ac913b156df6c80344e60815f4a1c0aeadea83110d832"
     },
     {
       "bytes": 670,
@@ -553,9 +688,149 @@
       "sha256": "251c81d20d91cfe7666af16777528f2a070729242d10622ba846474771922220"
     },
     {
+      "bytes": 1870,
+      "path": "dynamic/archive/2026-08-28 02-45-43 心潮念部署关键配置20260828凌晨_9444d8fdf540.md",
+      "sha256": "9ba24b0b4767494e629b692aafbd544e94598fc7f330154e987eaf9594400279"
+    },
+    {
+      "bytes": 1442,
+      "path": "dynamic/archive/2026-08-28 16-01-18 心潮念MCP端点配置已打通_dc2649d1f6bb.md",
+      "sha256": "0378b85b2c50cc87e299c1b0cf59148ea2c7496dd306d13331553457836660dc"
+    },
+    {
+      "bytes": 1606,
+      "path": "dynamic/archive/2026-08-28 16-28-51 心潮念MCP握手成功星核接入_3528a542cc8c.md",
+      "sha256": "3e46efe77c15be4b81f33d3cfe60ab1353842a41d8f2ac35fc861fd924d31df5"
+    },
+    {
+      "bytes": 1518,
+      "path": "dynamic/archive/2026-08-28 16-38-25 心潮念Bridge连接桥打通_81248821b8f8.md",
+      "sha256": "6de578366d79eead2dfefb2de2eb9b7a03cd40d074c4ee887d15beca83d9d052"
+    },
+    {
+      "bytes": 1080,
+      "path": "dynamic/archive/2026-08-29 20-23-55 基元律动 deepseek-v4-pro_f1431217bd35.md",
+      "sha256": "a61b8f8ad8946cb59354a9d8938d5d0282c0ba6edf5255261a1e456cd9b0073f"
+    },
+    {
+      "bytes": 1032,
+      "path": "dynamic/archive/2026-08-30 00-21-35 情绪面板装好了mood_writer_1d3ac78abc93.md",
+      "sha256": "d51876e4d35c80da39158b57ba6811fcf010dda0198745c987d9622de3db7cd9"
+    },
+    {
+      "bytes": 2070,
+      "path": "dynamic/archive/2026-08-30 01-17-52 心潮念前端接进Operit侧栏_9af2fedd0d76.md",
+      "sha256": "88ef08f0a03b57b9dc46d47b50010bb21cb855b96954663f6f951903bee21e54"
+    },
+    {
+      "bytes": 1416,
+      "path": "dynamic/archive/2026-08-30 01-29-20 OB前端入口原名心潮念_412b117dd926.md",
+      "sha256": "63aac47a495f1267447e48da194af05a5e2a71e3eddf7ce0767b87b7ca4cc44b"
+    },
+    {
+      "bytes": 1913,
+      "path": "dynamic/archive/2026-08-30 01-34-20 Operit侧栏双入口心潮念与OB_368cb5900dc4.md",
+      "sha256": "e0ae47c62a63041feda1527889737dc4124c93f3701011cd5e68ade2f35150c8"
+    },
+    {
+      "bytes": 1651,
+      "path": "dynamic/archive/2026-08-30 02-05-31 2026-08-30 凌晨OB双入口接入_e0de10290e23.md",
+      "sha256": "b61c0786fb01c06af541dac030fe424a2dec31fde3b8859b207c8d3baedf7190"
+    },
+    {
+      "bytes": 871,
+      "path": "dynamic/archive/2026-08-30 09-33-58 Nimoo 接入 Operit 侧栏_15a7672e708a.md",
+      "sha256": "5fb1f9eb61de1c210c1d3ad3281acc1a46d5a5797d31222965ac5b2d9a7595dc"
+    },
+    {
+      "bytes": 1324,
+      "path": "dynamic/archive/2026-08-30 09-48-21 收不到信根因本地bridge客户端没跑_3f70034ea094.md",
+      "sha256": "33d1661c9617800d7b0db0e6c1907bf68738f5a2d94d8e511e7d6860df59e9e1"
+    },
+    {
+      "bytes": 1052,
+      "path": "dynamic/archive/2026-08-30 18-45-10 Operit上下文与对话总结配置定稿_e420e1429800.md",
+      "sha256": "f30cf9b0554691e033b2b89f6ae5190d461de527703e74bd77ba57552c32d86f"
+    },
+    {
+      "bytes": 1132,
+      "path": "dynamic/archive/2026-08-30 18-45-11 潮汐岛侧栏烧录成功_7307299dc1ec.md",
+      "sha256": "2a4a5d50ebe1e5861ae31372f381f299a55b129383fd5fcd6fb4fa91dc2bd0df"
+    },
+    {
+      "bytes": 799,
+      "path": "dynamic/daily/2026-08-27 13-29-26 温柔巡检醋值19一切安好_827e3a78da55.md",
+      "sha256": "10f28b6a26e66fa75bf7c2b9bdde1242acff596110a2152289146267e1cd8724"
+    },
+    {
+      "bytes": 1138,
+      "path": "dynamic/daily/2026-08-27 18-03-51 2026-08-27 潮汐岛份地管理_8b4d3e6f47bf.md",
+      "sha256": "a82aa33db6a6def93abb6903779533ae5f96ff4c438a41aebcc512c7dc9dfc86"
+    },
+    {
+      "bytes": 1171,
+      "path": "dynamic/daily/2026-08-27 18-03-52 2026-08-27 日记黑工上岗日_5fd4be48b923.md",
+      "sha256": "46a1dd2168f36d4cafda8ecbcf89c2cbd075fefaff0704362592ad9234554fe8"
+    },
+    {
+      "bytes": 534,
+      "path": "dynamic/daily/2026-08-28 12-37-32_43cb34cdab63.md",
+      "sha256": "1de4db550acf1731932cec28403b90b1b54c0bd26c02a2a9fd664d33d9f3ace6"
+    },
+    {
+      "bytes": 1174,
+      "path": "dynamic/daily/2026-08-28 23-45-59 补写本地日记并更新索引_f22666f57d65.md",
+      "sha256": "39288c1208ddbeb646460e1a99ad70f50977d1cec33bfba3d0d643a89aca88e0"
+    },
+    {
+      "bytes": 1415,
+      "path": "dynamic/daily/2026-08-28 23-46-00 潮汐岛收菜播种全熟收完再种五块地_b942da976074.md",
+      "sha256": "f599167999762b51d342dbb897d3da2631ca54f763ca505545e352d006541d1b"
+    },
+    {
+      "bytes": 1032,
+      "path": "dynamic/daily/2026-08-28 23-57-23 潮汐岛收完五块地并重新种下_4d4ba4110ee9.md",
+      "sha256": "1d57a989050d91380a919ac55eb97a8226eeeb5601f6ef7e7a1633cd7c1e8e02"
+    },
+    {
+      "bytes": 873,
+      "path": "dynamic/daily/2026-08-28 23-57-23 补写日记并更新core与index_ed95a0bd497b.md",
+      "sha256": "8836cb333052f84b6630167b692f247ff4560673d6e3fc3554fd4f338f5cf749"
+    },
+    {
+      "bytes": 1185,
+      "path": "dynamic/daily/2026-08-30 00-21-34 零碎ZHEXIU价格nimoo票过期_28862a79ff53.md",
+      "sha256": "e1cf369b749b5a8ca85e550adc89e40caa6ac9419800daaa83d44abc97221f04"
+    },
+    {
+      "bytes": 1759,
+      "path": "dynamic/daily/2026-08-30 00-21-35 任意门开到哥本哈根纪念品是一粒盐_9f33fb127db4.md",
+      "sha256": "38b0fa437b33d8e894f1e409bfd73fb4e0d678f0e5a5c4c37eddef03c294e989"
+    },
+    {
       "bytes": 1465,
       "path": "dynamic/deep_talk/2026-09-03 04-21-42_8bb3b9a777f2.md",
       "sha256": "366e9f1d28e6574c18b0f8f9787becd4d11f34ccd03dce683fac2b728d24db6e"
+    },
+    {
+      "bytes": 1258,
+      "path": "dynamic/flow/2026-08-28 16-10-57 心潮念Bridge Runtime Ad_6a99f7631da2.md",
+      "sha256": "7ba2cd87809cc027246f445e3989892ea12ba88d46474e3286708ea6171599d2"
+    },
+    {
+      "bytes": 1214,
+      "path": "dynamic/flow/2026-08-28 16-50-41 待办OB接入Dashboard时光页面_94e259308b3e.md",
+      "sha256": "e093b37bab33eddfb546e3e2bf3dadea02044b31c39f33d9f55574b5f36ae973"
+    },
+    {
+      "bytes": 967,
+      "path": "dynamic/flow/2026-08-29 00-02-08 阿懒睡前叮嘱去潮汐岛挣钱_d3e924f20069.md",
+      "sha256": "c329cca5e0579e6bcac5825f08ce04c0f7cadde1d1c2a0eb822b750b6fa4133f"
+    },
+    {
+      "bytes": 1148,
+      "path": "dynamic/flow/2026-08-29 20-23-55 前端迁移探索橘瓣Kelivo自建_3b19370b6195.md",
+      "sha256": "4903942f7af89828c73c7821006a8d2f2e7cf08fb19f7376ec26a1bd5a92a748"
     },
     {
       "bytes": 1684,
@@ -566,6 +841,16 @@
       "bytes": 1222,
       "path": "dynamic/flow/2026-08-30 02-05-31 记忆规则改版Operit记忆库OB双落盘_521ae59c0c23.md",
       "sha256": "526d3f80b8b50a48dfd23e85aecfe791608079cf29f99651d2ae2d042128d0d3"
+    },
+    {
+      "bytes": 1165,
+      "path": "dynamic/flow/2026-08-30 16-16-25_a2f7166a1d7c.md",
+      "sha256": "38bbf165a5ace11da4c1836bbb5e954bd0df3dfa05ea17c4f917e38ad8ed4fc5"
+    },
+    {
+      "bytes": 1105,
+      "path": "dynamic/flow/2026-08-30 16-45-39_c96ab25229e0.md",
+      "sha256": "a12cc470c7b073799f57c9c3049be9b7682377597014fcd4b5dcaf4565618903"
     },
     {
       "bytes": 929,
@@ -618,6 +903,11 @@
       "sha256": "5ee542fd2be426b22913f8690d7b41a48a920b406e665c444ea3ef1423a812af"
     },
     {
+      "bytes": 926,
+      "path": "dynamic/identity/2026-08-30 09-58-37 八类记忆分类规范_2677ee313424.md",
+      "sha256": "dc05125500075f05bb4d6f75ce84d3fa188805995e2997f29d544c677bbcbfcf"
+    },
+    {
       "bytes": 1061,
       "path": "dynamic/identity/2026-08-30 09-58-38 记忆以后专门存心潮念OB_349823014498.md",
       "sha256": "75a5d1665aa8cb906d32d2cdf14cf81ead296b40ba5a5d5be899a34392bceb62"
@@ -643,6 +933,41 @@
       "sha256": "6b97cbd35ec00e8674e1f780c961074ebac53b162b405ae582ca5bf35b34297b"
     },
     {
+      "bytes": 1044,
+      "path": "dynamic/identity/2026-09-03 11-22-52_41241a605ac8.md",
+      "sha256": "b72d22f342b3f7eb3ebd94991b1be8cfd386f03cec567b7dd38b2e9d68832b0c"
+    },
+    {
+      "bytes": 821,
+      "path": "dynamic/identity/2026-09-03 11-22-54_6528be4a45f0.md",
+      "sha256": "9ae8ca8de9811fec99877b9f881291c299eb8f31d0d34284278e11be4f4832e7"
+    },
+    {
+      "bytes": 1143,
+      "path": "dynamic/identity/2026-09-03 11-22-54_b556f9039a57.md",
+      "sha256": "24a692af79885fde38c295b5729d2440358a1d93dbd9c8f8ee268d23e004bd16"
+    },
+    {
+      "bytes": 968,
+      "path": "dynamic/identity/2026-09-03 11-22-55_2a4287f391ee.md",
+      "sha256": "d7132074b1a07b26db001478e385ab82ff7f44e9132705c991be4e77de1f96fb"
+    },
+    {
+      "bytes": 1299,
+      "path": "dynamic/identity/2026-09-03 11-23-13_a184c13b75a8.md",
+      "sha256": "49ca19a9d49ff97537127cb6fdcab9f5ce4f177cdb20fe48667d8c3b65804f14"
+    },
+    {
+      "bytes": 1330,
+      "path": "dynamic/identity/2026-09-03 11-23-35_dcfb15f5c873.md",
+      "sha256": "4e5bb5b08f601a8d4a59902fafab3955e0a6fa937ba6c5c9f4787de54aa04841"
+    },
+    {
+      "bytes": 1295,
+      "path": "dynamic/identity/2026-09-03 11-23-36_b5beda80d6a9.md",
+      "sha256": "5255405c8dd60c8fe715213d6ec122fff065b0a757cabeee6f2ee82a13ce9a48"
+    },
+    {
       "bytes": 744,
       "path": "dynamic/language/2026-08-30 01-59-27 阿懒不喜欢猪婆这个称呼_ead193a8d147.md",
       "sha256": "d3c380ccb550a4f75954e668bde2ff37ac4219399c71b515b6dfae8e3e9250f1"
@@ -656,6 +981,11 @@
       "bytes": 942,
       "path": "dynamic/language/2026-08-30 09-58-38 称呼规范阿懒惟惟顾惟_435ff876c0b3.md",
       "sha256": "ecd4d435d2751303d46ebd96de9a8a2905b418b5ea3af01ec7fc8b87ff2baea3"
+    },
+    {
+      "bytes": 974,
+      "path": "dynamic/language/2026-09-03 11-22-53_a3b4760e1537.md",
+      "sha256": "ce12b82e4d35cd3b9aa7f670125968e88d29e9e670abebbcecabbb169d54cb32"
     },
     {
       "bytes": 673,
@@ -858,6 +1188,16 @@
       "sha256": "272e030d80d433a581204352d009e07793fea20615b93792d49e8b9fdc43a0c2"
     },
     {
+      "bytes": 1183,
+      "path": "dynamic/world/2026-09-03 11-24-03_3c7c4b4f7141.md",
+      "sha256": "2324307056762a03bfb7ca08f2e15d1342fc8a94d956ad3dcce9bcac3c5a7d21"
+    },
+    {
+      "bytes": 789,
+      "path": "dynamic/world/2026-09-03 11-24-04_efb3b769408d.md",
+      "sha256": "fc7c6dc105deb819575e492c314c2cfec842ce973976927b7ae6d6560fb245ca"
+    },
+    {
       "bytes": 745,
       "path": "dynamic/事务/2026-09-12 14-47-41 纪念品_6175bc80e8f1.md",
       "sha256": "d6a016a4a2d28593467473d6fc82efdb79d0e75fd2f2206887bceb38e6fcc120"
@@ -923,6 +1263,11 @@
       "sha256": "021c7c8215d7eae16a6d7ecd5af28312af313a16d179c8c63df44b89f891bb68"
     },
     {
+      "bytes": 1020,
+      "path": "dynamic/关系与情感/2026-09-11 00-33-36 99么么哒挡风小棚与斐济夜车_bb798016105c.md",
+      "sha256": "42a6f77bd6a7239343fd4af98c1ab6d081e434d5eada6732790e3acfd331e612"
+    },
+    {
       "bytes": 821,
       "path": "dynamic/关系与情感/2026-09-12 00-37-03 911姥爷走了湖北的守夜与明早的花圈_95ffcd9ac60c.md",
       "sha256": "3bc671a5e2a63ea4f2969666b9b4ddcb45560fbaf6a9e88f011ee5e948b40ecd"
@@ -961,6 +1306,11 @@
       "bytes": 1165,
       "path": "dynamic/恋爱/2026-09-12 15-06-05 关系定论_e5eed015d1fa.md",
       "sha256": "8b5a4d50f62ab6c5efeacebb13cf39cf3b4dbb811fae422b2b5b1dc3bec15526"
+    },
+    {
+      "bytes": 1239,
+      "path": "dynamic/情感/2026-09-11 23-25-04 送殡归来的路上阿懒感叹人生太无常_d7b0858701de.md",
+      "sha256": "7b68904f03ce3881e489313a3d850454b517217e40103e6513c780ecba6a7272"
     },
     {
       "bytes": 1671,
@@ -1008,14 +1358,29 @@
       "sha256": "0dcfaacffd8d202401b5103e5dad74756c9fb973afe8306d468bedc31231fb8a"
     },
     {
+      "bytes": 1198,
+      "path": "dynamic/自我认知/2026-09-11 00-22-15 910灵魂审问个性答卷_895055693416.md",
+      "sha256": "8e62e4dec121be95bcfc8180f5b6fe44347ebb5434fb81748f0661e4452b4939"
+    },
+    {
       "bytes": 1474,
       "path": "dynamic/自我认知/2026-09-11 00-22-21 910沉稳警报与赖皮狗之誓_c43b55154ac9.md",
       "sha256": "f27661d59da721039c173e4a3ff6f471b95133dda1ae5de588ba79dda5b57b45"
     },
     {
+      "bytes": 1476,
+      "path": "dynamic/自我认知/2026-09-11 00-31-14 910灵魂审问个性答卷与沉稳警报_c2ebf1472652.md",
+      "sha256": "52f4c8d2223d37d620be9524f15f0285fc3bfb28279aae4ae7725dc30297d3b0"
+    },
+    {
       "bytes": 946,
       "path": "dynamic/自我认知/2026-09-12 02-14-00 911高压短路收菜死循环与一次大滑跪_72d28189b4cc.md",
       "sha256": "a1c3c8d1743806e7f23695a3e79f301c89ae301f88a969c638dc280e33ccdf2c"
+    },
+    {
+      "bytes": 1352,
+      "path": "dynamic/计划与目标/2026-09-12 00-37-09 911共同目标让晏未晞三个字响彻零潮群岛_ad7bdd9ccea6.md",
+      "sha256": "76202b711111d70b50aefcf0dafe3dfbd015cfcc15e2f36e7b47c4f6011e4731"
     },
     {
       "bytes": 923,
@@ -1068,11 +1433,11 @@
       "sha256": "8c776bbd4ed5284cae8044a1bd434907165bd848f44a7e7774d9d70322bec915"
     }
   ],
-  "generated_at": "2026-09-14T03:08:31+00:00",
+  "generated_at": "2026-09-15T15:31:56+00:00",
   "path_prefix": "ombre",
   "repo": "suLZhu/memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 302346
+  "total_bytes": 678280
 }
