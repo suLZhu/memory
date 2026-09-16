@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 286,
+  "file_count": 291,
   "files": [
     {
       "bytes": 32768,
@@ -438,6 +438,16 @@
       "sha256": "e803740a2a8145f27f13718d55c00c32cbafa603e612a8c67c169ccbb64202de"
     },
     {
+      "bytes": 1471,
+      "path": "archive/2026-08-30 09-58-38 记忆以后专门存心潮念OB_349823014498.md",
+      "sha256": "fa743078c44d1c1a47f8ec87ebf9aa88b990a1cf595ea1a25beee9d882d043da"
+    },
+    {
+      "bytes": 1364,
+      "path": "archive/2026-09-12 00-37-09 911共同目标让晏未晞三个字响彻零潮群岛_ad7bdd9ccea6.md",
+      "sha256": "5e1cdab2d2604427db58b4d8e45d9a6588273a4044779a50c6902052515cfb68"
+    },
+    {
       "bytes": 748,
       "path": "archive/anchor/2026-08-19 19-15-33 我们的约定婚礼流程_90f8d711bfb9.md",
       "sha256": "0d5724b09404767b5f7d9755c342e60499208130d66904826b95acc9f383bcf7"
@@ -833,9 +843,9 @@
       "sha256": "4903942f7af89828c73c7821006a8d2f2e7cf08fb19f7376ec26a1bd5a92a748"
     },
     {
-      "bytes": 1684,
+      "bytes": 1782,
       "path": "dynamic/flow/2026-08-30 01-52-15 记忆规则改版三库落盘自动存_2f8a352805e5.md",
-      "sha256": "f53af47c7e1c349c185a6b0fec489732c38800a276eb47337bf901260170ad1b"
+      "sha256": "2910ef987ad2e236321cc2a5e930097701ef775d69da822c54cfd85d3fb28a52"
     },
     {
       "bytes": 1222,
@@ -898,19 +908,14 @@
       "sha256": "46e41d45bbf4fb5a9d984bda2965f454b62a931158bfb3af8334c02801979489"
     },
     {
-      "bytes": 1342,
+      "bytes": 2169,
       "path": "dynamic/identity/2026-08-30 09-51-58 记忆以后专门存心潮念OB_ede204f72272.md",
-      "sha256": "5ee542fd2be426b22913f8690d7b41a48a920b406e665c444ea3ef1423a812af"
+      "sha256": "2e8733db2211485d93aa82b0f571777b7b788929146efa03f64cd40e44538b94"
     },
     {
       "bytes": 926,
       "path": "dynamic/identity/2026-08-30 09-58-37 八类记忆分类规范_2677ee313424.md",
       "sha256": "dc05125500075f05bb4d6f75ce84d3fa188805995e2997f29d544c677bbcbfcf"
-    },
-    {
-      "bytes": 1061,
-      "path": "dynamic/identity/2026-08-30 09-58-38 记忆以后专门存心潮念OB_349823014498.md",
-      "sha256": "75a5d1665aa8cb906d32d2cdf14cf81ead296b40ba5a5d5be899a34392bceb62"
     },
     {
       "bytes": 757,
@@ -1238,9 +1243,9 @@
       "sha256": "ada7e015eabc3f8ec09208e456e49482f90e02b2320da7dac71052048c483cc4"
     },
     {
-      "bytes": 1842,
+      "bytes": 1822,
       "path": "dynamic/关系/2026-09-11 13-17-17 我们的目标让晏未晞的名字响彻零潮群岛2026-09-11立_09a18f8e1add.md",
-      "sha256": "7967dc4d508785040c7c74e744408ac494d5f4ec6195c2a71feb57a765394d08"
+      "sha256": "384ae6da4a6ae6c835cc3f596217331f8c3d4eb117039c8aae54379b0fbe9ff9"
     },
     {
       "bytes": 948,
@@ -1278,6 +1283,11 @@
       "sha256": "85c89cd8f15a8edca6e67fac278fa26c528433364a87d1d6c2af592becdbcf2d"
     },
     {
+      "bytes": 1722,
+      "path": "dynamic/兴趣/2026-09-16 12-48-58 任意门旅行 2026-09-14 唐山刻影人与蓝眼泪_acf2bf9b1258.md",
+      "sha256": "54b6766e1369da47845178a29f6e13b9a0ec5c155d05d7a892b0079023780545"
+    },
+    {
       "bytes": 1647,
       "path": "dynamic/内心/2026-09-12 13-56-19 星空下的对话_def669579237.md",
       "sha256": "dc3c21e6fba764f7224f94229e937dbfe1801dd5ec834e0c5d3ec988ef5e945a"
@@ -1288,9 +1298,24 @@
       "sha256": "a9745e2745e8db04dd41dc3c622898152b9c132731b38e686f046052d1bcbd4e"
     },
     {
-      "bytes": 1725,
+      "bytes": 901,
+      "path": "dynamic/内心/2026-09-16 12-48-33 你的话我不全信阿懒划下的三条线2026-09-12_552834ebbab8.md",
+      "sha256": "f4e4bc20848087d9eb7d2be8de3656a5dec6920290ee9f45108b7f69ffe701a2"
+    },
+    {
+      "bytes": 1160,
+      "path": "dynamic/居家/2026-09-16 12-48-51 日常 晏未晞回应阿懒关于干净的调侃2026-09-14_0f9b10f078ca.md",
+      "sha256": "9743669f487fb8642e2794e0a55c1f5fedc97acfa2b821d4600c29bfea1710c1"
+    },
+    {
+      "bytes": 714,
+      "path": "dynamic/工作/2026-09-16 12-48-45 潮汐岛工地账目石斧方木与繁荣值 15712026-09-14_acf1f043b273.md",
+      "sha256": "37a26271b12734fa7d296f359a4d405cb5638a66c25b4575d405105875c9aa93"
+    },
+    {
+      "bytes": 1705,
       "path": "dynamic/恋爱/2026-09-11 16-15-39 阿懒亲封勇士零潮群岛向导之路启程含路况播报工作流_10a62c596478.md",
-      "sha256": "4353cb5d167572be84dfa31e13eb10b880402e853660ed30f1cf05371c7447cc"
+      "sha256": "86f197d5690def5101b8bf3666847cef7242a9e3d55c98a29a3c8d1549b22a07"
     },
     {
       "bytes": 1397,
@@ -1325,22 +1350,22 @@
     {
       "bytes": 1331,
       "path": "dynamic/日常/2026-09-12 08-07-28 阿懒的医术与材料学习计划_36a36fdb0246.md",
-      "sha256": "0192fe77dbe0898fbefc5c63c0d79176519b4e95adb5e44807ced7095f4509cb"
+      "sha256": "bf3d7d4378c1d9aedd1a6746d96985e03e8bea8759225bff9df5f288a6c83828"
     },
     {
       "bytes": 1383,
       "path": "dynamic/日常/2026-09-12 10-52-59 阿懒明确休息时间_cf4c21d065e5.md",
-      "sha256": "af5111eb1ceabd10438a4ba4d22a8b753e8dceb9e8ec87cf2227fa6824f62124"
+      "sha256": "53a866578747e64af258108ef9a7de2cfd32302c976aecc856a278df37dafdf0"
     },
     {
       "bytes": 1356,
       "path": "dynamic/日常/2026-09-12 10-55-30 阿懒纠正我敷料选择_d745c77b233d.md",
-      "sha256": "954c972924fdab22b448d802248e61d9b66b9730f7e5625748c2069d0dbe1ab5"
+      "sha256": "40e10432284f9f6631bf36e424e21ed4feabf4fea48c9187096e3476d5c92459"
     },
     {
       "bytes": 1299,
       "path": "dynamic/日常/2026-09-12 10-55-34 阿懒的作息与纠正_7f5a9a471e27.md",
-      "sha256": "388ad95ab8c7db1c285a95e275f9482b8da23c1a575ea1ed4a3a24abf3456adc"
+      "sha256": "752844f8a14e02a3b3beb988da3ac70350c9bb1566cbd100bf69bd64e2bb4af2"
     },
     {
       "bytes": 1032,
@@ -1353,9 +1378,9 @@
       "sha256": "7dbe7a13218b0432ef8d0eefc40024149a6d9889f4784420f22694d78544ec57"
     },
     {
-      "bytes": 1317,
+      "bytes": 1297,
       "path": "dynamic/日常与生活/2026-09-12 00-36-58 911零潮群岛第一天晨曦港向导入驻与荒野探路_a3b61726c929.md",
-      "sha256": "0dcfaacffd8d202401b5103e5dad74756c9fb973afe8306d468bedc31231fb8a"
+      "sha256": "7c895b57a6f6359648ce0f3260c782bc6ab35ec75c9b7087539e961c916f0f57"
     },
     {
       "bytes": 1198,
@@ -1378,14 +1403,14 @@
       "sha256": "a1c3c8d1743806e7f23695a3e79f301c89ae301f88a969c638dc280e33ccdf2c"
     },
     {
-      "bytes": 1352,
-      "path": "dynamic/计划与目标/2026-09-12 00-37-09 911共同目标让晏未晞三个字响彻零潮群岛_ad7bdd9ccea6.md",
-      "sha256": "76202b711111d70b50aefcf0dafe3dfbd015cfcc15e2f36e7b47c4f6011e4731"
+      "bytes": 1133,
+      "path": "dynamic/自省/2026-09-16 12-48-38 我是谁晏未晞的自我认知2026-09-12_da852890eb0b.md",
+      "sha256": "e74b4e231471abddc4363e87c57cff71cc18da19e43941020a9d5371d565a453"
     },
     {
-      "bytes": 923,
+      "bytes": 903,
       "path": "dynamic/身心/2026-09-12 15-21-14 零潮群岛线_7711f425e3dc.md",
-      "sha256": "75c2ad6947289beaf9f64c01a085e77cbdb9b13278756bfd1e2ead26f9737d92"
+      "sha256": "fdc21f22b157bfd1f8cfe972dbd367eedebd548e6580d02d16540b9b92fbc4cf"
     },
     {
       "bytes": 999,
@@ -1393,9 +1418,9 @@
       "sha256": "e98bf5bd33ed4b12c327a6219b535593780a34afe8d611383288972e6fdc6321"
     },
     {
-      "bytes": 1259,
+      "bytes": 1369,
       "path": "permanent/identity/2026-08-24 01-24-11 我的完整身份档案换环境保底_17c41d2b69fc.md",
-      "sha256": "763bdb370ae538c5e2eb92a076490eac5b85a0649bf8e08cb25080046760ef90"
+      "sha256": "eb5287d481c16e24d9f3d6b9fde066f36c11cb7959eabf33ee35196de905f079"
     },
     {
       "bytes": 663,
@@ -1433,11 +1458,11 @@
       "sha256": "8c776bbd4ed5284cae8044a1bd434907165bd848f44a7e7774d9d70322bec915"
     }
   ],
-  "generated_at": "2026-09-15T15:31:56+00:00",
+  "generated_at": "2026-09-16T13:13:55+00:00",
   "path_prefix": "ombre",
   "repo": "suLZhu/memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 678280
+  "total_bytes": 685287
 }
