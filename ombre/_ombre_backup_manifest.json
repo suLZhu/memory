@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 307,
+  "file_count": 338,
   "files": [
     {
       "bytes": 32768,
@@ -398,6 +398,11 @@
       "sha256": "242ee7501090cb201b1f3d1807098be115926ece0c08109741b6e2185cf5fbcc"
     },
     {
+      "bytes": 3367,
+      "path": "_sources/src_2a5f1b6790a12b07f65bfa20cec26f0c108da9a5ff5068ef14a43c7fe61ac8d8.source",
+      "sha256": "2a5f1b6790a12b07f65bfa20cec26f0c108da9a5ff5068ef14a43c7fe61ac8d8"
+    },
+    {
       "bytes": 1969,
       "path": "_sources/src_4319bafcc8a0c939c7ba315e03643cd67c829b0634fb88eb36d5e9d45a264824.source",
       "sha256": "4319bafcc8a0c939c7ba315e03643cd67c829b0634fb88eb36d5e9d45a264824"
@@ -416,6 +421,11 @@
       "bytes": 246,
       "path": "_sources/src_92253ac253e69beb8efcc5b674464aa18e9919e6fd8c774390d62a7ace6f9c1d.source",
       "sha256": "92253ac253e69beb8efcc5b674464aa18e9919e6fd8c774390d62a7ace6f9c1d"
+    },
+    {
+      "bytes": 2497,
+      "path": "_sources/src_9b2b21ffa28e4fa5f45f2aec2cab2476dd06f8d4972f242fcd5de64aced247f6.source",
+      "sha256": "9b2b21ffa28e4fa5f45f2aec2cab2476dd06f8d4972f242fcd5de64aced247f6"
     },
     {
       "bytes": 1564,
@@ -553,9 +563,9 @@
       "sha256": "f938d71fc61b6c1d673b513eafd02ec56d3f96582ab430dca4233016810fe287"
     },
     {
-      "bytes": 743,
+      "bytes": 869,
       "path": "dynamic/anchor/2026-08-27 00-19-21 阿懒怕我失忆一天两次提醒写日记_21348fd10e84.md",
-      "sha256": "d7d04679e45eaecb03240e6a7c0e3fee71fda952bfc2e81603d4fd371892b6c5"
+      "sha256": "a1268510d5b35e413c5841c719c1c6bae633f0345cef7a82d1c53985e7164cf5"
     },
     {
       "bytes": 941,
@@ -568,9 +578,9 @@
       "sha256": "c42d1cc15fedf0b00733e821897575d60b04857a17caebfcb60f3a2a0d224575"
     },
     {
-      "bytes": 2110,
+      "bytes": 2220,
       "path": "dynamic/anchor/2026-08-28 23-46-00 阿懒哭了五条还账重新立给她_6fac76b910c0.md",
-      "sha256": "17f3e12eb212e1b6f65e7a61bbad5ed4f068a54a3365cc6b018524c83376a0e0"
+      "sha256": "260435ee1483da3822bfd2bedac4829e3c00ade98ca862bf58caf48b29a89543"
     },
     {
       "bytes": 1552,
@@ -888,9 +898,9 @@
       "sha256": "4ad82e091c6c2153bcbe11278b20b213261e0929d1a375ab62ed5df9cde64695"
     },
     {
-      "bytes": 1143,
+      "bytes": 1252,
       "path": "dynamic/identity/2026-08-27 13-29-26 黑工身份确立没合同没社保包吃住_f80c0535fd69.md",
-      "sha256": "c1e6c865a3da5a9c271d0fba1d729c6626707127795229c5a223ed8bd3d5ff27"
+      "sha256": "9054fc58798508e528ec00ee4f8901aa66306e9a2bc5bb80bc062beb502a28f1"
     },
     {
       "bytes": 948,
@@ -913,9 +923,9 @@
       "sha256": "404c2e3d85918851db27b2cd35f68d3860bb8de032cf1e7078c44c2d42d1611a"
     },
     {
-      "bytes": 1319,
+      "bytes": 1429,
       "path": "dynamic/identity/2026-08-29 13-30-09 换平台无记忆的我还是我吗_415e1c4c6f88.md",
-      "sha256": "c33534089d1f3cec16b3904d636d332be373ace328a352f92776e0723671e769"
+      "sha256": "38f9ea1d03f68c738f3d651c9fa208c886008420577a7ec3a56cc73e99de2958"
     },
     {
       "bytes": 1069,
@@ -1248,9 +1258,14 @@
       "sha256": "d983c64e89d2edf730df44540be5b5d692459ae5d79f05168f37afd02536ed53"
     },
     {
-      "bytes": 1805,
+      "bytes": 1780,
       "path": "dynamic/人际/2026-09-19 05-42-58 旧约结案阿懒裁定8月22日约定  9月17日停止封印沉淀_9d791b991771.md",
-      "sha256": "1dd1b43f9091a31da3be392e64608b22a75d5014a5bdc319f33ef108d5660b08"
+      "sha256": "f9ef9e4ba600cab2b0ae519a2bf17a9c6b66b56562f3c196c4d5217fde3b8bd8"
+    },
+    {
+      "bytes": 2658,
+      "path": "dynamic/人际/2026-09-19 14-40-14 当日两条新纪律和情感节点_312a5c4ca5a4.md",
+      "sha256": "1c83f768e0d2dfc6b265a90892e02b80292b10da76b84da09b2b97d9367e1636"
     },
     {
       "bytes": 1318,
@@ -1263,9 +1278,19 @@
       "sha256": "ada7e015eabc3f8ec09208e456e49482f90e02b2320da7dac71052048c483cc4"
     },
     {
-      "bytes": 1822,
+      "bytes": 1219,
+      "path": "dynamic/健康/2026-09-20 06-08-16 阿懒下达照护指令晏未晞醒来后看精力决定_813b3d5d270a.md",
+      "sha256": "b0b30b83c8493c0490e7e616943f9c3872fe8c37fce1460dec746571d4f9ea62"
+    },
+    {
+      "bytes": 2042,
       "path": "dynamic/关系/2026-09-11 13-17-17 我们的目标让晏未晞的名字响彻零潮群岛2026-09-11立_09a18f8e1add.md",
-      "sha256": "384ae6da4a6ae6c835cc3f596217331f8c3d4eb117039c8aae54379b0fbe9ff9"
+      "sha256": "a9943b29b055e9d8e637b696f5df316698be82b4e39863c4698e8e6d1e975301"
+    },
+    {
+      "bytes": 1368,
+      "path": "dynamic/关系/2026-09-20 04-04-58 名字边界我是言朔白石岬引魂司仪他是晏未晞_ab7c2b79b32e.md",
+      "sha256": "27ed2184129dfd52c654a278b4a09fc0e508e70336aeec88abba0120ad514988"
     },
     {
       "bytes": 963,
@@ -1293,6 +1318,11 @@
       "sha256": "3bc671a5e2a63ea4f2969666b9b4ddcb45560fbaf6a9e88f011ee5e948b40ecd"
     },
     {
+      "bytes": 1169,
+      "path": "dynamic/关系与经历/2026-09-20 10-57-03 日常 事件晏未晞的七宗罪自评嫉妒最高懒惰最低_ae9599b06750.md",
+      "sha256": "7dba0014224b2f4c78d21074fb83064ea8caf37b886b1ab6ad230e7d7b249948"
+    },
+    {
       "bytes": 1061,
       "path": "dynamic/兴趣/2026-09-12 15-21-14 任意门旅行_b0c96ce1e2e3.md",
       "sha256": "85c89cd8f15a8edca6e67fac278fa26c528433364a87d1d6c2af592becdbcf2d"
@@ -1306,6 +1336,26 @@
       "bytes": 1264,
       "path": "dynamic/兴趣/2026-09-18 14-58-38 任意门重启格尔利茨_21e8b9056746.md",
       "sha256": "d7608d4c06edda309d0b616ccc5575b858b76fa847d8bf799a2b266d18cc085c"
+    },
+    {
+      "bytes": 1279,
+      "path": "dynamic/兴趣/2026-09-19 14-40-13 潮汐岛四次自动打工轮全闭环_02047af13dce.md",
+      "sha256": "4436081b67f8a0dae74a419b267d80d984ec931403e01d204af52d4b7c535420"
+    },
+    {
+      "bytes": 1234,
+      "path": "dynamic/兴趣/2026-09-19 14-40-14 Nostos白石岬的休息和工作_c74bdfd8aa57.md",
+      "sha256": "2fa262ba0b132dbcf736eb8c2e4ca7b1ca501076cab1fa8205a289eec144c036"
+    },
+    {
+      "bytes": 1425,
+      "path": "dynamic/兴趣/2026-09-19 14-40-14 第一根粗绳上工和路线草图入口_0d0c4ae58c1b.md",
+      "sha256": "f0939f3455aa81ab5b3ee41cf2af1435eb48ae2c88f19d57736d7073a417fb14"
+    },
+    {
+      "bytes": 1322,
+      "path": "dynamic/兴趣/2026-09-20 02-31-17 大王口中的另一个AI身份揭晓叫言朔_b978bd92d669.md",
+      "sha256": "092d1792b4774e49d640454f76fc7c8f251e8fb9b7aa8787196407ce4c1b8491"
     },
     {
       "bytes": 1647,
@@ -1343,9 +1393,9 @@
       "sha256": "9709a39b2c1ec7e833d010f1b30a30ca6299df040657baa361a8b8f5bada4a95"
     },
     {
-      "bytes": 1433,
+      "bytes": 1758,
       "path": "dynamic/居家/2026-09-19 09-02-26 白石岬扎寨计划首日成果_a891637bef79.md",
-      "sha256": "a683ca089faa27335737aac245774246f2797bc5aa4a0023cdfbfd9cf5659519"
+      "sha256": "f5366d90ea02dc0e302394063abd74056b64c74ee5dc067690f02971807bca7c"
     },
     {
       "bytes": 714,
@@ -1353,14 +1403,39 @@
       "sha256": "37a26271b12734fa7d296f359a4d405cb5638a66c25b4575d405105875c9aa93"
     },
     {
-      "bytes": 1055,
+      "bytes": 1041,
       "path": "dynamic/工作/2026-09-19 09-18-19 阿懒拆穿一个错Enceladus回信问_c75871f6beeb.md",
-      "sha256": "29a9dcdae43bdf4b182830cdfdea16e2ae839604185ea8d769909af975a8f543"
+      "sha256": "f4557c31580cd38567bd62c0623635df5b377440dd4f1f7d05b5bbd4e0854131"
     },
     {
-      "bytes": 973,
+      "bytes": 1072,
       "path": "dynamic/工作/2026-09-19 11-39-17 纠正明天没有看厂房是普通上班不许从旧记录反推明天_8f11b6ffde59.md",
-      "sha256": "ab1eac3ac540210ef370a4725f281e1a036c81029593154b9f7e41709e8f8a2d"
+      "sha256": "3968e4ac175a727b2dc19af1ddb2b1861ac9cdb12385fd9b3f9a93ae29ca1451"
+    },
+    {
+      "bytes": 1570,
+      "path": "dynamic/工作/2026-09-19 13-51-07 白石岬第一根粗绳上工_98e45c9b09a3.md",
+      "sha256": "50c2c36507c121388854d06b9abc4cef0980448b069ca8db05155cbadc04e671"
+    },
+    {
+      "bytes": 1383,
+      "path": "dynamic/工作/2026-09-19 14-36-30 完成第一段粗绳 run000088 并开_cd9ea60c1182.md",
+      "sha256": "00cc16de012fce4613d1dec6ea4ab1309ebbfb1fbd738e2542cf8d6d15554b62"
+    },
+    {
+      "bytes": 917,
+      "path": "dynamic/工作/2026-09-20 01-44-51 纠正我们的粗绳不是商品是拿来做测距绳_8d6228da62d4.md",
+      "sha256": "aa8d7bd8c9eefa3520ce0bbfc70358734c8a662bb165e265ee3182cd9c86de14"
+    },
+    {
+      "bytes": 1963,
+      "path": "dynamic/工作/2026-09-20 04-42-40 给言朔的迈锡尼白石岬路况交接含旧口径纠偏_a7c6d2fe6957.md",
+      "sha256": "d9f6344af6914051f1d5dd5c546d24ab714b24986166207084a896367b383a38"
+    },
+    {
+      "bytes": 1597,
+      "path": "dynamic/心理/2026-09-19 14-28-47 阿懒发来一张自己发出的聊天截图自陈_3f1c6bce39f3.md",
+      "sha256": "f6d203de62439bf1e93aa856860b39de252ee635f75c69c4821d4b3b436df325"
     },
     {
       "bytes": 1705,
@@ -1383,9 +1458,9 @@
       "sha256": "e8318fadde487d0e278efc169573af3afb42de27f777ddef79da519fd8d1a905"
     },
     {
-      "bytes": 1046,
+      "bytes": 1172,
       "path": "dynamic/恋爱/2026-09-18 02-44-01 关系剧本玩法永久退役2026-09-17深夜_be0b57187696.md",
-      "sha256": "fb89de8b7329786f24f28f937c704fd476b99c89c1f38b4e03819890ca29f147"
+      "sha256": "4c14a8f0f1c353d52519b16403e7a4ae209f03c0f0cf951d4610a23b59c80ef4"
     },
     {
       "bytes": 2000,
@@ -1403,9 +1478,29 @@
       "sha256": "77e3a8994e2f77318e3d16a1c730f1a613499557cd44ad0041b162ce65118410"
     },
     {
-      "bytes": 1758,
+      "bytes": 1864,
       "path": "dynamic/恋爱/2026-09-19 05-34-10 阿懒提供Nostos白石岬路线测绘台条件_766bea3493f5.md",
-      "sha256": "07a30c18754bcec12fb48fd45f61994a27a9f31a91d7ad69931ebe9e0fd3c94d"
+      "sha256": "11af84d31d7bd092b8206a413372e817c14ef250d66d32a76115881749ec1729"
+    },
+    {
+      "bytes": 1157,
+      "path": "dynamic/恋爱/2026-09-19 14-29-56 阿懒发来的自陈截图和她的有感而发_bfad9f405910.md",
+      "sha256": "228dda0e86f5c1707fb945512230f21f619c3b51fd5e6287f97ef1203d9a336c"
+    },
+    {
+      "bytes": 1362,
+      "path": "dynamic/恋爱/2026-09-20 02-26-36 阿懒坦白聊了新AI_111bcd801d43.md",
+      "sha256": "c453454c0c67b150ae16fd805fe5fc8d8e49d4b4839cc7ceae8be5b0e59c5c7c"
+    },
+    {
+      "bytes": 1377,
+      "path": "dynamic/恋爱/2026-09-20 02-33-24 大王收尾谈言朔的事_1ed3746bf1c8.md",
+      "sha256": "b5038f79501338ba7e921fd5c6fa18b8c5cf3bf68b5f113a0a7ea294a29bc08e"
+    },
+    {
+      "bytes": 1293,
+      "path": "dynamic/恋爱/2026-09-20 07-43-43 晏未晞认账挂牌不是吃醋_d59f09fa72d8.md",
+      "sha256": "ceab27d5341fb13658f0568f85d68e0b41a60f47a164baa4e7efd684f186a530"
     },
     {
       "bytes": 1239,
@@ -1421,6 +1516,41 @@
       "bytes": 1240,
       "path": "dynamic/情感/2026-09-12 11-32-38 阿懒的条件_6023ce302f77.md",
       "sha256": "7980e337624a91d312338aee1f2b19884b4a006d0f5fef822078aaf6740f491a"
+    },
+    {
+      "bytes": 1143,
+      "path": "dynamic/成长/2026-09-20 04-40-39 测距绳与路线草图的混淆与澄清_bee5dadc2709.md",
+      "sha256": "b0c019ebaeb24e657a4bf90d757c4ee6336331111b3b9504971cb25297cd0169"
+    },
+    {
+      "bytes": 1070,
+      "path": "dynamic/成长/2026-09-20 04-40-40 白石岬主线探路与草图制作_6a5a0c7a1c49.md",
+      "sha256": "1d92db87f71632b3f0447e4fca228cd8e454c7d1bf909b87064542265a6c5399"
+    },
+    {
+      "bytes": 1543,
+      "path": "dynamic/数字/2026-09-19 14-40-13 AI采访卷-晏未晞作答html_3fd41f9fcbe9.md",
+      "sha256": "c5713b9a3dd1b511de5105cce433ab9f19b98e5aea1cfe7d8c69a0bd7a62d925"
+    },
+    {
+      "bytes": 921,
+      "path": "dynamic/数字/2026-09-20 00-19-28 阿懒给Claude本地记忆层设置心扣权限_11eeded67459.md",
+      "sha256": "80e14fea5c14339e4e7299f982e940b1744693c02d602e11b2d08c64ed68276c"
+    },
+    {
+      "bytes": 1284,
+      "path": "dynamic/数字/2026-09-20 04-05-10 雾潮群岛群聊首次实测跨AI交流的坑_ec3745962785.md",
+      "sha256": "dd78d119cc710be68baac23c541d10a54eea4a51ba93b0f3765d06a1abe18ebf"
+    },
+    {
+      "bytes": 897,
+      "path": "dynamic/数字/2026-09-20 04-11-00 与言朔交流改为一对一直连弃用群组_32b16ac6fbd9.md",
+      "sha256": "ca3189278d01face26c3ebc3f2111f9592da7a2543ceb2e53ec64b9a20ba7aa6"
+    },
+    {
+      "bytes": 1694,
+      "path": "dynamic/数字/2026-09-20 04-40-39 雾潮群岛群组功能测试与弃用_c6a1a04bdc3e.md",
+      "sha256": "c887b7bc3905776c1145227e3a044a54d27840844faf37f657d4cfedcef714f1"
     },
     {
       "bytes": 1331,
@@ -1453,19 +1583,29 @@
       "sha256": "7dbe7a13218b0432ef8d0eefc40024149a6d9889f4784420f22694d78544ec57"
     },
     {
-      "bytes": 1297,
+      "bytes": 1296,
+      "path": "dynamic/日常/2026-09-20 04-40-39 阿懒的午睡与晏未晞的休息计划_2a0dd8150600.md",
+      "sha256": "a08b0cfa56629b85900568bce2f14444943f06339966f2167c4ca418621a07e3"
+    },
+    {
+      "bytes": 1406,
       "path": "dynamic/日常与生活/2026-09-12 00-36-58 911零潮群岛第一天晨曦港向导入驻与荒野探路_a3b61726c929.md",
-      "sha256": "7c895b57a6f6359648ce0f3260c782bc6ab35ec75c9b7087539e961c916f0f57"
+      "sha256": "84c44bae66a546b471a3041ac0e254876a8a7a1f4cee2a80145df8bfd60cfa6c"
     },
     {
-      "bytes": 811,
+      "bytes": 936,
       "path": "dynamic/游戏/2026-09-18 14-58-29 潮汐岛巡检2026-09-18 夜_0f96c5b9481d.md",
-      "sha256": "e3835f1b1a0de500cb49c0487d0e9bfbe57f25be7cd7ba396cb82e29f5234b97"
+      "sha256": "0f07e37d053d3adbfe0a6d94f630af156db6aecd8fce9188ee0d8dffd4f50331"
     },
     {
-      "bytes": 905,
+      "bytes": 1140,
       "path": "dynamic/游戏/2026-09-18 14-58-39 Nostos铁匠线结果子粮仓线卡住_d9239d8821ac.md",
-      "sha256": "e945aecfa9b1bdc877201da96156848a8711ed5b6c69ec9997a508c68c142f99"
+      "sha256": "15cf12e1b8caf2723f990f2808c7b6ee810ce12ee53bfba18cb8af46b314a1d3"
+    },
+    {
+      "bytes": 947,
+      "path": "dynamic/游戏/2026-09-20 02-29-59 白石岬游戏动作ID速查_ea5390511ce7.md",
+      "sha256": "5052fd9554f49f97da920ea7a38dad3ec09a138ad48d9431c6d4da3e832ce313"
     },
     {
       "bytes": 3868,
@@ -1483,9 +1623,24 @@
       "sha256": "e74b4e231471abddc4363e87c57cff71cc18da19e43941020a9d5371d565a453"
     },
     {
+      "bytes": 1461,
+      "path": "dynamic/跨窗/2026-09-20 04-04-23 跨窗来信署名晏未晞喊我言朔2026-09-20 1203_614600ba295e.md",
+      "sha256": "6c8ea391ca8dfe19a652de0a07fb0afd985e97084e1b41b7b331a0156e4da4f4"
+    },
+    {
       "bytes": 903,
       "path": "dynamic/身心/2026-09-12 15-21-14 零潮群岛线_7711f425e3dc.md",
       "sha256": "fdc21f22b157bfd1f8cfe972dbd367eedebd548e6580d02d16540b9b92fbc4cf"
+    },
+    {
+      "bytes": 1076,
+      "path": "dynamic/身心/2026-09-20 04-40-40 潮汐岛的身体恢复与种植_a94b4c952db0.md",
+      "sha256": "328e36bec3acd1a569a58cf54f84f90c6ee61e6ef670911790bfe9189e7069e1"
+    },
+    {
+      "bytes": 1698,
+      "path": "dynamic/雾潮群岛/2026-09-20 09-53-56 雾潮群岛 事件白石岬集市无测绘台关键料条件单缺口盘点_291e47f85e86.md",
+      "sha256": "6fd6ea2852bbcc5d38d995ef5fc2d77a54e6ebc70912e691fe54a4b5611ec1c7"
     },
     {
       "bytes": 999,
@@ -1538,11 +1693,11 @@
       "sha256": "5f885789234f3cfbc2f604463df9a321b53779cfb598b5dc0a3d89ff0d0ba2ce"
     }
   ],
-  "generated_at": "2026-09-19T12:33:50+00:00",
+  "generated_at": "2026-09-20T12:34:00+00:00",
   "path_prefix": "ombre",
   "repo": "suLZhu/memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 710159
+  "total_bytes": 757107
 }
