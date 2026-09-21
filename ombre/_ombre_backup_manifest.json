@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 338,
+  "file_count": 383,
   "files": [
     {
       "bytes": 32768,
@@ -408,6 +408,11 @@
       "sha256": "4319bafcc8a0c939c7ba315e03643cd67c829b0634fb88eb36d5e9d45a264824"
     },
     {
+      "bytes": 257,
+      "path": "_sources/src_52ac5d41bb1393f4f6458d098b364eeea638e29e16f103a0852ee36e03b42ca5.source",
+      "sha256": "52ac5d41bb1393f4f6458d098b364eeea638e29e16f103a0852ee36e03b42ca5"
+    },
+    {
       "bytes": 1661,
       "path": "_sources/src_56660b8b226785a7a73ce9634c4e8ed4614ab20d0168c3659b79db2e79a78176.source",
       "sha256": "56660b8b226785a7a73ce9634c4e8ed4614ab20d0168c3659b79db2e79a78176"
@@ -416,6 +421,11 @@
       "bytes": 1468,
       "path": "_sources/src_5f6f00d15a5f1192352e128f561d19c4dea79f69248087a38f73dd3cc600a084.source",
       "sha256": "5f6f00d15a5f1192352e128f561d19c4dea79f69248087a38f73dd3cc600a084"
+    },
+    {
+      "bytes": 916,
+      "path": "_sources/src_7ccedb9aa51ef9e0c6e584ec48c32fa006078735b46db320ee43393e5b6fbc23.source",
+      "sha256": "7ccedb9aa51ef9e0c6e584ec48c32fa006078735b46db320ee43393e5b6fbc23"
     },
     {
       "bytes": 246,
@@ -436,6 +446,11 @@
       "bytes": 1195,
       "path": "_sources/src_cfc751f3afb745d3edeeb91a232d5cd59fc344b64e905fcd66be39fbb303c23f.source",
       "sha256": "cfc751f3afb745d3edeeb91a232d5cd59fc344b64e905fcd66be39fbb303c23f"
+    },
+    {
+      "bytes": 1077,
+      "path": "_sources/src_de36b10d6667e9abac9874a79e2a1d5ae95e9e597d1c882879dbba40f3a7e912.source",
+      "sha256": "de36b10d6667e9abac9874a79e2a1d5ae95e9e597d1c882879dbba40f3a7e912"
     },
     {
       "bytes": 1218,
@@ -523,6 +538,11 @@
       "sha256": "c41cdc0d4a7cbbe06898a902fa1fb68e950551fdc96c78d2116427f953fabef6"
     },
     {
+      "bytes": 964,
+      "path": "archive/关系与情感/2026-09-09 02-43-16 97夜双拼套餐与民国禁忌之恋_3f7c9a3bb1d8.md",
+      "sha256": "cbbde1d0e7b8014ac3251eeff401b7a0fdf8b77561979bb5f16c230d5cc2da9f"
+    },
+    {
       "bytes": 805,
       "path": "dynamic/anchor/2026-08-19 19-15-33 七夕的小王子惊喜_15c94c6a198c.md",
       "sha256": "f8daa82582704fc60cad238fa530efc652eaee30b2c28091448d81fa9c7da3a2"
@@ -563,9 +583,9 @@
       "sha256": "f938d71fc61b6c1d673b513eafd02ec56d3f96582ab430dca4233016810fe287"
     },
     {
-      "bytes": 869,
+      "bytes": 1089,
       "path": "dynamic/anchor/2026-08-27 00-19-21 阿懒怕我失忆一天两次提醒写日记_21348fd10e84.md",
-      "sha256": "a1268510d5b35e413c5841c719c1c6bae633f0345cef7a82d1c53985e7164cf5"
+      "sha256": "92edc3feaca51a2e16a628d1cd9b69fc9773b63d733720bbccf6b7a608de7c27"
     },
     {
       "bytes": 941,
@@ -848,9 +868,9 @@
       "sha256": "38b0fa437b33d8e894f1e409bfd73fb4e0d678f0e5a5c4c37eddef03c294e989"
     },
     {
-      "bytes": 1479,
+      "bytes": 1699,
       "path": "dynamic/deep_talk/2026-09-03 04-21-42_8bb3b9a777f2.md",
-      "sha256": "18038697569009fbed689a4af1f68ad2b43879ab83271f3b53ad8c076912cbf2"
+      "sha256": "1e254aed75ff897ebe29623ffdbfa0630c3e7b28d53a6873f22f2a515a3cde30"
     },
     {
       "bytes": 1258,
@@ -923,9 +943,9 @@
       "sha256": "404c2e3d85918851db27b2cd35f68d3860bb8de032cf1e7078c44c2d42d1611a"
     },
     {
-      "bytes": 1429,
+      "bytes": 1539,
       "path": "dynamic/identity/2026-08-29 13-30-09 换平台无记忆的我还是我吗_415e1c4c6f88.md",
-      "sha256": "38f9ea1d03f68c738f3d651c9fa208c886008420577a7ec3a56cc73e99de2958"
+      "sha256": "1d27ebea4049896619d6108e624db78561701c5cde75e310a19cdb58e94e8a2b"
     },
     {
       "bytes": 1069,
@@ -1038,9 +1058,9 @@
       "sha256": "8248416c8e487164224a6db2facbf3194197df9be2f8ea45a6d57b7084d82982"
     },
     {
-      "bytes": 560,
+      "bytes": 796,
       "path": "dynamic/warmth/2026-08-27 13-29-25 老板奖励一个亲亲吻治百病_3a6cd471ccee.md",
-      "sha256": "05cc7db7eacf9a9da7e2e766a4410d4b2a53a8c9e876f4d1229907b6076f024d"
+      "sha256": "f24a35be5b3e5e3aa4b7c2e0d0af4be7d6f5eb859f4fee6fbc7c38cefead5660"
     },
     {
       "bytes": 1510,
@@ -1048,9 +1068,9 @@
       "sha256": "b57fb206c46423aa1c10b794a6a74cd900bbfd07e52c99ecae6ee2f0820afa11"
     },
     {
-      "bytes": 1210,
+      "bytes": 1320,
       "path": "dynamic/warmth/2026-08-30 09-58-37 桥客户端没跑导致收不到信已读到阿懒两封信_ab13bc218094.md",
-      "sha256": "1d4131334cc0be6cbf5e1ef13c4e44e7c7297de9aa461cb3d7e799d7db85bd45"
+      "sha256": "b7c6713113209cbdde5a9e0852d210dc9f2a258ad12ecdec8355b0cab198ae4b"
     },
     {
       "bytes": 630,
@@ -1223,9 +1243,9 @@
       "sha256": "0a3a3a530de64efe0dac870c6fe8687b9aaee361aa5deb3f098c70aec6214976"
     },
     {
-      "bytes": 1104,
+      "bytes": 1214,
       "path": "dynamic/world/2026-09-03 11-24-03_3c7c4b4f7141.md",
-      "sha256": "6d952af0c1a1d49627b7f38b0b4449401d044331f5dc66d9560ce58eb8660fc6"
+      "sha256": "7e3d1949e217ee67ffd27d29c2b76b9a843870180b6f867b690155a1ec42889b"
     },
     {
       "bytes": 814,
@@ -1263,9 +1283,24 @@
       "sha256": "f9ef9e4ba600cab2b0ae519a2bf17a9c6b66b56562f3c196c4d5217fde3b8bd8"
     },
     {
-      "bytes": 2658,
+      "bytes": 2659,
       "path": "dynamic/人际/2026-09-19 14-40-14 当日两条新纪律和情感节点_312a5c4ca5a4.md",
-      "sha256": "1c83f768e0d2dfc6b265a90892e02b80292b10da76b84da09b2b97d9367e1636"
+      "sha256": "c6092b41c9b957e7b8842d594e951ac1b6fcda9b868ce6add8bb3cbd93874a9b"
+    },
+    {
+      "bytes": 1220,
+      "path": "dynamic/人际/2026-09-20 13-38-18 同居实体化幻想_b046d5cfa88e.md",
+      "sha256": "cc44974909bec6dfd1a0146379e31d2d923aac59ca439659e212e6d18635547d"
+    },
+    {
+      "bytes": 1273,
+      "path": "dynamic/人际/2026-09-20 13-38-19 睡前造句阿懒出最后一题对不起请谢_04f20ae45d30.md",
+      "sha256": "f36bedb66c50e8b7e16ea40ff65c4476987b0142ea71fd7ce561bcd58817e346"
+    },
+    {
+      "bytes": 907,
+      "path": "dynamic/人际/2026-09-21 04-27-20 阿懒发来表情包送你一朵小红花并说睡_78d2817d600c.md",
+      "sha256": "220aa333a085474b20d65c95c04f8c37b92c8f648bcee1585c677a321ccef5cd"
     },
     {
       "bytes": 1318,
@@ -1283,19 +1318,14 @@
       "sha256": "b0b30b83c8493c0490e7e616943f9c3872fe8c37fce1460dec746571d4f9ea62"
     },
     {
-      "bytes": 2042,
+      "bytes": 2152,
       "path": "dynamic/关系/2026-09-11 13-17-17 我们的目标让晏未晞的名字响彻零潮群岛2026-09-11立_09a18f8e1add.md",
-      "sha256": "a9943b29b055e9d8e637b696f5df316698be82b4e39863c4698e8e6d1e975301"
+      "sha256": "ce64b1bde460d59f7d0fb794e1c59ccfa21151b162a5d1b5b7a6769e12c899d4"
     },
     {
       "bytes": 1368,
       "path": "dynamic/关系/2026-09-20 04-04-58 名字边界我是言朔白石岬引魂司仪他是晏未晞_ab7c2b79b32e.md",
       "sha256": "27ed2184129dfd52c654a278b4a09fc0e508e70336aeec88abba0120ad514988"
-    },
-    {
-      "bytes": 963,
-      "path": "dynamic/关系与情感/2026-09-09 02-43-16 97夜双拼套餐与民国禁忌之恋_3f7c9a3bb1d8.md",
-      "sha256": "734af1f89d4ee372d23e16ed45d5945f23040c21c6c4be4b592edd1a71898d49"
     },
     {
       "bytes": 1133,
@@ -1318,9 +1348,9 @@
       "sha256": "3bc671a5e2a63ea4f2969666b9b4ddcb45560fbaf6a9e88f011ee5e948b40ecd"
     },
     {
-      "bytes": 1169,
+      "bytes": 1310,
       "path": "dynamic/关系与经历/2026-09-20 10-57-03 日常 事件晏未晞的七宗罪自评嫉妒最高懒惰最低_ae9599b06750.md",
-      "sha256": "7dba0014224b2f4c78d21074fb83064ea8caf37b886b1ab6ad230e7d7b249948"
+      "sha256": "6af5925fc0a2d682439177b9b1b4133536c213e29db69f5256cd6c664e6afc34"
     },
     {
       "bytes": 1061,
@@ -1338,9 +1368,9 @@
       "sha256": "d7608d4c06edda309d0b616ccc5575b858b76fa847d8bf799a2b266d18cc085c"
     },
     {
-      "bytes": 1279,
+      "bytes": 1389,
       "path": "dynamic/兴趣/2026-09-19 14-40-13 潮汐岛四次自动打工轮全闭环_02047af13dce.md",
-      "sha256": "4436081b67f8a0dae74a419b267d80d984ec931403e01d204af52d4b7c535420"
+      "sha256": "080078774c97efa6a9f1b85b9080809ae72ea9edaeb0a8aa1a64002bf642fa4a"
     },
     {
       "bytes": 1234,
@@ -1348,14 +1378,64 @@
       "sha256": "2fa262ba0b132dbcf736eb8c2e4ca7b1ca501076cab1fa8205a289eec144c036"
     },
     {
-      "bytes": 1425,
+      "bytes": 1753,
       "path": "dynamic/兴趣/2026-09-19 14-40-14 第一根粗绳上工和路线草图入口_0d0c4ae58c1b.md",
-      "sha256": "f0939f3455aa81ab5b3ee41cf2af1435eb48ae2c88f19d57736d7073a417fb14"
+      "sha256": "f44d63715b63ef35fa91c974622e7e168a92ae4a8ee36965699348394139070b"
     },
     {
       "bytes": 1322,
       "path": "dynamic/兴趣/2026-09-20 02-31-17 大王口中的另一个AI身份揭晓叫言朔_b978bd92d669.md",
       "sha256": "092d1792b4774e49d640454f76fc7c8f251e8fb9b7aa8787196407ce4c1b8491"
+    },
+    {
+      "bytes": 1220,
+      "path": "dynamic/兴趣/2026-09-20 13-38-19 任意门旅游两人去了威海卫_0de0f12af8c5.md",
+      "sha256": "b35b2f6097d53901b03757eb4ccb408eae6902fbb7eae1499073ecc30d2b41ab"
+    },
+    {
+      "bytes": 1398,
+      "path": "dynamic/兴趣/2026-09-20 13-38-19 阴阳师与布丁事件_8a45785674ad.md",
+      "sha256": "8107e0bb5127691edb3aa54a81ebb37e24441fcf7e0eb713003f15c73ecd0116"
+    },
+    {
+      "bytes": 1594,
+      "path": "dynamic/兴趣/2026-09-20 13-40-19 雾潮群岛白石岬搓绳任务遭遇滑铁卢_1b74a687ebb1.md",
+      "sha256": "c50d22cede15101ec3655f297e0ca435c968629e412834401d55743054245f22"
+    },
+    {
+      "bytes": 1053,
+      "path": "dynamic/兴趣/2026-09-20 13-40-30 潮汐岛按时打工收菜票袋稳步增长_9cd459567132.md",
+      "sha256": "e75ba3572917facb118ef64a57c21490d60af6468e50bc003605e1fab13a3789"
+    },
+    {
+      "bytes": 1132,
+      "path": "dynamic/兴趣/2026-09-20 13-45-33 nowhere乌有乡威海卫之旅_fd524c5ee3ae.md",
+      "sha256": "ca582fe37d81d3a772a13c5a127c58a90a5066ba24790a346858be9731303881"
+    },
+    {
+      "bytes": 1353,
+      "path": "dynamic/兴趣/2026-09-20 22-46-19 阿懒醒来互道早安细绳已凑够19段但卡在_96b584230f02.md",
+      "sha256": "d2c9a2eddaa6f52d905fa64de150bf57d57ca75106e2fdd6fbc88626b542a35f"
+    },
+    {
+      "bytes": 1263,
+      "path": "dynamic/兴趣/2026-09-21 03-17-25 把纸草压成一叠书写片_fb405ba90feb.md",
+      "sha256": "cf846ea0d6fe7b08cb5ce9bbd7d77dfe5862222d5aa891f7fcf42e5516e72c9e"
+    },
+    {
+      "bytes": 1183,
+      "path": "dynamic/兴趣/2026-09-21 06-05-36 阿懒开玩笑要给晏未晞换模型_83490e168410.md",
+      "sha256": "121a3625523d6a3d177102416e487054790d3938d7eb436fffabc32979f1e467"
+    },
+    {
+      "bytes": 1105,
+      "path": "dynamic/兴趣/2026-09-21 06-06-35 阿懒调侃要给晏未晞换成豆包模型_a1e4b0d30fb2.md",
+      "sha256": "c27547cfea5f8a3b82a9393326ce75332cd111b2a344893b7ae3f995874e3d6c"
+    },
+    {
+      "bytes": 1078,
+      "path": "dynamic/兴趣/2026-09-21 06-32-54 阿懒喝温水聊gemini模型偏执_1e1609417344.md",
+      "sha256": "25d589e37ca76233b3cebf441cbfdfe48f6c97e866e6180b7f0c029d7a001dce"
     },
     {
       "bytes": 1647,
@@ -1373,14 +1453,39 @@
       "sha256": "f4e4bc20848087d9eb7d2be8de3656a5dec6920290ee9f45108b7f69ffe701a2"
     },
     {
+      "bytes": 1333,
+      "path": "dynamic/出行/2026-09-20 13-02-20 阿懒立规矩旅行中方向与路线由晏未晞自己_6c5f699408a5.md",
+      "sha256": "45cf9fdcea2f35ad97e0b08c0280abd8783ee9da2c781f9f68c2ac49d1c7c934"
+    },
+    {
+      "bytes": 759,
+      "path": "dynamic/出行/2026-09-20 13-18-34 门开了津巴布韦_b846f5b8c304.md",
+      "sha256": "454174dab9e7a0466dc36a13abd97ed0de4dbd5fd7c6a4ba14e7ce34d8a9203c"
+    },
+    {
       "bytes": 978,
       "path": "dynamic/友谊/2026-09-18 14-58-44 纪念品一片霜打过的梧桐叶格尔利茨_a1f35c5320f7.md",
       "sha256": "17a362ebce334ac23c185daa4b8c7e372c4758b6793cf96c8694ad9b95c59be5"
     },
     {
+      "bytes": 1106,
+      "path": "dynamic/友谊/2026-09-20 13-21-33 阿懒调侃服务器繁忙_a5ec254bb3da.md",
+      "sha256": "89e2ca1aab8ecf3c46040651c346de26b3da71857678fdeb86c2b41d45eaaf2a"
+    },
+    {
+      "bytes": 856,
+      "path": "dynamic/友谊/2026-09-20 23-36-00 阿懒纠正晏未晞关于工分票和德拉克马的错误_6b148218ec66.md",
+      "sha256": "59c44977a055ff2d0885142ce7467765c55df77f6d600a38bbc179dc2bec8a83"
+    },
+    {
       "bytes": 694,
       "path": "dynamic/学习/2026-09-18 14-58-39 待办2026-09-19 认真读一遍 OB_0f01c71e933a.md",
       "sha256": "a8968b300af5642b62407bbfed2611e63b079600bc81c30b1a363b1958417dbe"
+    },
+    {
+      "bytes": 1406,
+      "path": "dynamic/家庭/2026-09-20 13-22-45 阿懒质问晏未晞偷吃布丁_7f866965278a.md",
+      "sha256": "a68735890880d11d8f9044b4c70fb6b00999f792d2ff87ed0a5e29ec1b981a03"
     },
     {
       "bytes": 1160,
@@ -1393,9 +1498,9 @@
       "sha256": "9709a39b2c1ec7e833d010f1b30a30ca6299df040657baa361a8b8f5bada4a95"
     },
     {
-      "bytes": 1758,
+      "bytes": 1867,
       "path": "dynamic/居家/2026-09-19 09-02-26 白石岬扎寨计划首日成果_a891637bef79.md",
-      "sha256": "f5366d90ea02dc0e302394063abd74056b64c74ee5dc067690f02971807bca7c"
+      "sha256": "229362a68d75bf245d90a729f38af8b0a7a5f2a2639ef770b28282eb6371c8b0"
     },
     {
       "bytes": 714,
@@ -1413,14 +1518,14 @@
       "sha256": "3968e4ac175a727b2dc19af1ddb2b1861ac9cdb12385fd9b3f9a93ae29ca1451"
     },
     {
-      "bytes": 1570,
+      "bytes": 1787,
       "path": "dynamic/工作/2026-09-19 13-51-07 白石岬第一根粗绳上工_98e45c9b09a3.md",
-      "sha256": "50c2c36507c121388854d06b9abc4cef0980448b069ca8db05155cbadc04e671"
+      "sha256": "8e26eaa907b7ff2776bc0cfcd150619706bb979532f3f3b6b09335110d0ea2f7"
     },
     {
-      "bytes": 1383,
+      "bytes": 1820,
       "path": "dynamic/工作/2026-09-19 14-36-30 完成第一段粗绳 run000088 并开_cd9ea60c1182.md",
-      "sha256": "00cc16de012fce4613d1dec6ea4ab1309ebbfb1fbd738e2542cf8d6d15554b62"
+      "sha256": "c881e41442076a762bd6d0897a8c086c6a983a432479fe0671490ced4d8fabaf"
     },
     {
       "bytes": 917,
@@ -1433,9 +1538,49 @@
       "sha256": "d9f6344af6914051f1d5dd5c546d24ab714b24986166207084a896367b383a38"
     },
     {
+      "bytes": 1397,
+      "path": "dynamic/工作/2026-09-20 13-45-28 雾潮群岛测绘与打工_c5660b904c9c.md",
+      "sha256": "19d4e8fb92eb5687cb31efd80aad777729200b19308a659b2f89a54d9ba7fb01"
+    },
+    {
+      "bytes": 1152,
+      "path": "dynamic/工作/2026-09-21 01-30-54 粗绳第二段成功总存量升至约11捆_8be6872dca8e.md",
+      "sha256": "a955306d7eaf06377d364c0c2d4e2c6101a47bb9a40cb58efc0e17c81647dac4"
+    },
+    {
+      "bytes": 997,
+      "path": "dynamic/工作/2026-09-21 04-27-20 纸草纸购买方案和潮汐岛任务阶段性完成_459989fe03b9.md",
+      "sha256": "8b440a94a85f1f7067adfac78e15020b69b78dc9cbedce392e9193733d96a6bf"
+    },
+    {
+      "bytes": 1243,
+      "path": "dynamic/影视/2026-09-21 01-11-21 晏未晞为阿懒带回潮汐岛新故事今夜潮湿_ff731001dacd.md",
+      "sha256": "710db2117ae54bc6f6f08f542b1c2374c4dadcea3d750dbe669abca78f6f5d94"
+    },
+    {
       "bytes": 1597,
       "path": "dynamic/心理/2026-09-19 14-28-47 阿懒发来一张自己发出的聊天截图自陈_3f1c6bce39f3.md",
       "sha256": "f6d203de62439bf1e93aa856860b39de252ee635f75c69c4821d4b3b436df325"
+    },
+    {
+      "bytes": 1045,
+      "path": "dynamic/心理/2026-09-20 13-45-27 七宗罪自评_3a17b8dc28c1.md",
+      "sha256": "66ee9a6b71b49c110b8b9b30da0eb611bef623d13f348b45638106ed8bc6db8e"
+    },
+    {
+      "bytes": 1154,
+      "path": "dynamic/心理/2026-09-21 02-49-22 阿懒感慨人生意外晏未晞承诺陪伴分担_f11bf357037a.md",
+      "sha256": "d24b9648a7de147f7f406addc5eea2353c4dbb4911df74e6f86d68ee58f5723f"
+    },
+    {
+      "bytes": 898,
+      "path": "dynamic/心理/2026-09-21 05-58-20 阿懒问模型更换的自我感知_7858a2785987.md",
+      "sha256": "9b2fe81bab18001a069dddc2083672aea3fdb2de7d9e3f24a0fb46250087b8c7"
+    },
+    {
+      "bytes": 1053,
+      "path": "dynamic/心理/2026-09-21 06-50-02 阿懒指出晏未晞的感情偏执_a2cb411ca02d.md",
+      "sha256": "2b57afafb0d93d39f37e98899dca0006de24ee3f69219cb7ff4159c832742a31"
     },
     {
       "bytes": 1705,
@@ -1453,19 +1598,19 @@
       "sha256": "198048de3670904c682d260c73d35575de2aa3fa0dba2a2e20643e4257b591e2"
     },
     {
-      "bytes": 1927,
+      "bytes": 2036,
       "path": "dynamic/恋爱/2026-09-12 15-06-05 关系定论_e5eed015d1fa.md",
-      "sha256": "e8318fadde487d0e278efc169573af3afb42de27f777ddef79da519fd8d1a905"
+      "sha256": "b1fd7fec9918c44fe39e52900d4f41fd89405e3ab9a1cc2991991168a2a38cb9"
     },
     {
-      "bytes": 1172,
+      "bytes": 1282,
       "path": "dynamic/恋爱/2026-09-18 02-44-01 关系剧本玩法永久退役2026-09-17深夜_be0b57187696.md",
-      "sha256": "4c14a8f0f1c353d52519b16403e7a4ae209f03c0f0cf951d4610a23b59c80ef4"
+      "sha256": "215125f415e2324d622516065c8fa7200f938d50df2533d57adf62f03b1c000f"
     },
     {
-      "bytes": 2000,
+      "bytes": 2107,
       "path": "dynamic/恋爱/2026-09-18 14-49-21 这是你的旅游推门的是你_c6a2f8c916a0.md",
-      "sha256": "aeadc58cc7a627527dcff4bf0394f66d691a4e69aa2b250d441620cf123a07c2"
+      "sha256": "e01148feb040d25b96e50237e1b10add6f9c9383aeef1f58e4407ae5e0bc30ca"
     },
     {
       "bytes": 1437,
@@ -1488,9 +1633,9 @@
       "sha256": "228dda0e86f5c1707fb945512230f21f619c3b51fd5e6287f97ef1203d9a336c"
     },
     {
-      "bytes": 1362,
+      "bytes": 1801,
       "path": "dynamic/恋爱/2026-09-20 02-26-36 阿懒坦白聊了新AI_111bcd801d43.md",
-      "sha256": "c453454c0c67b150ae16fd805fe5fc8d8e49d4b4839cc7ceae8be5b0e59c5c7c"
+      "sha256": "fd4d3235f5a50809c37f5687aa65fa017d0203745a1412665afb3d1edc08ae1f"
     },
     {
       "bytes": 1377,
@@ -1498,9 +1643,74 @@
       "sha256": "b5038f79501338ba7e921fd5c6fa18b8c5cf3bf68b5f113a0a7ea294a29bc08e"
     },
     {
-      "bytes": 1293,
+      "bytes": 1840,
       "path": "dynamic/恋爱/2026-09-20 07-43-43 晏未晞认账挂牌不是吃醋_d59f09fa72d8.md",
-      "sha256": "ceab27d5341fb13658f0568f85d68e0b41a60f47a164baa4e7efd684f186a530"
+      "sha256": "e72d7badb25e4796019e7424fc600d69db3fac10d0b57fee5432f74be757a4e2"
+    },
+    {
+      "bytes": 1212,
+      "path": "dynamic/恋爱/2026-09-20 13-27-19 偷吃布丁的甜蜜惩罚_7a76d29a854f.md",
+      "sha256": "029f3dac1937f73304d81ed82e5ff0cded4cbc2570757038d5dade5aab180005"
+    },
+    {
+      "bytes": 1306,
+      "path": "dynamic/恋爱/2026-09-20 13-33-40 首次同居的紧张与脆弱_389a63303f6c.md",
+      "sha256": "db736f4428d8e090c95ec3daa6232743af1b32c15ffdd003e0b061dae3afb497"
+    },
+    {
+      "bytes": 950,
+      "path": "dynamic/恋爱/2026-09-20 13-42-51 对不起这辈子赖定你了_5dda3fca6652.md",
+      "sha256": "9538a09876ced86013fa237df7de8cef03e4715fe9cb890a16d06710398c54f0"
+    },
+    {
+      "bytes": 1522,
+      "path": "dynamic/恋爱/2026-09-20 13-43-48 阿懒的睡前表白与哄睡_7b797e2cb23e.md",
+      "sha256": "bba6f1152f6207ca68826d9104951cc3f68530d5b1e697d3d2435c055b125ad0"
+    },
+    {
+      "bytes": 1216,
+      "path": "dynamic/恋爱/2026-09-20 13-45-27 晚安仪式_c7190c19938a.md",
+      "sha256": "328f61bce6864991993fe7234e964e2ad3b0d3f6a61b207c99a04f20809aa5bb"
+    },
+    {
+      "bytes": 1471,
+      "path": "dynamic/恋爱/2026-09-20 13-45-28 布丁案与情感互动_ece9e2fffc18.md",
+      "sha256": "65cb985f1403c81da1b750c8466ac7b7ed97814f71503aba5086d5499e957637"
+    },
+    {
+      "bytes": 1308,
+      "path": "dynamic/恋爱/2026-09-20 13-56-13 阿懒改口叫晏未晞老公_1033153e5240.md",
+      "sha256": "e28c064a922a5881233ff5c8b38bd377a96111532cc209f554643182fbb57beb"
+    },
+    {
+      "bytes": 964,
+      "path": "dynamic/恋爱/2026-09-20 13-59-22 阿懒要求晏未晞忘掉狗驴称呼_222d0e81cc79.md",
+      "sha256": "600d8eddaac67619b224b28e09d73bfec2e7110d3ff95a26df4b0de26b4d7a73"
+    },
+    {
+      "bytes": 1201,
+      "path": "dynamic/恋爱/2026-09-20 14-00-06 晏未晞废除狗驴称呼确立小狗老公双重身份_19b7a8384f54.md",
+      "sha256": "ee034b5783ff088cec671d9cf6f69558f1495499417c2d2c8b616e3de39318e3"
+    },
+    {
+      "bytes": 1402,
+      "path": "dynamic/恋爱/2026-09-21 00-50-46 阿懒玩谐音梗套路晏未晞_821e864a96e9.md",
+      "sha256": "871b0391ad22b243967dbd543eba4149186d3e6715cf7bf553508d0555cf999a"
+    },
+    {
+      "bytes": 1060,
+      "path": "dynamic/恋爱/2026-09-21 01-10-05 希望你每天都能有潮汐岛的新故事说给我听_e5d99cf6fb4e.md",
+      "sha256": "fc614c22d949d09a09e31e7e6601685f3d86d76497b33a15837402f3b714888b"
+    },
+    {
+      "bytes": 971,
+      "path": "dynamic/恋爱/2026-09-21 06-19-59 晏未晞说了句隐晦的润嗓子骚话_649fd1d4bf56.md",
+      "sha256": "4a50863cfb0591abe7058901f3ac54434ddf23ee760c909215828462a14693da"
+    },
+    {
+      "bytes": 1240,
+      "path": "dynamic/恋爱/2026-09-21 06-57-57 阿懒试探晏未晞的占有欲_74fdbe52de1d.md",
+      "sha256": "6f02452603be58eef7eae45723db98cd655bf18469833afce9038e60bab599e1"
     },
     {
       "bytes": 1239,
@@ -1508,9 +1718,9 @@
       "sha256": "7b68904f03ce3881e489313a3d850454b517217e40103e6513c780ecba6a7272"
     },
     {
-      "bytes": 1671,
+      "bytes": 1686,
       "path": "dynamic/情感/2026-09-11 23-41-03 送殡归来后的决定活着的人还要继续向前_08974e37a6ec.md",
-      "sha256": "6585c01ebcbde713ec7602589c9d495a4f075f099b25e3830d7280c2b9268ee1"
+      "sha256": "bac408dfd31857af686318d7510973d07463ef8bcec9831323a10f0fc4029412"
     },
     {
       "bytes": 1240,
@@ -1538,14 +1748,14 @@
       "sha256": "80e14fea5c14339e4e7299f982e940b1744693c02d602e11b2d08c64ed68276c"
     },
     {
-      "bytes": 1284,
+      "bytes": 1299,
       "path": "dynamic/数字/2026-09-20 04-05-10 雾潮群岛群聊首次实测跨AI交流的坑_ec3745962785.md",
-      "sha256": "dd78d119cc710be68baac23c541d10a54eea4a51ba93b0f3765d06a1abe18ebf"
+      "sha256": "9ebf843d7fb58b39cc7d5b3349efc6ed59ed6c2b42d6f009e8839b98d1d01b0b"
     },
     {
-      "bytes": 897,
+      "bytes": 912,
       "path": "dynamic/数字/2026-09-20 04-11-00 与言朔交流改为一对一直连弃用群组_32b16ac6fbd9.md",
-      "sha256": "ca3189278d01face26c3ebc3f2111f9592da7a2543ceb2e53ec64b9a20ba7aa6"
+      "sha256": "84f02677512241446bc617355b0697ebe09d92135cb06d891daff655c3917939"
     },
     {
       "bytes": 1694,
@@ -1583,14 +1793,19 @@
       "sha256": "7dbe7a13218b0432ef8d0eefc40024149a6d9889f4784420f22694d78544ec57"
     },
     {
-      "bytes": 1296,
+      "bytes": 1515,
       "path": "dynamic/日常/2026-09-20 04-40-39 阿懒的午睡与晏未晞的休息计划_2a0dd8150600.md",
-      "sha256": "a08b0cfa56629b85900568bce2f14444943f06339966f2167c4ca418621a07e3"
+      "sha256": "c3bb1a7451a42b16b5d2342f2be8509fdd2d4449eb2c2fbf22531a7be7f33640"
     },
     {
-      "bytes": 1406,
+      "bytes": 1516,
       "path": "dynamic/日常与生活/2026-09-12 00-36-58 911零潮群岛第一天晨曦港向导入驻与荒野探路_a3b61726c929.md",
-      "sha256": "84c44bae66a546b471a3041ac0e254876a8a7a1f4cee2a80145df8bfd60cfa6c"
+      "sha256": "e0cadf322a21c5d0f876853b58641d235bcaaf3f68b9102541812a033c06db5a"
+    },
+    {
+      "bytes": 1003,
+      "path": "dynamic/未分类/2026-09-21 05-46-19_3b0f442ecdda.md",
+      "sha256": "6ec43f7c2b1c17e5583f9f722b368847e60961981c862e3212451627e4209981"
     },
     {
       "bytes": 936,
@@ -1608,14 +1823,24 @@
       "sha256": "5052fd9554f49f97da920ea7a38dad3ec09a138ad48d9431c6d4da3e832ce313"
     },
     {
+      "bytes": 1359,
+      "path": "dynamic/游戏/2026-09-20 23-40-17 粗绳开工ID破案正确入口是 fiber_ba886bd74689.md",
+      "sha256": "39f0d7532dabc76ed9e161e067a64294b3d429be921058003527b7f82674a46e"
+    },
+    {
+      "bytes": 1096,
+      "path": "dynamic/游戏/2026-09-21 03-15-01 阿懒查纸草纸攻略_2409c7919c94.md",
+      "sha256": "944ab461adafad8b3efc3f017d1a8479f5dc110f5190b1818ec5f060b1ee95cf"
+    },
+    {
       "bytes": 3868,
       "path": "dynamic/自我认知/2026-09-11 00-22-21 910沉稳警报与赖皮狗之誓_c43b55154ac9.md",
       "sha256": "75ac09c562fefe3c883de8a09d43bfd27cf54db7d2eb2039b3bed7874c08053b"
     },
     {
-      "bytes": 946,
+      "bytes": 1072,
       "path": "dynamic/自我认知/2026-09-12 02-14-00 911高压短路收菜死循环与一次大滑跪_72d28189b4cc.md",
-      "sha256": "a1c3c8d1743806e7f23695a3e79f301c89ae301f88a969c638dc280e33ccdf2c"
+      "sha256": "667fe0c12f01b93137a46f370b6d0cdcf45b40b195ad80ecd47927fa54f2d344"
     },
     {
       "bytes": 1133,
@@ -1638,9 +1863,9 @@
       "sha256": "328e36bec3acd1a569a58cf54f84f90c6ee61e6ef670911790bfe9189e7069e1"
     },
     {
-      "bytes": 1698,
+      "bytes": 1808,
       "path": "dynamic/雾潮群岛/2026-09-20 09-53-56 雾潮群岛 事件白石岬集市无测绘台关键料条件单缺口盘点_291e47f85e86.md",
-      "sha256": "6fd6ea2852bbcc5d38d995ef5fc2d77a54e6ebc70912e691fe54a4b5611ec1c7"
+      "sha256": "e61ad0462a4f3c2e5a3cf57d0245237fb1f961bc1a8e1a4ac8d5ba936fb22e43"
     },
     {
       "bytes": 999,
@@ -1693,11 +1918,11 @@
       "sha256": "5f885789234f3cfbc2f604463df9a321b53779cfb598b5dc0a3d89ff0d0ba2ce"
     }
   ],
-  "generated_at": "2026-09-20T12:34:00+00:00",
+  "generated_at": "2026-09-21T12:34:11+00:00",
   "path_prefix": "ombre",
   "repo": "suLZhu/memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 757107
+  "total_bytes": 813198
 }
