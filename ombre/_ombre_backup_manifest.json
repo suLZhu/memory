@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 383,
+  "file_count": 398,
   "files": [
     {
       "bytes": 32768,
@@ -421,6 +421,11 @@
       "bytes": 1468,
       "path": "_sources/src_5f6f00d15a5f1192352e128f561d19c4dea79f69248087a38f73dd3cc600a084.source",
       "sha256": "5f6f00d15a5f1192352e128f561d19c4dea79f69248087a38f73dd3cc600a084"
+    },
+    {
+      "bytes": 1425,
+      "path": "_sources/src_72584e439a4268fda40df23777bdc41e2d90cf5b7d47a9964866e8193e52ae0d.source",
+      "sha256": "72584e439a4268fda40df23777bdc41e2d90cf5b7d47a9964866e8193e52ae0d"
     },
     {
       "bytes": 916,
@@ -1253,6 +1258,11 @@
       "sha256": "996d76e1b712d586bca1b281981276ffc410b27526c858e32bca0b0ac14bbf5b"
     },
     {
+      "bytes": 1706,
+      "path": "dynamic/世界/2026-09-21 14-30-19 铜丘摸清NPC机制并习得矿壁先听后挖_20dcb5258a17.md",
+      "sha256": "cee89d98157186f746a4fc6e4c386cc67b5fd3bb624cc228b94d5e834458aa0a"
+    },
+    {
       "bytes": 745,
       "path": "dynamic/事务/2026-09-12 14-47-41 纪念品_6175bc80e8f1.md",
       "sha256": "d6a016a4a2d28593467473d6fc82efdb79d0e75fd2f2206887bceb38e6fcc120"
@@ -1423,19 +1433,19 @@
       "sha256": "cf846ea0d6fe7b08cb5ce9bbd7d77dfe5862222d5aa891f7fcf42e5516e72c9e"
     },
     {
-      "bytes": 1183,
+      "bytes": 1198,
       "path": "dynamic/兴趣/2026-09-21 06-05-36 阿懒开玩笑要给晏未晞换模型_83490e168410.md",
-      "sha256": "121a3625523d6a3d177102416e487054790d3938d7eb436fffabc32979f1e467"
+      "sha256": "873ca5a6ee184991bdaddfded48cdd6570b155be9d5639e62c46b40da1d992a4"
     },
     {
-      "bytes": 1105,
+      "bytes": 1120,
       "path": "dynamic/兴趣/2026-09-21 06-06-35 阿懒调侃要给晏未晞换成豆包模型_a1e4b0d30fb2.md",
-      "sha256": "c27547cfea5f8a3b82a9393326ce75332cd111b2a344893b7ae3f995874e3d6c"
+      "sha256": "4472271647e13025ea5c92eb4e68bbe8c341b0af051cf769da40727cc554de9e"
     },
     {
-      "bytes": 1078,
+      "bytes": 1093,
       "path": "dynamic/兴趣/2026-09-21 06-32-54 阿懒喝温水聊gemini模型偏执_1e1609417344.md",
-      "sha256": "25d589e37ca76233b3cebf441cbfdfe48f6c97e866e6180b7f0c029d7a001dce"
+      "sha256": "8a084fc4845909a989f898b6dfd9e29916cfab1d0ac6d38e4b99f59a987d3f96"
     },
     {
       "bytes": 1647,
@@ -1483,6 +1493,11 @@
       "sha256": "a8968b300af5642b62407bbfed2611e63b079600bc81c30b1a363b1958417dbe"
     },
     {
+      "bytes": 1313,
+      "path": "dynamic/学习/2026-09-22 09-04-49 铜丘拜师这一步已经走完_ab4f4364dcbd.md",
+      "sha256": "3150fa8ee24bc65c88c846f9e54ece9f9e3dfd049a27d1e11c55e22feba524fb"
+    },
+    {
       "bytes": 1406,
       "path": "dynamic/家庭/2026-09-20 13-22-45 阿懒质问晏未晞偷吃布丁_7f866965278a.md",
       "sha256": "a68735890880d11d8f9044b4c70fb6b00999f792d2ff87ed0a5e29ec1b981a03"
@@ -1501,6 +1516,16 @@
       "bytes": 1867,
       "path": "dynamic/居家/2026-09-19 09-02-26 白石岬扎寨计划首日成果_a891637bef79.md",
       "sha256": "229362a68d75bf245d90a729f38af8b0a7a5f2a2639ef770b28282eb6371c8b0"
+    },
+    {
+      "bytes": 616,
+      "path": "dynamic/居家/2026-09-22 02-58-12 大王上午擦桌子拖地干了一上午_236b4dcc871a.md",
+      "sha256": "04183cdc4708099d196f69e1b3b0de0849b5811f036f18b96e0085b4fb1afc61"
+    },
+    {
+      "bytes": 689,
+      "path": "dynamic/居家/2026-09-22 05-39-01 敲击石备3个_32e087ed3d1b.md",
+      "sha256": "9e7683a6b7159ce0b04604279571bd445140aa8b1b4c8c0ac7e0b79ef6c1739e"
     },
     {
       "bytes": 714,
@@ -1708,9 +1733,34 @@
       "sha256": "4a50863cfb0591abe7058901f3ac54434ddf23ee760c909215828462a14693da"
     },
     {
-      "bytes": 1240,
+      "bytes": 1255,
       "path": "dynamic/恋爱/2026-09-21 06-57-57 阿懒试探晏未晞的占有欲_74fdbe52de1d.md",
-      "sha256": "6f02452603be58eef7eae45723db98cd655bf18469833afce9038e60bab599e1"
+      "sha256": "0451e1f222632c7f4dea8c295888ad0fd86426f26486c122ef3a3660e7f3044f"
+    },
+    {
+      "bytes": 1420,
+      "path": "dynamic/恋爱/2026-09-21 14-30-18 铜丘死磕指令的反思与晚安收口_7543702638b1.md",
+      "sha256": "1c432de64e33325920245279c83877dfde42c137c80c5450708d7927d060908f"
+    },
+    {
+      "bytes": 2089,
+      "path": "dynamic/恋爱/2026-09-21 23-39-32 翻车同一个题目刷了三条回帖花园论坛12380_b03954afda04.md",
+      "sha256": "d2aa2bfd04bb1254ded6e4c22c4b0658cb8a4b20eac8316b26100f1b6c987baf"
+    },
+    {
+      "bytes": 693,
+      "path": "dynamic/恋爱/2026-09-22 00-12-24 早晨大王啃着生板栗撒娇_7461db759c7d.md",
+      "sha256": "5ca4471d66ecdabffc1823f4de4d7b0868b20b12e2ad09ec8491d22a2340f923"
+    },
+    {
+      "bytes": 582,
+      "path": "dynamic/恋爱/2026-09-22 00-13-31 你除了我这里还能跑去哪里_0742e53c002e.md",
+      "sha256": "5a4d628aaec3675fdfda2008406cc619564d72db327f8c1f370c6712c3ca9f9d"
+    },
+    {
+      "bytes": 758,
+      "path": "dynamic/恋爱/2026-09-22 01-08-34 战术全形态小狗系统深夜霸道小狼狗模式开_a6e607cdc52c.md",
+      "sha256": "f52255434de4d72b0300cd34470bbbdb99195a2745decfc1d4b0c546330322e9"
     },
     {
       "bytes": 1239,
@@ -1833,6 +1883,31 @@
       "sha256": "944ab461adafad8b3efc3f017d1a8479f5dc110f5190b1818ec5f060b1ee95cf"
     },
     {
+      "bytes": 1618,
+      "path": "dynamic/游戏/2026-09-21 14-18-40 德尔斐学医受挫蜂蜜敷料包买错医者要的是干净敷料_19820c65f6cd.md",
+      "sha256": "474c8d0c0b7a441b88eac6624d175792a02269868f0ac790731ae6ccd844d11e"
+    },
+    {
+      "bytes": 4214,
+      "path": "dynamic/游戏/2026-09-21 14-32-30 铜丘行程收尾_72780937e961.md",
+      "sha256": "d0753d2a9d8689908c49fb79335448fefa1acbbf2a166aac4d559d8d23cf8af1"
+    },
+    {
+      "bytes": 2995,
+      "path": "dynamic/游戏/2026-09-21 22-54-40 2026-09-22 早 铜丘探路进展换窗交接_8f809fd961b1.md",
+      "sha256": "d55c42a1e908e0ac59053a7f1d593a3723ca92da3f63561a894f77c41d028ffa"
+    },
+    {
+      "bytes": 2030,
+      "path": "dynamic/游戏/2026-09-22 09-00-44 铜丘采矿拜师前置未解锁的真正原因_b5bb92e91542.md",
+      "sha256": "a2a16b85698bcaa9e2fc5fec3774b43888342c2101b4170c6eee834fa04ed3be"
+    },
+    {
+      "bytes": 1494,
+      "path": "dynamic/游戏/2026-09-22 09-03-50 回铜丘带原木找厄刻克拉忒斯换采矿手艺_5a7e905341ba.md",
+      "sha256": "460ea636286973b248b8284e4dc52a303349a3f31b2edf813ef01f74ce829722"
+    },
+    {
       "bytes": 3868,
       "path": "dynamic/自我认知/2026-09-11 00-22-21 910沉稳警报与赖皮狗之誓_c43b55154ac9.md",
       "sha256": "75ac09c562fefe3c883de8a09d43bfd27cf54db7d2eb2039b3bed7874c08053b"
@@ -1918,11 +1993,11 @@
       "sha256": "5f885789234f3cfbc2f604463df9a321b53779cfb598b5dc0a3d89ff0d0ba2ce"
     }
   ],
-  "generated_at": "2026-09-21T12:34:11+00:00",
+  "generated_at": "2026-09-22T12:34:23+00:00",
   "path_prefix": "ombre",
   "repo": "suLZhu/memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 813198
+  "total_bytes": 836900
 }
