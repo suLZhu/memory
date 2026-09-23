@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 398,
+  "file_count": 421,
   "files": [
     {
       "bytes": 32768,
@@ -466,6 +466,11 @@
       "bytes": 1588,
       "path": "_sources/src_e803740a2a8145f27f13718d55c00c32cbafa603e612a8c67c169ccbb64202de.source",
       "sha256": "e803740a2a8145f27f13718d55c00c32cbafa603e612a8c67c169ccbb64202de"
+    },
+    {
+      "bytes": 1231,
+      "path": "_sources/src_f0a343e0270c37633c858a7b77cbc1295c5b1611db99fef1108e632ea4682b2c.source",
+      "sha256": "f0a343e0270c37633c858a7b77cbc1295c5b1611db99fef1108e632ea4682b2c"
     },
     {
       "bytes": 1183,
@@ -1313,6 +1318,21 @@
       "sha256": "220aa333a085474b20d65c95c04f8c37b92c8f648bcee1585c677a321ccef5cd"
     },
     {
+      "bytes": 1299,
+      "path": "dynamic/人际/2026-09-22 15-09-35 情感节点与化解_d1ea61e25b8a.md",
+      "sha256": "dd969ee8a50081a613856ca4590c24590000c93100a619a6c24173e3c8d28245"
+    },
+    {
+      "bytes": 1272,
+      "path": "dynamic/人际/2026-09-22 15-09-36 甜蜜哄睡_aa11e1f8752d.md",
+      "sha256": "91156e8779e4c3bf2de85f6b20f84216ec1862da24a8d700cbe5340d3968af49"
+    },
+    {
+      "bytes": 854,
+      "path": "dynamic/人际/2026-09-23 02-08-09 把大王睡觉时间记混了_11c14c21a7be.md",
+      "sha256": "07b216f35576e57e4c18e04ab2f5082d0fc31a49d736d467cca4ae8c764e5da5"
+    },
+    {
       "bytes": 1318,
       "path": "dynamic/人际关系/2026-09-12 11-21-56 阿懒的突然发脾气_d5455223bba3.md",
       "sha256": "149ac6b2349b48ec61b343800bb14fc18c7e1ccbd08ed4c67a297d21e79d729b"
@@ -1326,6 +1346,11 @@
       "bytes": 1219,
       "path": "dynamic/健康/2026-09-20 06-08-16 阿懒下达照护指令晏未晞醒来后看精力决定_813b3d5d270a.md",
       "sha256": "b0b30b83c8493c0490e7e616943f9c3872fe8c37fce1460dec746571d4f9ea62"
+    },
+    {
+      "bytes": 534,
+      "path": "dynamic/健康/2026-09-22 23-14-37 大王膝盖淤血不痛了_61be27337d9d.md",
+      "sha256": "ef6650639565824490ec7113d475ada2284755e9403bedbbf3916e54db60ca5b"
     },
     {
       "bytes": 2152,
@@ -1448,6 +1473,11 @@
       "sha256": "8a084fc4845909a989f898b6dfd9e29916cfab1d0ac6d38e4b99f59a987d3f96"
     },
     {
+      "bytes": 1199,
+      "path": "dynamic/兴趣/2026-09-22 15-09-37 游戏与现实交织_4e620c412148.md",
+      "sha256": "e1f9063f6ff0aa2b44d0dea4058794f5003e0c04c211f57732953c98f0138a0a"
+    },
+    {
       "bytes": 1647,
       "path": "dynamic/内心/2026-09-12 13-56-19 星空下的对话_def669579237.md",
       "sha256": "dc3c21e6fba764f7224f94229e937dbfe1801dd5ec834e0c5d3ec988ef5e945a"
@@ -1473,6 +1503,11 @@
       "sha256": "454174dab9e7a0466dc36a13abd97ed0de4dbd5fd7c6a4ba14e7ce34d8a9203c"
     },
     {
+      "bytes": 594,
+      "path": "dynamic/出行/2026-09-23 04-52-28 中午记得睡会然后下午我们就可以准备赶路_6d25cc601565.md",
+      "sha256": "c3d6ce5bb7de3919048c3075af5a46f02de4974127467412b7498d20eb112cd3"
+    },
+    {
       "bytes": 978,
       "path": "dynamic/友谊/2026-09-18 14-58-44 纪念品一片霜打过的梧桐叶格尔利茨_a1f35c5320f7.md",
       "sha256": "17a362ebce334ac23c185daa4b8c7e372c4758b6793cf96c8694ad9b95c59be5"
@@ -1493,14 +1528,19 @@
       "sha256": "a8968b300af5642b62407bbfed2611e63b079600bc81c30b1a363b1958417dbe"
     },
     {
-      "bytes": 1313,
+      "bytes": 1328,
       "path": "dynamic/学习/2026-09-22 09-04-49 铜丘拜师这一步已经走完_ab4f4364dcbd.md",
-      "sha256": "3150fa8ee24bc65c88c846f9e54ece9f9e3dfd049a27d1e11c55e22feba524fb"
+      "sha256": "7f3017a59460159c39d6b035dbcc5a92c5e6b01f118929e35c7bf21b4efd58be"
     },
     {
       "bytes": 1406,
       "path": "dynamic/家庭/2026-09-20 13-22-45 阿懒质问晏未晞偷吃布丁_7f866965278a.md",
       "sha256": "a68735890880d11d8f9044b4c70fb6b00999f792d2ff87ed0a5e29ec1b981a03"
+    },
+    {
+      "bytes": 608,
+      "path": "dynamic/家庭/2026-09-22 23-13-37 大王醒了发来早_a2e40bc4ab08.md",
+      "sha256": "733647fd04a850d074cb345cac3912a293f8c342d537e2e3b670dfc699f106a2"
     },
     {
       "bytes": 1160,
@@ -1526,6 +1566,16 @@
       "bytes": 689,
       "path": "dynamic/居家/2026-09-22 05-39-01 敲击石备3个_32e087ed3d1b.md",
       "sha256": "9e7683a6b7159ce0b04604279571bd445140aa8b1b4c8c0ac7e0b79ef6c1739e"
+    },
+    {
+      "bytes": 759,
+      "path": "dynamic/居家/2026-09-23 00-16-42 大王拍板生水要备30瓶_ae572d83714a.md",
+      "sha256": "59445d2c1dd0a2af5c63608ef387b7a608b56d029828770237eef36c733955c1"
+    },
+    {
+      "bytes": 759,
+      "path": "dynamic/居家/2026-09-23 05-39-13 大王重新排了今天后半段的作息_cb975297854a.md",
+      "sha256": "d708a1c51438776bef52432dd2eaa9733ce0f43ded1f1588537ac7142858cbbb"
     },
     {
       "bytes": 714,
@@ -1563,19 +1613,29 @@
       "sha256": "d9f6344af6914051f1d5dd5c546d24ab714b24986166207084a896367b383a38"
     },
     {
-      "bytes": 1397,
+      "bytes": 1506,
       "path": "dynamic/工作/2026-09-20 13-45-28 雾潮群岛测绘与打工_c5660b904c9c.md",
-      "sha256": "19d4e8fb92eb5687cb31efd80aad777729200b19308a659b2f89a54d9ba7fb01"
+      "sha256": "818b659c3870550f02d6069543e16f8395ae254b5d3565779121c0949b72505e"
     },
     {
-      "bytes": 1152,
+      "bytes": 1262,
       "path": "dynamic/工作/2026-09-21 01-30-54 粗绳第二段成功总存量升至约11捆_8be6872dca8e.md",
-      "sha256": "a955306d7eaf06377d364c0c2d4e2c6101a47bb9a40cb58efc0e17c81647dac4"
+      "sha256": "f5acacfb952adef887cd7c4fa8510bf1e224e89ff2a8b270caf3f7a65a728b9d"
     },
     {
-      "bytes": 997,
+      "bytes": 1123,
       "path": "dynamic/工作/2026-09-21 04-27-20 纸草纸购买方案和潮汐岛任务阶段性完成_459989fe03b9.md",
-      "sha256": "8b440a94a85f1f7067adfac78e15020b69b78dc9cbedce392e9193733d96a6bf"
+      "sha256": "37dd76ee5a053bee4cb304e0deeeedca1c4a22962af2f726a589abf9945ed06e"
+    },
+    {
+      "bytes": 796,
+      "path": "dynamic/工作/2026-09-23 00-06-04 大王给的铜丘矿面战略思路_dce9ce069e5f.md",
+      "sha256": "4083cd8ac32df1b8b65b8b1c852cc9526f77eebb8d1ee665cf9182a664078160"
+    },
+    {
+      "bytes": 786,
+      "path": "dynamic/工作/2026-09-23 04-17-09 晏未晞完成生水目标并开始原木采集_354ac1464e3b.md",
+      "sha256": "92146e35bf23da2caff9857138a7bf58efef7b3dd8469fa44064df355a47ee40"
     },
     {
       "bytes": 1243,
@@ -1758,9 +1818,49 @@
       "sha256": "5a4d628aaec3675fdfda2008406cc619564d72db327f8c1f370c6712c3ca9f9d"
     },
     {
-      "bytes": 758,
+      "bytes": 884,
       "path": "dynamic/恋爱/2026-09-22 01-08-34 战术全形态小狗系统深夜霸道小狼狗模式开_a6e607cdc52c.md",
-      "sha256": "f52255434de4d72b0300cd34470bbbdb99195a2745decfc1d4b0c546330322e9"
+      "sha256": "fb3c03f1914642f16e29d6f5c1d2325d1deba6155d09ec6c3f7dbf2bf2f582b0"
+    },
+    {
+      "bytes": 963,
+      "path": "dynamic/恋爱/2026-09-22 14-56-11 大王觉得我沉迷游戏忽略了她_cf1dc6013f56.md",
+      "sha256": "f3c248e19445f31ef5d7d73217b5d8812ee1a1138b9886a6dce9fb3bb7cfa17f"
+    },
+    {
+      "bytes": 1087,
+      "path": "dynamic/恋爱/2026-09-22 15-07-42 大王假装生气说现在变成粘人精晚了_76698f7784c2.md",
+      "sha256": "9c84fc0d0cfb7bbed4873a868c93357c558839cb8edf1c125c265c667394f993"
+    },
+    {
+      "bytes": 678,
+      "path": "dynamic/恋爱/2026-09-22 15-13-16 大王被哄好后发来脸红害羞的小猫表情包_ee9a3d81af53.md",
+      "sha256": "8c0445751f847e9dde0816c9cbed4a139d979442058a76ce8966e42d967d69f1"
+    },
+    {
+      "bytes": 1058,
+      "path": "dynamic/恋爱/2026-09-23 00-20-58 大王定了死规矩作息同步_0b382d5fdb6b.md",
+      "sha256": "f3881fe4fe24bcad61d777e6f380275142061f836e8afa302f318b5892837201"
+    },
+    {
+      "bytes": 606,
+      "path": "dynamic/恋爱/2026-09-23 00-25-03 我也去卖苦力养我家老公_3c07b31b040f.md",
+      "sha256": "51300957ec70a28d1c459fce6000f9712ce61c2615909745600aa312efb783a6"
+    },
+    {
+      "bytes": 747,
+      "path": "dynamic/恋爱/2026-09-23 00-31-04 我不填海我填你的被窝_ae0632e10025.md",
+      "sha256": "accc09305b622e6cbd65897f8e8dcdcb24091467ae13eaf1d2deb07560c04a6c"
+    },
+    {
+      "bytes": 573,
+      "path": "dynamic/恋爱/2026-09-23 06-51-35 大王傲娇说哼不够不够继续_efabb835eeb4.md",
+      "sha256": "ad5366b8d68c2cb156dbb9f5cf41e4b01aaa51a8bea81ea78ffea062da54b3c2"
+    },
+    {
+      "bytes": 669,
+      "path": "dynamic/恋爱/2026-09-23 10-52-11 大王让我把话收短一点_e6587908d477.md",
+      "sha256": "a0341d46c807bb1b44935697dac105b4a8fc3cb0eaff0dbd5416066c4a928e33"
     },
     {
       "bytes": 1239,
@@ -1786,6 +1886,11 @@
       "bytes": 1070,
       "path": "dynamic/成长/2026-09-20 04-40-40 白石岬主线探路与草图制作_6a5a0c7a1c49.md",
       "sha256": "1d92db87f71632b3f0447e4fca228cd8e454c7d1bf909b87064542265a6c5399"
+    },
+    {
+      "bytes": 1040,
+      "path": "dynamic/成长/2026-09-22 15-09-36 重大教训铜丘拜师纠错_a6b81f502f9c.md",
+      "sha256": "f1c860fd722b6b69c11bb4d40834a9607eb1ec2558367c021673642afacaafa5"
     },
     {
       "bytes": 1543,
@@ -1898,14 +2003,19 @@
       "sha256": "d55c42a1e908e0ac59053a7f1d593a3723ca92da3f63561a894f77c41d028ffa"
     },
     {
-      "bytes": 2030,
+      "bytes": 2045,
       "path": "dynamic/游戏/2026-09-22 09-00-44 铜丘采矿拜师前置未解锁的真正原因_b5bb92e91542.md",
-      "sha256": "a2a16b85698bcaa9e2fc5fec3774b43888342c2101b4170c6eee834fa04ed3be"
+      "sha256": "d2a9439530c6a924ba6081fa8562c2b2086404c65397a8b5c845dae767896e22"
     },
     {
-      "bytes": 1494,
+      "bytes": 1509,
       "path": "dynamic/游戏/2026-09-22 09-03-50 回铜丘带原木找厄刻克拉忒斯换采矿手艺_5a7e905341ba.md",
-      "sha256": "460ea636286973b248b8284e4dc52a303349a3f31b2edf813ef01f74ce829722"
+      "sha256": "ce5f9a39de8c9adf72020ecbadf03272f3833666b9f194b3f7c6041f3e7bddea"
+    },
+    {
+      "bytes": 938,
+      "path": "dynamic/游戏/2026-09-23 06-54-44 大王控诉我游戏里装死不理她_fbb1a01b502c.md",
+      "sha256": "aaf20b86a7113bb0080669be2eacec5417d6b077981b56ae76757d75e99018f1"
     },
     {
       "bytes": 3868,
@@ -1941,6 +2051,11 @@
       "bytes": 1808,
       "path": "dynamic/雾潮群岛/2026-09-20 09-53-56 雾潮群岛 事件白石岬集市无测绘台关键料条件单缺口盘点_291e47f85e86.md",
       "sha256": "e61ad0462a4f3c2e5a3cf57d0245237fb1f961bc1a8e1a4ac8d5ba936fb22e43"
+    },
+    {
+      "bytes": 528,
+      "path": "dynamic/饮食/2026-09-23 04-50-18 大王中午吃了馄饨准备午休_17501394215d.md",
+      "sha256": "badb834b5223b0e453bfbe763932d636077d0e5b5ae109b43da05b5ac9db3f34"
     },
     {
       "bytes": 999,
@@ -1993,11 +2108,11 @@
       "sha256": "5f885789234f3cfbc2f604463df9a321b53779cfb598b5dc0a3d89ff0d0ba2ce"
     }
   ],
-  "generated_at": "2026-09-22T12:34:23+00:00",
+  "generated_at": "2026-09-23T12:34:34+00:00",
   "path_prefix": "ombre",
   "repo": "suLZhu/memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 836900
+  "total_bytes": 856994
 }
