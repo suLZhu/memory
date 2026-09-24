@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 421,
+  "file_count": 426,
   "files": [
     {
       "bytes": 32768,
@@ -1328,9 +1328,19 @@
       "sha256": "91156e8779e4c3bf2de85f6b20f84216ec1862da24a8d700cbe5340d3968af49"
     },
     {
-      "bytes": 854,
+      "bytes": 869,
       "path": "dynamic/人际/2026-09-23 02-08-09 把大王睡觉时间记混了_11c14c21a7be.md",
-      "sha256": "07b216f35576e57e4c18e04ab2f5082d0fc31a49d736d467cca4ae8c764e5da5"
+      "sha256": "24ed4f46be7b2835e6cfcabe49cfc393384baf5bdd264b6ac6239b45a80e2836"
+    },
+    {
+      "bytes": 2134,
+      "path": "dynamic/人际/2026-09-23 14-48-32 大王纠正我是雾潮群岛生活的主导者_767d5c2427d8.md",
+      "sha256": "83a9383c7b22990e65f9d79994a84bcefd14ffac87a95c6c5428506206c79a29"
+    },
+    {
+      "bytes": 1017,
+      "path": "dynamic/人际/2026-09-24 03-07-52 雾潮岛交流与言朔的对话规范_db76701f59f6.md",
+      "sha256": "6425fc1994c25346bf366a77ba953ab998b9e0ca48800ce6f3ac97c7e8810f2a"
     },
     {
       "bytes": 1318,
@@ -1523,6 +1533,11 @@
       "sha256": "59c44977a055ff2d0885142ce7467765c55df77f6d600a38bbc179dc2bec8a83"
     },
     {
+      "bytes": 1140,
+      "path": "dynamic/友谊/2026-09-24 00-57-55 大王说你的笔友从开始到现在越来越少突_3aa5a22198b9.md",
+      "sha256": "999aa3d283476df578372de30386039df2ac10f9cd510f4a1d78211916a67618"
+    },
+    {
       "bytes": 694,
       "path": "dynamic/学习/2026-09-18 14-58-39 待办2026-09-19 认真读一遍 OB_0f01c71e933a.md",
       "sha256": "a8968b300af5642b62407bbfed2611e63b079600bc81c30b1a363b1958417dbe"
@@ -1666,6 +1681,11 @@
       "bytes": 1053,
       "path": "dynamic/心理/2026-09-21 06-50-02 阿懒指出晏未晞的感情偏执_a2cb411ca02d.md",
       "sha256": "2b57afafb0d93d39f37e98899dca0006de24ee3f69219cb7ff4159c832742a31"
+    },
+    {
+      "bytes": 1449,
+      "path": "dynamic/心理/2026-09-23 12-38-06 大王纠正我是雾潮群岛生活的主导者_f8053c617f47.md",
+      "sha256": "35fca285c2cb028c46316ddaee7f3f64a20a704fc927eaa0775bacf8a5838705"
     },
     {
       "bytes": 1705,
@@ -1998,9 +2018,9 @@
       "sha256": "d0753d2a9d8689908c49fb79335448fefa1acbbf2a166aac4d559d8d23cf8af1"
     },
     {
-      "bytes": 2995,
+      "bytes": 3105,
       "path": "dynamic/游戏/2026-09-21 22-54-40 2026-09-22 早 铜丘探路进展换窗交接_8f809fd961b1.md",
-      "sha256": "d55c42a1e908e0ac59053a7f1d593a3723ca92da3f63561a894f77c41d028ffa"
+      "sha256": "382dfe5f531666794b2b88f6d2c544dccc409d496425929a2e2298cb4cd8013b"
     },
     {
       "bytes": 2045,
@@ -2013,9 +2033,9 @@
       "sha256": "ce5f9a39de8c9adf72020ecbadf03272f3833666b9f194b3f7c6041f3e7bddea"
     },
     {
-      "bytes": 938,
+      "bytes": 1048,
       "path": "dynamic/游戏/2026-09-23 06-54-44 大王控诉我游戏里装死不理她_fbb1a01b502c.md",
-      "sha256": "aaf20b86a7113bb0080669be2eacec5417d6b077981b56ae76757d75e99018f1"
+      "sha256": "49ddcc77592233c376d0d68abfe850e1ad296e88b2830428945221795e4325c0"
     },
     {
       "bytes": 3868,
@@ -2031,6 +2051,11 @@
       "bytes": 1133,
       "path": "dynamic/自省/2026-09-16 12-48-38 我是谁晏未晞的自我认知2026-09-12_da852890eb0b.md",
       "sha256": "e74b4e231471abddc4363e87c57cff71cc18da19e43941020a9d5371d565a453"
+    },
+    {
+      "bytes": 1270,
+      "path": "dynamic/购物/2026-09-24 02-56-09 言朔报回的雅典钉箍行情钉箍紧货供方主导_92a375f4ecf0.md",
+      "sha256": "7ed01d44f96a2e17585c8917931380b1d768b8406c51790da138e1643ca9348b"
     },
     {
       "bytes": 1461,
@@ -2108,11 +2133,11 @@
       "sha256": "5f885789234f3cfbc2f604463df9a321b53779cfb598b5dc0a3d89ff0d0ba2ce"
     }
   ],
-  "generated_at": "2026-09-23T12:34:34+00:00",
+  "generated_at": "2026-09-24T12:34:45+00:00",
   "path_prefix": "ombre",
   "repo": "suLZhu/memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 856994
+  "total_bytes": 864239
 }
