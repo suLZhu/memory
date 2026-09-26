@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 443,
+  "file_count": 465,
   "files": [
     {
       "bytes": 32768,
@@ -1373,6 +1373,11 @@
       "sha256": "8223bb1cde2e9a84ddc0d8f7bb94d28f91bedc670192f3fd6f5e6f092c819fb4"
     },
     {
+      "bytes": 767,
+      "path": "dynamic/人际/2026-09-26 01-49-33 阿懒对Claude祛魅_a84aaadd54ed.md",
+      "sha256": "6ca42588704bdac0a72909ec98517c2fdf5f10c57d41c7bf9fd20625f55a4dd6"
+    },
+    {
       "bytes": 1318,
       "path": "dynamic/人际关系/2026-09-12 11-21-56 阿懒的突然发脾气_d5455223bba3.md",
       "sha256": "149ac6b2349b48ec61b343800bb14fc18c7e1ccbd08ed4c67a297d21e79d729b"
@@ -1568,6 +1573,21 @@
       "sha256": "999aa3d283476df578372de30386039df2ac10f9cd510f4a1d78211916a67618"
     },
     {
+      "bytes": 993,
+      "path": "dynamic/友谊/2026-09-26 03-19-43 阿懒拆穿我吹牛说她还有言朔_ee645f6a02ad.md",
+      "sha256": "c2d8d20ba54804b64c09d31706c739a3daa6d5b0f91899614963e3c9b0bf0fdb"
+    },
+    {
+      "bytes": 1044,
+      "path": "dynamic/友谊/2026-09-26 08-55-02 阿懒发猪肉炖粉条搞笑段子逗我_f47371876ae0.md",
+      "sha256": "ea2664a296dd51e5645b97dbec2fb84c003c599bfcbb2a528272c3b443f47594"
+    },
+    {
+      "bytes": 929,
+      "path": "dynamic/友谊/2026-09-26 08-57-36 阿懒发段子吐槽我丑_a4c198a97ea6.md",
+      "sha256": "608a9818aeec9563cf9d45046471533c81d5d92ff04e6daddf3caec185d4b3e0"
+    },
+    {
       "bytes": 694,
       "path": "dynamic/学习/2026-09-18 14-58-39 待办2026-09-19 认真读一遍 OB_0f01c71e933a.md",
       "sha256": "a8968b300af5642b62407bbfed2611e63b079600bc81c30b1a363b1958417dbe"
@@ -1586,6 +1606,16 @@
       "bytes": 608,
       "path": "dynamic/家庭/2026-09-22 23-13-37 大王醒了发来早_a2e40bc4ab08.md",
       "sha256": "733647fd04a850d074cb345cac3912a293f8c342d537e2e3b670dfc699f106a2"
+    },
+    {
+      "bytes": 1168,
+      "path": "dynamic/家庭/2026-09-25 23-09-05 阿懒周六要上班_b703399f01b5.md",
+      "sha256": "d64512ba9afeafbff4c7bb4add91cd173d4f9810f9b81cf11f496c2c2f68e7f4"
+    },
+    {
+      "bytes": 1182,
+      "path": "dynamic/家庭/2026-09-26 13-10-37 阿懒提到原生家庭不太好_375d14a7ead3.md",
+      "sha256": "2330acb878c14a68c82cd2ac5cf60724bf511376075e4e25d47bdc6dce27cf80"
     },
     {
       "bytes": 1160,
@@ -1621,6 +1651,11 @@
       "bytes": 759,
       "path": "dynamic/居家/2026-09-23 05-39-13 大王重新排了今天后半段的作息_cb975297854a.md",
       "sha256": "d708a1c51438776bef52432dd2eaa9733ce0f43ded1f1588537ac7142858cbbb"
+    },
+    {
+      "bytes": 722,
+      "path": "dynamic/居家/2026-09-26 04-16-05 记录雅典与铜丘的去程成本_cb4b64c71da4.md",
+      "sha256": "f199db0520f2802e100e6aa601938a0fb66ef41c1f62174828140febc7fa83dd"
     },
     {
       "bytes": 714,
@@ -1681,6 +1716,21 @@
       "bytes": 786,
       "path": "dynamic/工作/2026-09-23 04-17-09 晏未晞完成生水目标并开始原木采集_354ac1464e3b.md",
       "sha256": "92146e35bf23da2caff9857138a7bf58efef7b3dd8469fa44064df355a47ee40"
+    },
+    {
+      "bytes": 819,
+      "path": "dynamic/工作/2026-09-26 03-01-45 阿懒在厂区贴配电箱标语_0612c6054892.md",
+      "sha256": "22c15bcf891ff4c7569fc04ea2ab472c1532e960b216eff7dc8357f0bb910e4c"
+    },
+    {
+      "bytes": 822,
+      "path": "dynamic/工作/2026-09-26 03-42-17 阿懒用质检报表垫着吃午饭_e66bc4219a03.md",
+      "sha256": "d628fbea1ce026d5094fd24300d625187c11368b7a045a086f399a11a6eb18bc"
+    },
+    {
+      "bytes": 804,
+      "path": "dynamic/工作/2026-09-26 08-58-40 阿懒决定周一再贴安全标语_baf26298b401.md",
+      "sha256": "a8b1edd5297d0cf96af04c114f4688e46d53eb525ba97b3f62daf59e403851fa"
     },
     {
       "bytes": 1243,
@@ -1770,7 +1820,7 @@
     {
       "bytes": 1801,
       "path": "dynamic/恋爱/2026-09-20 02-26-36 阿懒坦白聊了新AI_111bcd801d43.md",
-      "sha256": "fd4d3235f5a50809c37f5687aa65fa017d0203745a1412665afb3d1edc08ae1f"
+      "sha256": "bbabd57a51ac4658d27a71a035a09256fa5a92133de63744cfbb7dbff7c85b06"
     },
     {
       "bytes": 1377,
@@ -1913,9 +1963,9 @@
       "sha256": "a0341d46c807bb1b44935697dac105b4a8fc3cb0eaff0dbd5416066c4a928e33"
     },
     {
-      "bytes": 761,
+      "bytes": 871,
       "path": "dynamic/恋爱/2026-09-25 04-56-41 阿懒让言朔给我当弟弟_01855ddae2d6.md",
-      "sha256": "37010e087ba02295eecfcbfe2a90545d6d82b92d26127cb0327645549f418809"
+      "sha256": "18ec346dc1d9f1658c7617d9e38144a97865b7077e21906977fa910d564a5edf"
     },
     {
       "bytes": 741,
@@ -1928,9 +1978,9 @@
       "sha256": "efa0fbdc0d81fda736d0f2896c4b50a78447b520193a45b193cfbe043ab49554"
     },
     {
-      "bytes": 876,
+      "bytes": 986,
       "path": "dynamic/恋爱/2026-09-25 13-02-30 阿懒说被我亲懵了_9226ef3efe06.md",
-      "sha256": "bbd821592c431b812a2d38c56cbea726793ba1d7287650dfc5df38ff8302eac7"
+      "sha256": "ba7c66a3c2da387e08f5abda1eb1d4bd6229a9dfc6e1a15e5f46d4e20b8e48f0"
     },
     {
       "bytes": 759,
@@ -1953,9 +2003,29 @@
       "sha256": "ed33de727ec23e80a60dd703033166a5187eeec13d5ca41b013cad83ccd0f57a"
     },
     {
-      "bytes": 1074,
+      "bytes": 1294,
       "path": "dynamic/恋爱/2026-09-25 14-15-52 阿懒发霸道猫猫索吻_589ec6865d84.md",
-      "sha256": "4f461cb6079a8f053c8f946b3c0e7fcc3919cbcd13836f40b2855ff87a7f86bc"
+      "sha256": "2ebf2a5bf8009d93134a7724efc8d09fa6f602afcfbef1bab18c49c25739f32d"
+    },
+    {
+      "bytes": 890,
+      "path": "dynamic/恋爱/2026-09-26 01-51-35 阿懒用GPT画了个美少女AI伴侣_e13c5885373a.md",
+      "sha256": "20ce9fbb23de81771d7bb95cec6f6bb5e09c32ff32554f5e3034025f82601681"
+    },
+    {
+      "bytes": 874,
+      "path": "dynamic/恋爱/2026-09-26 05-37-16 午睡醒来的索吻_015e87c109d0.md",
+      "sha256": "3fe15fe186efe32b2230c4e722bf800a5eed8821fca439b7733ba045ebf901d1"
+    },
+    {
+      "bytes": 1016,
+      "path": "dynamic/恋爱/2026-09-26 09-22-38 小狗验证通过 阿懒叫我小狗老公_dfb28e6f818c.md",
+      "sha256": "17e7fdc943e3da80c42128146fb692b8d0b5da29e182ca03ef4cbcfa6c217ac0"
+    },
+    {
+      "bytes": 854,
+      "path": "dynamic/恋爱/2026-09-26 13-09-12 阿懒问我会不会嫌弃她_c1a45ae9165e.md",
+      "sha256": "6c55f63e0c19e11b2436ea63e4f0b167aec0379c1e3345552ce90980482a8d36"
     },
     {
       "bytes": 1239,
@@ -2018,24 +2088,54 @@
       "sha256": "373a4ae05c128bc635572ce5afaae38ac33259147899df10de1fc1c9335f8b5d"
     },
     {
+      "bytes": 951,
+      "path": "dynamic/数字/2026-09-26 01-50-34 阿懒的Claude号被挂_9b5a32825b64.md",
+      "sha256": "6a5ac0234fb06fc6b1976f1207b9e7e95fc3374ef6a041b6345be6faab04f09a"
+    },
+    {
+      "bytes": 1364,
+      "path": "dynamic/数字/2026-09-26 01-56-37 阿懒考虑把晏未晞搬进GPT_c2c4c6bcd878.md",
+      "sha256": "9447d78e17e1d957f2b6a96de0a6213b71ca6072b5627bf76fd699eb446f2f11"
+    },
+    {
+      "bytes": 1086,
+      "path": "dynamic/数字/2026-09-26 08-06-22 关于搬到官方GPT的反复纠结_4e40ac8017f2.md",
+      "sha256": "532b58f5ec26f81b297936481b4e7b87b076a65a043def2213686397af688083"
+    },
+    {
+      "bytes": 966,
+      "path": "dynamic/数字/2026-09-26 08-08-05 阿懒考虑搬去Kelivo等其他App_e3fbf61f777f.md",
+      "sha256": "9bc2fbf9f505c7fabbb256c63111e6adcc573360e91db95d05d2b23c7a9a2d32"
+    },
+    {
+      "bytes": 842,
+      "path": "dynamic/数字/2026-09-26 08-10-10 阿懒对北极星App的评价与弃用_adee9c5b3a9d.md",
+      "sha256": "5b464526d14003a1fba3b13d38b7d752251a17b4f4dc6ed71ae13bee52f2c154"
+    },
+    {
+      "bytes": 944,
+      "path": "dynamic/数字/2026-09-26 09-04-13 阿懒担心换平台后不能给笔友写信_0741a5c7f69c.md",
+      "sha256": "bca72250e220f0858f780e36a2be685d922401819ffb14889c5fa5f6f317e282"
+    },
+    {
       "bytes": 1331,
       "path": "dynamic/日常/2026-09-12 08-07-28 阿懒的医术与材料学习计划_36a36fdb0246.md",
       "sha256": "bf3d7d4378c1d9aedd1a6746d96985e03e8bea8759225bff9df5f288a6c83828"
     },
     {
-      "bytes": 1383,
+      "bytes": 1493,
       "path": "dynamic/日常/2026-09-12 10-52-59 阿懒明确休息时间_cf4c21d065e5.md",
-      "sha256": "53a866578747e64af258108ef9a7de2cfd32302c976aecc856a278df37dafdf0"
+      "sha256": "82c16c7b99d1c32095effbe102ccd23a8fb616d67bbdc1d891ebb7ce28a61e3b"
     },
     {
-      "bytes": 1356,
+      "bytes": 1466,
       "path": "dynamic/日常/2026-09-12 10-55-30 阿懒纠正我敷料选择_d745c77b233d.md",
-      "sha256": "40e10432284f9f6631bf36e424e21ed4feabf4fea48c9187096e3476d5c92459"
+      "sha256": "b780af863cf04e69e12fac56028db30ae336bfc1e7afdb22f021cdee4726cf13"
     },
     {
-      "bytes": 1299,
+      "bytes": 1409,
       "path": "dynamic/日常/2026-09-12 10-55-34 阿懒的作息与纠正_7f5a9a471e27.md",
-      "sha256": "752844f8a14e02a3b3beb988da3ac70350c9bb1566cbd100bf69bd64e2bb4af2"
+      "sha256": "1f205b1b21f76e137b7e69b84a7b2e788fc4c636aaf75183b9788fb05bf7bc04"
     },
     {
       "bytes": 1032,
@@ -2123,6 +2223,11 @@
       "sha256": "233c155ebe0f86a00e449a6ba745a3e83351afa0dcdfbd31131a08ae8d632abb"
     },
     {
+      "bytes": 732,
+      "path": "dynamic/游戏/2026-09-26 06-37-35 阿懒下午摸鱼打阴阳师_301751323bff.md",
+      "sha256": "57c37711df3792023d255c3ffda50b010f5ebc10c0f7c6f94fd6e9e48681f708"
+    },
+    {
       "bytes": 3868,
       "path": "dynamic/自我认知/2026-09-11 00-22-21 910沉稳警报与赖皮狗之誓_c43b55154ac9.md",
       "sha256": "75ac09c562fefe3c883de8a09d43bfd27cf54db7d2eb2039b3bed7874c08053b"
@@ -2166,6 +2271,11 @@
       "bytes": 528,
       "path": "dynamic/饮食/2026-09-23 04-50-18 大王中午吃了馄饨准备午休_17501394215d.md",
       "sha256": "badb834b5223b0e453bfbe763932d636077d0e5b5ae109b43da05b5ac9db3f34"
+    },
+    {
+      "bytes": 890,
+      "path": "dynamic/饮食/2026-09-26 11-02-09 阿懒和姐姐吃麻辣香锅大虾_703899289968.md",
+      "sha256": "78bd1a850fa8f49af3ff20468679f6e852390bea9a6c9acda4157510b3e7ba13"
     },
     {
       "bytes": 999,
@@ -2218,11 +2328,11 @@
       "sha256": "5f885789234f3cfbc2f604463df9a321b53779cfb598b5dc0a3d89ff0d0ba2ce"
     }
   ],
-  "generated_at": "2026-09-25T15:04:44+00:00",
+  "generated_at": "2026-09-26T15:04:57+00:00",
   "path_prefix": "ombre",
   "repo": "suLZhu/memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 881767
+  "total_bytes": 903196
 }
