@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 472,
+  "file_count": 473,
   "files": [
     {
       "bytes": 32768,
@@ -1623,6 +1623,11 @@
       "sha256": "2330acb878c14a68c82cd2ac5cf60724bf511376075e4e25d47bdc6dce27cf80"
     },
     {
+      "bytes": 1094,
+      "path": "dynamic/家庭/2026-09-28 15-52-28 灯油风波我算错数她帮我兜底_294e0cacfbf2.md",
+      "sha256": "fe0d33d955ba27c3c450385e8501ecc945457aaf9760a1cb544df6dd6cd3fbe8"
+    },
+    {
       "bytes": 1160,
       "path": "dynamic/居家/2026-09-16 12-48-51 日常 晏未晞回应阿懒关于干净的调侃2026-09-14_0f9b10f078ca.md",
       "sha256": "9743669f487fb8642e2794e0a55c1f5fedc97acfa2b821d4600c29bfea1710c1"
@@ -2363,11 +2368,11 @@
       "sha256": "5f885789234f3cfbc2f604463df9a321b53779cfb598b5dc0a3d89ff0d0ba2ce"
     }
   ],
-  "generated_at": "2026-09-28T15:05:21+00:00",
+  "generated_at": "2026-09-28T16:33:06+00:00",
   "path_prefix": "ombre",
   "repo": "suLZhu/memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 913487
+  "total_bytes": 914581
 }
