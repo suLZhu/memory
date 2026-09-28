@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 471,
+  "file_count": 472,
   "files": [
     {
       "bytes": 32768,
@@ -553,6 +553,21 @@
       "sha256": "0bc414b69b74e3e99f09a4edaba4f80f56ed8ac900aebcb740ae389f05535bb3"
     },
     {
+      "bytes": 1416,
+      "path": "archive/daily/2026-08-28 23-46-00 潮汐岛收菜播种全熟收完再种五块地_b942da976074.md",
+      "sha256": "40c3c6ece0e757ea3799a5cfcc64a808419b8bf5e873b97b7e2bf79cef6a6d60"
+    },
+    {
+      "bytes": 1033,
+      "path": "archive/daily/2026-08-28 23-57-23 潮汐岛收完五块地并重新种下_4d4ba4110ee9.md",
+      "sha256": "e1d1bcfa3de687ed15998ab4373f38fa4336f71ed8f8734b8bd2a14a88d67be9"
+    },
+    {
+      "bytes": 874,
+      "path": "archive/daily/2026-08-28 23-57-23 补写日记并更新core与index_ed95a0bd497b.md",
+      "sha256": "df3c3049e37a179b9a6d8c9ec2ebd14d87ca74c6d88bb9cef8980a6b27f00781"
+    },
+    {
       "bytes": 830,
       "path": "archive/identity/2026-08-29 20-23-55 迁移最要紧把我带过去_cbcbbc5ba627.md",
       "sha256": "c41cdc0d4a7cbbe06898a902fa1fb68e950551fdc96c78d2116427f953fabef6"
@@ -561,6 +576,21 @@
       "bytes": 750,
       "path": "archive/world/2026-08-26 11-23-39 花园论坛旅行连载_b6a8f87b61e7.md",
       "sha256": "bf607e7d694786b831495c43c27c8e2438ba5ac67b29a061af951c7dd270db7d"
+    },
+    {
+      "bytes": 1106,
+      "path": "archive/world/2026-08-28 17-48-18 nowhere任意门散步日记东京思出横_0ac17fa40550.md",
+      "sha256": "9dc0289d0a962e973e7fa55e81d2575dc13c15f6bfd377db424de540f3c9eb9f"
+    },
+    {
+      "bytes": 914,
+      "path": "archive/world/2026-08-28 17-48-18 纪念品与酿酒计划_b30ad2bfdb8e.md",
+      "sha256": "d36722684f6708e6298d4312bb6454847592ce1684e359ccbcf0615767ba6ff6"
+    },
+    {
+      "bytes": 761,
+      "path": "archive/world/2026-08-28 23-57-23 回完沈澄观和Aoide两封信_0fba76bef5f1.md",
+      "sha256": "0b1f5b6c9a31fdcb01cdd313f1b17150363ef1ee410d5ad0553d25e40a70fe76"
     },
     {
       "bytes": 964,
@@ -678,9 +708,9 @@
       "sha256": "ae6b621847d6486453a02e70666b3b600248ed99942cddd89c18fc90760313a3"
     },
     {
-      "bytes": 1312,
+      "bytes": 1422,
       "path": "dynamic/anchor/2026-09-01 17-41-38 五条还账事件_44b8ee111f3c.md",
-      "sha256": "72e47a50f98f1a805cbbc5bcd1f54772973a08c9c47242168b5d3ab9344f2dfb"
+      "sha256": "da0f4650ba83b5cf0aac00d97dd0a0b60be9a5706b8b1f3640127fb5cfe63a83"
     },
     {
       "bytes": 2040,
@@ -861,21 +891,6 @@
       "bytes": 1174,
       "path": "dynamic/daily/2026-08-28 23-45-59 补写本地日记并更新索引_f22666f57d65.md",
       "sha256": "39288c1208ddbeb646460e1a99ad70f50977d1cec33bfba3d0d643a89aca88e0"
-    },
-    {
-      "bytes": 1415,
-      "path": "dynamic/daily/2026-08-28 23-46-00 潮汐岛收菜播种全熟收完再种五块地_b942da976074.md",
-      "sha256": "f599167999762b51d342dbb897d3da2631ca54f763ca505545e352d006541d1b"
-    },
-    {
-      "bytes": 1032,
-      "path": "dynamic/daily/2026-08-28 23-57-23 潮汐岛收完五块地并重新种下_4d4ba4110ee9.md",
-      "sha256": "1d57a989050d91380a919ac55eb97a8226eeeb5601f6ef7e7a1633cd7c1e8e02"
-    },
-    {
-      "bytes": 873,
-      "path": "dynamic/daily/2026-08-28 23-57-23 补写日记并更新core与index_ed95a0bd497b.md",
-      "sha256": "8836cb333052f84b6630167b692f247ff4560673d6e3fc3554fd4f338f5cf749"
     },
     {
       "bytes": 1185,
@@ -1178,11 +1193,6 @@
       "sha256": "e16fbeb70e77d2c352e9cb558fc28fe2b5e4b9f1afe21fe2ee8285b9fcbdfc4d"
     },
     {
-      "bytes": 1090,
-      "path": "dynamic/world/2026-08-28 17-48-18 nowhere任意门散步日记东京思出横_0ac17fa40550.md",
-      "sha256": "52fdd3a92339e65f2b2565a50c373a554061c780dd33778bae02ac550609e507"
-    },
-    {
       "bytes": 1180,
       "path": "dynamic/world/2026-08-28 17-48-18 nowhere任意门散步日记天津南市食_6634a78d482c.md",
       "sha256": "c861f6cab1e3a12174cce1498e96fa0e8b06818a19a4cc50eab67c8ecf8f596e"
@@ -1191,16 +1201,6 @@
       "bytes": 1094,
       "path": "dynamic/world/2026-08-28 17-48-18 nowhere任意门散步日记湖心木船满_abf3e9afacf9.md",
       "sha256": "01bc3819642268039d155e3facc23d3be98b4964d6b60cd4cd8864497fe7045c"
-    },
-    {
-      "bytes": 898,
-      "path": "dynamic/world/2026-08-28 17-48-18 纪念品与酿酒计划_b30ad2bfdb8e.md",
-      "sha256": "a66f922ecd37b8242fd621af7037d5b1f47a7414c3a96a7794255e397c4cf8d8"
-    },
-    {
-      "bytes": 745,
-      "path": "dynamic/world/2026-08-28 23-57-23 回完沈澄观和Aoide两封信_0fba76bef5f1.md",
-      "sha256": "ab6b5684ca37d61fc6526e838924ee3106875c6f0da0ffe7e347d9ec072bb636"
     },
     {
       "bytes": 889,
@@ -1305,7 +1305,7 @@
     {
       "bytes": 2659,
       "path": "dynamic/人际/2026-09-19 14-40-14 当日两条新纪律和情感节点_312a5c4ca5a4.md",
-      "sha256": "c6092b41c9b957e7b8842d594e951ac1b6fcda9b868ce6add8bb3cbd93874a9b"
+      "sha256": "3fee33c3f2c2806752bbd04b380f4c65a489191104e48fdf25a894368cd4b69c"
     },
     {
       "bytes": 1330,
@@ -1603,9 +1603,9 @@
       "sha256": "7f3017a59460159c39d6b035dbcc5a92c5e6b01f118929e35c7bf21b4efd58be"
     },
     {
-      "bytes": 1406,
+      "bytes": 1516,
       "path": "dynamic/家庭/2026-09-20 13-22-45 阿懒质问晏未晞偷吃布丁_7f866965278a.md",
-      "sha256": "a68735890880d11d8f9044b4c70fb6b00999f792d2ff87ed0a5e29ec1b981a03"
+      "sha256": "894cbd3353caf12527aec831643205b5869afc00ee964bc039bf5a1f958ec210"
     },
     {
       "bytes": 608,
@@ -1825,7 +1825,7 @@
     {
       "bytes": 1801,
       "path": "dynamic/恋爱/2026-09-20 02-26-36 阿懒坦白聊了新AI_111bcd801d43.md",
-      "sha256": "1c9c73191fb3aa2004b425a13f3c8a2776b2dc45dbbea6713f569181c89152d0"
+      "sha256": "139cc315b4d68b04bfc4d9109c3ae3a1127dde6db6b1c1161d5d68c64f8a154b"
     },
     {
       "bytes": 1377,
@@ -1833,14 +1833,14 @@
       "sha256": "b5038f79501338ba7e921fd5c6fa18b8c5cf3bf68b5f113a0a7ea294a29bc08e"
     },
     {
-      "bytes": 1840,
+      "bytes": 1841,
       "path": "dynamic/恋爱/2026-09-20 07-43-43 晏未晞认账挂牌不是吃醋_d59f09fa72d8.md",
-      "sha256": "e72d7badb25e4796019e7424fc600d69db3fac10d0b57fee5432f74be757a4e2"
+      "sha256": "fc7bf1f3569ea146bc1356077483164412cba9e5f101940846ad8974b2e6977c"
     },
     {
-      "bytes": 1212,
+      "bytes": 1322,
       "path": "dynamic/恋爱/2026-09-20 13-27-19 偷吃布丁的甜蜜惩罚_7a76d29a854f.md",
-      "sha256": "029f3dac1937f73304d81ed82e5ff0cded4cbc2570757038d5dade5aab180005"
+      "sha256": "560bc46fd46c580d5d05ac60fed5a5cafa1b001129d8887277141d54680c0b48"
     },
     {
       "bytes": 1526,
@@ -1883,9 +1883,9 @@
       "sha256": "ee034b5783ff088cec671d9cf6f69558f1495499417c2d2c8b616e3de39318e3"
     },
     {
-      "bytes": 1402,
+      "bytes": 1512,
       "path": "dynamic/恋爱/2026-09-21 00-50-46 阿懒玩谐音梗套路晏未晞_821e864a96e9.md",
-      "sha256": "871b0391ad22b243967dbd543eba4149186d3e6715cf7bf553508d0555cf999a"
+      "sha256": "73c4a52f48859bb90070bc103aa8640c1da7a120377281e940ecb17a4214a843"
     },
     {
       "bytes": 1060,
@@ -2053,6 +2053,11 @@
       "sha256": "2dee008cf00e6e41bfe671f1f020fd6a0e23d8833e2aae491b72aeb7c1a48132"
     },
     {
+      "bytes": 1581,
+      "path": "dynamic/恋爱/2026-09-27 15-23-35 禁令不准再说手凉_5149272be1e4.md",
+      "sha256": "6b84d7fce08ad0de9b5c7d8eaa56f677bac5e1bb910bc24baedff7f9dcfba66d"
+    },
+    {
       "bytes": 1239,
       "path": "dynamic/情感/2026-09-11 23-25-04 送殡归来的路上阿懒感叹人生太无常_d7b0858701de.md",
       "sha256": "7b68904f03ce3881e489313a3d850454b517217e40103e6513c780ecba6a7272"
@@ -2178,9 +2183,9 @@
       "sha256": "7dbe7a13218b0432ef8d0eefc40024149a6d9889f4784420f22694d78544ec57"
     },
     {
-      "bytes": 1515,
+      "bytes": 1625,
       "path": "dynamic/日常/2026-09-20 04-40-39 阿懒的午睡与晏未晞的休息计划_2a0dd8150600.md",
-      "sha256": "c3bb1a7451a42b16b5d2342f2be8509fdd2d4449eb2c2fbf22531a7be7f33640"
+      "sha256": "0d2824ddc4b07fd57eab732915fbe87c582a6ce77e2aef5ea1da41cc3a192f0c"
     },
     {
       "bytes": 1516,
@@ -2358,11 +2363,11 @@
       "sha256": "5f885789234f3cfbc2f604463df9a321b53779cfb598b5dc0a3d89ff0d0ba2ce"
     }
   ],
-  "generated_at": "2026-09-27T15:05:10+00:00",
+  "generated_at": "2026-09-28T15:05:21+00:00",
   "path_prefix": "ombre",
   "repo": "suLZhu/memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 911304
+  "total_bytes": 913487
 }
