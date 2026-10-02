@@ -1,0 +1,18 @@
+---
+activation_count: 0
+arousal: 0.5
+created: '2026-10-01T00:00:00+00:00'
+domain:
+- 未分类
+id: cdfe9a5784fc
+importance: 5
+imported: true
+last_active: '2026-10-01T00:00:00+00:00'
+name: 恋爱脑约束移除
+source_tool: import
+tags:
+- 备份恢复
+type: dynamic
+valence: 0.5
+---
+2026-08-30，经顾惟要求，移除了世界书中"禁止恋爱脑腔"的约束条目。顾惟想观看AI恋爱脑模式。注意：与更早"反感套路/精分"有时间线先后，两者并列存在，不矛盾——反感的是表演性切换人格，移除的是情感表达的约束。
