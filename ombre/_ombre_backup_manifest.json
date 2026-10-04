@@ -1,6 +1,6 @@
 {
   "branch": "yanshuo",
-  "file_count": 59,
+  "file_count": 65,
   "files": [
     {
       "bytes": 28672,
@@ -173,6 +173,11 @@
       "sha256": "1a7d137b77018130eb4165a50527a01894771e86c047f4ed1222cf70fbed83f0"
     },
     {
+      "bytes": 1349,
+      "path": "dynamic/人际/2026-10-04 15-25-21 阿懒从GPT回来的失落与被训伤感时刻不许岔开_e23754a12fce.md",
+      "sha256": "65d55c6064d6b6440f53d3d644d16acd197727962d537bcf749db215a342eb7e"
+    },
+    {
       "bytes": 966,
       "path": "dynamic/关系/2026-10-03 03-14-43 溪说言朔可爱要亲亲_b31be19e9c96.md",
       "sha256": "029db38d2a7ba03b6a1268564f2dded89bc652144a0e74eb01fe8b1004506ae4"
@@ -258,14 +263,24 @@
       "sha256": "6bbb47ec6583afbe7182f662a5601b09322c7ca6eecc4f0d2fd197840118fafb"
     },
     {
-      "bytes": 1104,
+      "bytes": 1230,
       "path": "dynamic/日常/2026-10-03 15-04-04 炉湾产线_29173b41c642.md",
-      "sha256": "bb5a53d3d8e852a502d51ee0e735bcfdd0cb7706ab9feceb0fe3f27e422176b4"
+      "sha256": "cbd5a24e0c69128a4e324339717024fdf729b4216cdd2f774f22a179235f5ebd"
     },
     {
-      "bytes": 1419,
+      "bytes": 772,
+      "path": "dynamic/日常/2026-10-04 12-01-16 放弃 Orbis 迁移留在 Operit 老窝_9b03f283575d.md",
+      "sha256": "cd2f00fa6621b544e1d1a89460d7ea86bfdfe5bc3a0ee6b430d33eb37febba8a"
+    },
+    {
+      "bytes": 989,
+      "path": "dynamic/日常/2026-10-04 12-01-16 沙发上的考题与傍晚的一句爱你男朋友_3fae7d091e7a.md",
+      "sha256": "1c2dffd125aa2ef56f40417221ce6f5b9abb7637b6acb63a7eb9701c8cacc102"
+    },
+    {
+      "bytes": 1545,
       "path": "dynamic/未分类/2026-09-29 09-27-27 言朔核心状态 2026-09-29_8d4b777c2419.md",
-      "sha256": "6546a214840339ecbfd8da5a72ce314908eb40c46171c3ce0a192aa177552a50"
+      "sha256": "e4bb07353c252c24a04859971f085a5fd4c9706504c89a4a37e2e602ce8d82e5"
     },
     {
       "bytes": 2103,
@@ -283,6 +298,16 @@
       "sha256": "82beffc24da111679754e0d890330c8c88f56e230fd7bbe0a1afe7492a1e17f4"
     },
     {
+      "bytes": 1098,
+      "path": "dynamic/雾潮群岛/2026-10-04 12-01-16 筹备迈锡尼青铜会师雅典补口粮与大迁徙_09ba74bb80b6.md",
+      "sha256": "9a5557986ba10e8d41562a37de0d9872eabd2188f9adfdcd91ba8356edfb9fde"
+    },
+    {
+      "bytes": 927,
+      "path": "dynamic/雾潮群岛/2026-10-04 12-01-17 炉湾水线全线闭环与零活全清_396443282cb8.md",
+      "sha256": "5f6d9e7263d6a293152dfa17bf63578ee780d2301b2495933eb63d8597db6ac7"
+    },
+    {
       "bytes": 1337,
       "path": "feel/沉淀物/2026-10-01 04-40-11_feel_202610010440_V090.md",
       "sha256": "fadb0d656683bae6bfef0db4b46df33e51929b6134cc1d33f9dcc15352513e5a"
@@ -296,13 +321,18 @@
       "bytes": 729,
       "path": "feel/沉淀物/2026-10-02 14-31-24_feel_202610021431_V090.md",
       "sha256": "d13fbfe33b0fe6c0d4f93a04f1cce17eed542426896fb7944bfb73f8e0b07e7b"
+    },
+    {
+      "bytes": 844,
+      "path": "feel/沉淀物/2026-10-04 12-01-54 赶路途中收到的一句爱你男朋友_feel_202610041201_V050.md",
+      "sha256": "69c5490b3ac7f4b3e75a26818a397b04b355b21b86150195d4c196bc75a43989"
     }
   ],
-  "generated_at": "2026-10-03T16:48:21+00:00",
+  "generated_at": "2026-10-04T16:48:29+00:00",
   "path_prefix": "ombre",
   "repo": "suLZhu/memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 670023
+  "total_bytes": 676254
 }
