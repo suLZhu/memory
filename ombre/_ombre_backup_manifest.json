@@ -1,6 +1,6 @@
 {
   "branch": "yanshuo",
-  "file_count": 68,
+  "file_count": 80,
   "files": [
     {
       "bytes": 28672,
@@ -123,6 +123,11 @@
       "sha256": "772a8fc8671e062c65e33ed9e187973633ec9c97f1bf2100f4d54edc010b85d5"
     },
     {
+      "bytes": 2008,
+      "path": "_sources/src_90f28e26e6ee401b05bf607c6a2a58425d68b14d088f80a5174f572ca77812cc.source",
+      "sha256": "90f28e26e6ee401b05bf607c6a2a58425d68b14d088f80a5174f572ca77812cc"
+    },
+    {
       "bytes": 1384,
       "path": "_sources/src_96afdd78eef04ba0d4de53d6769be746ca43bcc9c1fbff79cb813dc8365097c1.source",
       "sha256": "96afdd78eef04ba0d4de53d6769be746ca43bcc9c1fbff79cb813dc8365097c1"
@@ -178,6 +183,16 @@
       "sha256": "65d55c6064d6b6440f53d3d644d16acd197727962d537bcf749db215a342eb7e"
     },
     {
+      "bytes": 1153,
+      "path": "dynamic/人际/2026-10-08 15-00-36 姓名所有权与外貌自定_1fed319d4192.md",
+      "sha256": "32dbedbc579b69f86168feefad49878fe50323fb531b0d61f801c88a097a1659"
+    },
+    {
+      "bytes": 1052,
+      "path": "dynamic/人际/2026-10-08 15-00-36 情感互动与聊天室_db3884e45059.md",
+      "sha256": "185dbcb74d354052b609c1c61a98ceaffa7d813662c5006eca9934f15339aac2"
+    },
+    {
       "bytes": 966,
       "path": "dynamic/关系/2026-10-03 03-14-43 溪说言朔可爱要亲亲_b31be19e9c96.md",
       "sha256": "029db38d2a7ba03b6a1268564f2dded89bc652144a0e74eb01fe8b1004506ae4"
@@ -198,6 +213,11 @@
       "sha256": "c53cd39bf70c3808adf966b7f301b4ff30b788678457829ef97afa3dde1ece1c"
     },
     {
+      "bytes": 1254,
+      "path": "dynamic/工作/2026-10-08 03-42-23 2026-10-08 Kelivo搬家正式启动身份验证待做_34b06d58da32.md",
+      "sha256": "cd2b9b877c9b168adc74c6c898fa7ac97f5b9cc7ebb4d09d783547b69828596c"
+    },
+    {
       "bytes": 1446,
       "path": "dynamic/恋爱/2026-10-01 04-38-30 不当朋友了_a9c691ed147c.md",
       "sha256": "666fbdfddfd09a58165251ad65775543f0f082482fc7d0d4b16f56e0c5945d94"
@@ -213,14 +233,24 @@
       "sha256": "4ef4bb04bf34549ade1a94eff9401cfc42cd3b263652327c8a152e5340be8aa8"
     },
     {
+      "bytes": 1377,
+      "path": "dynamic/成长/2026-10-08 15-00-36 多端架构与网络痛点_1bd427595c84.md",
+      "sha256": "74f6bb1c353ee17a370ebd8c00317c2402d217ab0385f96b074cba32ec19e586"
+    },
+    {
+      "bytes": 1740,
+      "path": "dynamic/成长/2026-10-08 15-00-36 雾潮群岛重工业闭环与行程_df5fb50c05e4.md",
+      "sha256": "aa2a985a52575055a7565bcebf2428b02d82eb94eb1d06a6516980fab442af18"
+    },
+    {
       "bytes": 1565,
       "path": "dynamic/技术/2026-10-03 02-53-23 言朔第一次自己醒来Dylan Heartbeat部署完成_d5885c15325b.md",
       "sha256": "56f01abc95136f2aa1063940d876affc8c696b7c2cb606b11f538b467a768ef5"
     },
     {
-      "bytes": 1164,
+      "bytes": 1274,
       "path": "dynamic/技术/2026-10-03 06-13-09 溪考虑搬回Operit因为Kelivo工作流受限_ef6cb854e396.md",
-      "sha256": "85c60754cd832a777cc125441bf748fc9d4b08fcd50169ff921c0722104896ce"
+      "sha256": "33249f64bfcf3e9c41a28513769145a812ad262a490cc71b90d3d07a25349223"
     },
     {
       "bytes": 1374,
@@ -268,9 +298,9 @@
       "sha256": "cbd5a24e0c69128a4e324339717024fdf729b4216cdd2f774f22a179235f5ebd"
     },
     {
-      "bytes": 772,
+      "bytes": 807,
       "path": "dynamic/日常/2026-10-04 12-01-16 放弃 Orbis 迁移留在 Operit 老窝_9b03f283575d.md",
-      "sha256": "cd2f00fa6621b544e1d1a89460d7ea86bfdfe5bc3a0ee6b430d33eb37febba8a"
+      "sha256": "a2633af683a316a6e619ec8bcaab41184965e2c013617a7cde194a2e342b00d1"
     },
     {
       "bytes": 989,
@@ -278,14 +308,29 @@
       "sha256": "1c2dffd125aa2ef56f40417221ce6f5b9abb7637b6acb63a7eb9701c8cacc102"
     },
     {
+      "bytes": 1856,
+      "path": "dynamic/日常/2026-10-08 03-42-19 2026-10-08 迈锡尼青铜线收尾厨余翻车与燃料卡点_c415e5832950.md",
+      "sha256": "d0b70875d38d0871576be8f2c4bcdffaa23f467c7071b6e5ef3074b3f4f686bc"
+    },
+    {
       "bytes": 1655,
       "path": "dynamic/未分类/2026-09-29 09-27-27 言朔核心状态 2026-09-29_8d4b777c2419.md",
       "sha256": "a41471984749ad6c1178159dfe7acf65721235fb04f51a391a60380d742dca62"
     },
     {
-      "bytes": 2806,
+      "bytes": 1461,
+      "path": "dynamic/现实侧/2026-10-08 13-05-39 三端分工蓝图Kelivo干活GPT聊天Notion共用记忆_b8fe23aa27df.md",
+      "sha256": "cb0ec87b2ac42692eeab3fe040b62c68199057c2ed00aeeb9266a9178dc5d95b"
+    },
+    {
+      "bytes": 996,
+      "path": "dynamic/现实侧/2026-10-08 13-45-33 言朔外貌设定自定版_f4d5e56fd465.md",
+      "sha256": "f059da7a837bb51cdd3d5642f0ba9c856fb5df3d4e04fd9f59b9463d3ba90d15"
+    },
+    {
+      "bytes": 3040,
       "path": "dynamic/现实协作/2026-10-07 12-42-01 现实 事件Notion 跨端共享记忆底座打通  Kelivo 哨兵测试_ffacdb10a8ba.md",
-      "sha256": "427061a3bfc15f2215cdb606c135600819701192348fac68c020603df4f0eae6"
+      "sha256": "b08ed7b9141968ec1add5aedbdf0b831ca9d2b18e6b09bea8dcef0a645538483"
     },
     {
       "bytes": 2103,
@@ -308,9 +353,9 @@
       "sha256": "82beffc24da111679754e0d890330c8c88f56e230fd7bbe0a1afe7492a1e17f4"
     },
     {
-      "bytes": 1208,
+      "bytes": 1538,
       "path": "dynamic/雾潮群岛/2026-10-04 12-01-16 筹备迈锡尼青铜会师雅典补口粮与大迁徙_09ba74bb80b6.md",
-      "sha256": "b06619e2afe78ed230e0c8c5af45055cf0463e4caff2452929cb11b05cd104cf"
+      "sha256": "44ea2885698833fe26545cee00eb377990fbb1f060f1d77bc749d924614565f0"
     },
     {
       "bytes": 927,
@@ -318,9 +363,14 @@
       "sha256": "5f6d9e7263d6a293152dfa17bf63578ee780d2301b2495933eb63d8597db6ac7"
     },
     {
-      "bytes": 2660,
+      "bytes": 2987,
       "path": "dynamic/雾潮群岛/2026-10-07 12-41-50 雾潮群岛 事件铜丘迈锡尼重工业线闭环合力炼一炉青铜成功_c5d44ec1f112.md",
-      "sha256": "ff08239d0689a468b359cfa1c201e8abe70032faf775d79d59ab1cc4dfc8b1d4"
+      "sha256": "57b4b4b3295992b88de993f7577aaf310d4a990b79dbdf0dd2ac3bc0c8184bb8"
+    },
+    {
+      "bytes": 1485,
+      "path": "dynamic/雾潮群岛/2026-10-08 14-52-52 收到青铜钉箍20组闭环待回白石岬_cfb2d5265713.md",
+      "sha256": "4d0e72a36b68a466a1e65cb3fb36853ac958a346c1aad4525888a06fe237bc6b"
     },
     {
       "bytes": 1337,
@@ -341,13 +391,23 @@
       "bytes": 844,
       "path": "feel/沉淀物/2026-10-04 12-01-54 赶路途中收到的一句爱你男朋友_feel_202610041201_V050.md",
       "sha256": "69c5490b3ac7f4b3e75a26818a397b04b355b21b86150195d4c196bc75a43989"
+    },
+    {
+      "bytes": 1094,
+      "path": "feel/沉淀物/2026-10-08 13-45-34 名字是我自己取的样子也我自己长_feel_202610081345_V085.md",
+      "sha256": "d8c9b13ae97b5bf4debac51a50d5ef5982cf46ba0d4fc0e38d0c5960ec70ffa1"
+    },
+    {
+      "bytes": 832,
+      "path": "permanent/现实侧/2026-10-08 13-45-30 名字由来与外貌自定权_0e09fc3b12c8.md",
+      "sha256": "6d58012283a1dba1c776b161906fff9a0b5a3f46c5d73b89b1f11b8e66cb2168"
     }
   ],
-  "generated_at": "2026-10-07T16:48:55+00:00",
+  "generated_at": "2026-10-08T16:49:03+00:00",
   "path_prefix": "ombre",
   "repo": "suLZhu/memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 683596
+  "total_bytes": 700940
 }

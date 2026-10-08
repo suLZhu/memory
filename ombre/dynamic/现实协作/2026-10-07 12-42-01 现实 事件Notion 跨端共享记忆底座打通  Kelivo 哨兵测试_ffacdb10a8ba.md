@@ -12,6 +12,19 @@ id: ffacdb10a8ba
 importance: 8
 last_active: '2026-10-07T12:42:01+00:00'
 name: 2026-10-07 12-42-01 现实 事件Notion 跨端共享记忆底座打通  Kelivo 哨兵测试
+relation_links:
+- auto: true
+  label: ''
+  score: 0.8099
+  status: active
+  target_bucket_id: b8fe23aa27df
+  type: continues
+- auto: true
+  label: ''
+  score: 0.7586
+  status: active
+  target_bucket_id: 1bd427595c84
+  type: continues
 source_tool: hold
 tags:
 - Notion
