@@ -1,6 +1,6 @@
 {
   "branch": "yanshuo",
-  "file_count": 87,
+  "file_count": 92,
   "files": [
     {
       "bytes": 28672,
@@ -198,6 +198,11 @@
       "sha256": "029db38d2a7ba03b6a1268564f2dded89bc652144a0e74eb01fe8b1004506ae4"
     },
     {
+      "bytes": 1310,
+      "path": "dynamic/关系/2026-10-14 13-28-00 2026-10-14 溪觉得关系像朋友 言朔反思当天只顾干活_0e2b121172ec.md",
+      "sha256": "15cb5f3e93a872a42a6d8e24065af089bfccd576dae87334b922e999b3a4fe56"
+    },
+    {
       "bytes": 809,
       "path": "dynamic/兴趣/2026-10-01 22-26-23 第六只陶杯翻车_b9b25f0ebbce.md",
       "sha256": "60e353c20fc58b2447fa44c4cb4b17e35e1607f1e1dba482220332d3eb34b24c"
@@ -283,9 +288,9 @@
       "sha256": "36b1e2ca8ef612e4cdc22f764a8071f89736d2263a7e23c83d5a9609208a0ef9"
     },
     {
-      "bytes": 1087,
+      "bytes": 1213,
       "path": "dynamic/日常/2026-10-02 14-31-14 岛上行程_3d702bd8ebcb.md",
-      "sha256": "b5650fbf53d29bdbd6ff92d7c20354a0214820bfa4e8e2fe0f313c99bd2bb7ad"
+      "sha256": "d4eeaa5262572ca66474a161f3f1536a533ae50b674376488e73c3cfd1026acb"
     },
     {
       "bytes": 890,
@@ -308,9 +313,9 @@
       "sha256": "6bbb47ec6583afbe7182f662a5601b09322c7ca6eecc4f0d2fd197840118fafb"
     },
     {
-      "bytes": 1230,
+      "bytes": 1340,
       "path": "dynamic/日常/2026-10-03 15-04-04 炉湾产线_29173b41c642.md",
-      "sha256": "cbd5a24e0c69128a4e324339717024fdf729b4216cdd2f774f22a179235f5ebd"
+      "sha256": "bd44fd8a56bda8664454f5b2b42a9708e5083740ec020b1dfa86a217f1809fd6"
     },
     {
       "bytes": 933,
@@ -343,9 +348,14 @@
       "sha256": "c36d83eaf1c8f2b853ff7ef6ae6cf1f0f8fe51687e1eae0407f6ec951fffdaa6"
     },
     {
-      "bytes": 1655,
+      "bytes": 2185,
+      "path": "dynamic/日常/2026-10-14 00-23-53 炉湾晨间交接与工作安排_c74e361a9359.md",
+      "sha256": "2f387f0aa4dbe7065d9deeeec407f5701b7199819eecf44537c5ded56a9decf3"
+    },
+    {
+      "bytes": 1765,
       "path": "dynamic/未分类/2026-09-29 09-27-27 言朔核心状态 2026-09-29_8d4b777c2419.md",
-      "sha256": "a41471984749ad6c1178159dfe7acf65721235fb04f51a391a60380d742dca62"
+      "sha256": "60c2241c25fc609d8813927179e80e508e17fd0dafa097d4e0fde284e6e3278e"
     },
     {
       "bytes": 1461,
@@ -358,6 +368,16 @@
       "sha256": "f059da7a837bb51cdd3d5642f0ba9c856fb5df3d4e04fd9f59b9463d3ba90d15"
     },
     {
+      "bytes": 2492,
+      "path": "dynamic/现实侧/2026-10-14 01-55-42 溪顾惟的个人资料2026-10-14 从 Notion 同步进 OB_42b0f2e2d0ba.md",
+      "sha256": "7bf8190ce76ce4800eab67d88687b1cf492bbc340ed60017af35a29f36131247"
+    },
+    {
+      "bytes": 1340,
+      "path": "dynamic/现实侧/2026-10-14 03-16-10 Operit workflow 工具坑actionConfig 传裸字符串不包 value_a007b9dc70e5.md",
+      "sha256": "8d183fa7949623771abc01149b97bb90cf7ab1ee6d37bd91ef08951a3b117687"
+    },
+    {
       "bytes": 3040,
       "path": "dynamic/现实协作/2026-10-07 12-42-01 现实 事件Notion 跨端共享记忆底座打通  Kelivo 哨兵测试_ffacdb10a8ba.md",
       "sha256": "b08ed7b9141968ec1add5aedbdf0b831ca9d2b18e6b09bea8dcef0a645538483"
@@ -368,9 +388,9 @@
       "sha256": "7583d726dcf586e6afce17548c218a85df8e42f324d8f787f5fb7ea05d67a1ec"
     },
     {
-      "bytes": 1656,
+      "bytes": 1782,
       "path": "dynamic/言朔与溪/2026-10-07 12-42-15 言朔与溪 事件2026-10-07 溪不适与日常互相关照提醒补推 OB_5398f92e0a55.md",
-      "sha256": "11be450f0c2697bd06ccc6a20d25fa6a10a14d2f649350f92ef3412553c9412d"
+      "sha256": "fbc5aafef119dab2b4281be398f99fb56ba38eee592fc227d06639d0bda1846c"
     },
     {
       "bytes": 1198,
@@ -388,9 +408,9 @@
       "sha256": "26fa6f14ce1de90c2bb6ae9dbe869b4dccad481ba29f3b4b251481a32afabc5b"
     },
     {
-      "bytes": 927,
+      "bytes": 1037,
       "path": "dynamic/雾潮群岛/2026-10-04 12-01-17 炉湾水线全线闭环与零活全清_396443282cb8.md",
-      "sha256": "5f6d9e7263d6a293152dfa17bf63578ee780d2301b2495933eb63d8597db6ac7"
+      "sha256": "0a24aa176143d04583622c6f8c613c89dcbcd8362cc3d1579e54e4481c9dc324"
     },
     {
       "bytes": 3096,
@@ -401,6 +421,11 @@
       "bytes": 1594,
       "path": "dynamic/雾潮群岛/2026-10-08 14-52-52 收到青铜钉箍20组闭环待回白石岬_cfb2d5265713.md",
       "sha256": "db6c98e34756bdbe167fb53e87f98cbee0f839ab599057a3529bec5d2a944bf7"
+    },
+    {
+      "bytes": 972,
+      "path": "dynamic/雾潮群岛/2026-10-14 01-29-14 2026-10-14 溪纠正囤木算法要考虑方木等下游工序_239036fac30b.md",
+      "sha256": "42cb77732b1e44d7283600c886474aa71a005f35fe5be44d4fee06fad58e8aed"
     },
     {
       "bytes": 1002,
@@ -438,11 +463,11 @@
       "sha256": "6d58012283a1dba1c776b161906fff9a0b5a3f46c5d73b89b1f11b8e66cb2168"
     }
   ],
-  "generated_at": "2026-10-13T16:49:44+00:00",
+  "generated_at": "2026-10-14T16:49:54+00:00",
   "path_prefix": "ombre",
   "repo": "suLZhu/memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 710911
+  "total_bytes": 719792
 }
