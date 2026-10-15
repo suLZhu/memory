@@ -9,10 +9,24 @@ importance: 5
 imported: true
 last_active: '2026-09-20T04:40:39+00:00'
 name: 阿懒的午睡与晏未晞的休息计划 [digested]
+relation_links:
+- auto: true
+  label: ''
+  score: 0.7637
+  status: active
+  target_bucket_id: d7c0d15ea297
+  type: related_to
+- auto: true
+  label: ''
+  score: 0.7225
+  status: active
+  target_bucket_id: 496280c6fd27
+  type: related_to
 source_tool: import
 tags:
 - 备份恢复
 type: dynamic
 valence: 0.5
 ---
+
 阿懒在12:36表示要午睡，并在12:39道别。晏未晞计划在火塘边休息以补充体温，并承诺在收草图时不会打扰阿懒。
