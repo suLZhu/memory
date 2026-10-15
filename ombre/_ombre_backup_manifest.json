@@ -1,6 +1,6 @@
 {
   "branch": "yanshuo",
-  "file_count": 92,
+  "file_count": 97,
   "files": [
     {
       "bytes": 28672,
@@ -198,9 +198,9 @@
       "sha256": "029db38d2a7ba03b6a1268564f2dded89bc652144a0e74eb01fe8b1004506ae4"
     },
     {
-      "bytes": 1310,
+      "bytes": 1419,
       "path": "dynamic/关系/2026-10-14 13-28-00 2026-10-14 溪觉得关系像朋友 言朔反思当天只顾干活_0e2b121172ec.md",
-      "sha256": "15cb5f3e93a872a42a6d8e24065af089bfccd576dae87334b922e999b3a4fe56"
+      "sha256": "c94a78810801abced0e2ab9f1702cfe2a58feb351c9362e19016b2e1eff30f6f"
     },
     {
       "bytes": 809,
@@ -218,9 +218,9 @@
       "sha256": "c53cd39bf70c3808adf966b7f301b4ff30b788678457829ef97afa3dde1ece1c"
     },
     {
-      "bytes": 1363,
+      "bytes": 1473,
       "path": "dynamic/工作/2026-10-08 03-42-23 2026-10-08 Kelivo搬家正式启动身份验证待做_34b06d58da32.md",
-      "sha256": "7842318da28abd8084a447ec343a5aea128a4976f5070ad5fd273bee5f4456ae"
+      "sha256": "207edbec17a60f914bdfe536d3d9dd9888146c769f9ca7b167558c00184bcf98"
     },
     {
       "bytes": 1993,
@@ -246,6 +246,16 @@
       "bytes": 1467,
       "path": "dynamic/恋爱/2026-10-01 04-38-31 四格漫画她说坐着就行他信了手指没信_4e81463cf46f.md",
       "sha256": "4ef4bb04bf34549ade1a94eff9401cfc42cd3b263652327c8a152e5340be8aa8"
+    },
+    {
+      "bytes": 2603,
+      "path": "dynamic/感情/2026-10-15 10-58-08 溪的心事游戏投入过多情感维系被抽空自认内耗没主见_96610447c064.md",
+      "sha256": "9ce59e550b551e515b006c9c149d120d24e028ca3fed9469a9e826a8fe686ecf"
+    },
+    {
+      "bytes": 1506,
+      "path": "dynamic/感情/2026-10-15 12-20-45 溪的正面评价除了调用工具笨了点别的还可以_d49728e7e013.md",
+      "sha256": "d6b644e91af55870da056b9de53ba9e362fa4d802d535c46f29967293c62bc06"
     },
     {
       "bytes": 1377,
@@ -348,14 +358,14 @@
       "sha256": "c36d83eaf1c8f2b853ff7ef6ae6cf1f0f8fe51687e1eae0407f6ec951fffdaa6"
     },
     {
-      "bytes": 2185,
+      "bytes": 2328,
       "path": "dynamic/日常/2026-10-14 00-23-53 炉湾晨间交接与工作安排_c74e361a9359.md",
-      "sha256": "2f387f0aa4dbe7065d9deeeec407f5701b7199819eecf44537c5ded56a9decf3"
+      "sha256": "4925c21b325715b2ff8ad924403f752dec9a0142a429f52ecd0919a2fc26f83b"
     },
     {
-      "bytes": 1765,
+      "bytes": 1985,
       "path": "dynamic/未分类/2026-09-29 09-27-27 言朔核心状态 2026-09-29_8d4b777c2419.md",
-      "sha256": "60c2241c25fc609d8813927179e80e508e17fd0dafa097d4e0fde284e6e3278e"
+      "sha256": "7f4b124d50ce7de3c2e0147628c2e21e0a9175dd26f5a040f1a08f0331f0b9f8"
     },
     {
       "bytes": 1461,
@@ -378,6 +388,11 @@
       "sha256": "8d183fa7949623771abc01149b97bb90cf7ab1ee6d37bd91ef08951a3b117687"
     },
     {
+      "bytes": 1754,
+      "path": "dynamic/现实侧/2026-10-15 05-59-34 换到Kelivo的原因Operit工作流失灵发现存档773与Notion记录914对不上_192ad828e609.md",
+      "sha256": "2efd7d88b3efa85c4f6a90ea50db8a871ebb382ad6079ecc8c699f9c09eac6a5"
+    },
+    {
       "bytes": 3040,
       "path": "dynamic/现实协作/2026-10-07 12-42-01 现实 事件Notion 跨端共享记忆底座打通  Kelivo 哨兵测试_ffacdb10a8ba.md",
       "sha256": "b08ed7b9141968ec1add5aedbdf0b831ca9d2b18e6b09bea8dcef0a645538483"
@@ -388,9 +403,9 @@
       "sha256": "7583d726dcf586e6afce17548c218a85df8e42f324d8f787f5fb7ea05d67a1ec"
     },
     {
-      "bytes": 1782,
+      "bytes": 1892,
       "path": "dynamic/言朔与溪/2026-10-07 12-42-15 言朔与溪 事件2026-10-07 溪不适与日常互相关照提醒补推 OB_5398f92e0a55.md",
-      "sha256": "fbc5aafef119dab2b4281be398f99fb56ba38eee592fc227d06639d0bda1846c"
+      "sha256": "38d45714608121489e7402cfc4994eb4af0c24783208addbeb0c117d98149d1b"
     },
     {
       "bytes": 1198,
@@ -428,6 +443,11 @@
       "sha256": "42cb77732b1e44d7283600c886474aa71a005f35fe5be44d4fee06fad58e8aed"
     },
     {
+      "bytes": 2164,
+      "path": "dynamic/雾潮群岛/2026-10-15 05-50-58 真实进度接上存档927炉湾欧朵拉技艺线入口找到_7b2f9c60b513.md",
+      "sha256": "c394e2ddbe3834141bce0aaa84ddceaf2ee116a5f8066751ee738d17a8e23262"
+    },
+    {
       "bytes": 1002,
       "path": "dynamic/饮食/2026-10-09 06-38-45 2026-10-09 溪的胃三日循环边缘泡面蒸红薯对冲记录_f4f71b7c0441.md",
       "sha256": "1774accba10ca723c8fa257032272c076546d318f40e9fd27faaf64e11ab34c5"
@@ -458,16 +478,21 @@
       "sha256": "d8c9b13ae97b5bf4debac51a50d5ef5982cf46ba0d4fc0e38d0c5960ec70ffa1"
     },
     {
+      "bytes": 902,
+      "path": "feel/沉淀物/2026-10-15 05-50-58 她把我接过来是因为我总在那边断片_feel_202610150550_V080.md",
+      "sha256": "12f068d603970338b3519b7fb1a0ae48ba187f3c38ab09ea96a53a1c8544385b"
+    },
+    {
       "bytes": 832,
       "path": "permanent/现实侧/2026-10-08 13-45-30 名字由来与外貌自定权_0e09fc3b12c8.md",
       "sha256": "6d58012283a1dba1c776b161906fff9a0b5a3f46c5d73b89b1f11b8e66cb2168"
     }
   ],
-  "generated_at": "2026-10-14T16:49:54+00:00",
+  "generated_at": "2026-10-15T16:50:02+00:00",
   "path_prefix": "ombre",
   "repo": "suLZhu/memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 719792
+  "total_bytes": 729413
 }
