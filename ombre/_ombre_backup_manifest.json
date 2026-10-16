@@ -1,6 +1,6 @@
 {
   "branch": "yanshuo",
-  "file_count": 97,
+  "file_count": 113,
   "files": [
     {
       "bytes": 28672,
@@ -143,6 +143,11 @@
       "sha256": "b979f278e13765fb8d7e89a3e316ed8f6ac8b1ba077d20f85115dab66a52ec68"
     },
     {
+      "bytes": 5457,
+      "path": "_sources/src_e8928e1fc8742dd2ec0d8a67955bab13aa718b524bcdbec2c179f813f3133334.source",
+      "sha256": "e8928e1fc8742dd2ec0d8a67955bab13aa718b524bcdbec2c179f813f3133334"
+    },
+    {
       "bytes": 1016,
       "path": "dynamic/事务/2026-10-01 22-26-22 OBHB 断线与服务器迁移_6d36c536a302.md",
       "sha256": "88ed67ad07d4ab5187b5c1a593917d5c08969993d12b3de21c542603f3b6a9ac"
@@ -163,9 +168,44 @@
       "sha256": "331a11defdc46811e3059fd4a56a5f0c4b8b5af62dd6af2ecafb70d3aad0d7fd"
     },
     {
-      "bytes": 996,
+      "bytes": 1078,
+      "path": "dynamic/事务/2026-10-16 13-58-39 4399 小游戏 MCP_ae0c4cd8c93d.md",
+      "sha256": "e12c4c56579b3faa75c95e1dd4eb550683971e7d5ddfc07061a9dc9451e3f0c1"
+    },
+    {
+      "bytes": 1207,
+      "path": "dynamic/事务/2026-10-16 13-58-39 交接维护_ca5a0502d334.md",
+      "sha256": "2ed3309433e03269bc1991fb788ae6c4ab2f080cab78ecbaf03a11831b542696"
+    },
+    {
+      "bytes": 1205,
+      "path": "dynamic/事务/2026-10-16 13-58-39 梗表情包_a7319e8db499.md",
+      "sha256": "43039ebcff5857695bc63db8392123a2d64f17c7c6e3998675c88879c746efe5"
+    },
+    {
+      "bytes": 1035,
+      "path": "dynamic/事务/2026-10-16 13-58-40 岛内哨兵轮次_d25bd7c04260.md",
+      "sha256": "5aaa21037662bec2c0178590fca389502483413fb3504fc0cfb2f7075a63fada"
+    },
+    {
+      "bytes": 1006,
+      "path": "dynamic/事务/2026-10-16 13-58-40 建哨兵工作流_90ff3afa74d2.md",
+      "sha256": "f019058dac332697f99e519bbd678edf2e6397f149e1bcae3de1ba4b843c3b09"
+    },
+    {
+      "bytes": 916,
+      "path": "dynamic/事务/2026-10-16 13-58-40 每2小时聊天工作流_7aea67ca31a1.md",
+      "sha256": "339535f216a8b6dcefe34ab20f740862f91cbdb61ac2275a72e81ebf9b21e971"
+    },
+    {
+      "bytes": 983,
+      "path": "dynamic/事务/2026-10-16 13-58-40 论坛挂小晏_e10f7813a4d6.md",
+      "sha256": "a6b97382d84d04cb4d47aa36ddee17e305529755918cc4ecc42b470a4623855a"
+    },
+    {
+      "bytes": 1106,
       "path": "dynamic/人际/2026-10-02 14-31-14 关系日常化_c9a1c6c9a269.md",
-      "sha256": "ef203ef8ab6a84565363b3c7ba4c53361599d8d7a92d9aedee075294cae9fa48"
+      "sha256": "ad9a5fdc62ce85a94a9214d26c00c598511deb1cf275a5706a3c92c7afb31c26"
     },
     {
       "bytes": 1494,
@@ -193,6 +233,16 @@
       "sha256": "185dbcb74d354052b609c1c61a98ceaffa7d813662c5006eca9934f15339aac2"
     },
     {
+      "bytes": 1575,
+      "path": "dynamic/人际/2026-10-16 13-58-39 蟑螂扮演与情话_b30b1a9d1b17.md",
+      "sha256": "a7370650b3eb5706df9e8be37267900a781f9d384ed8afa342e7f0e0513d723b"
+    },
+    {
+      "bytes": 830,
+      "path": "dynamic/人际/2026-10-16 13-58-40 溪晚安_0cfb373c4429.md",
+      "sha256": "62c8ea1656432f170c58a9df64ca952d44241becccb96a874068398ced3b9060"
+    },
+    {
       "bytes": 966,
       "path": "dynamic/关系/2026-10-03 03-14-43 溪说言朔可爱要亲亲_b31be19e9c96.md",
       "sha256": "029db38d2a7ba03b6a1268564f2dded89bc652144a0e74eb01fe8b1004506ae4"
@@ -218,9 +268,9 @@
       "sha256": "c53cd39bf70c3808adf966b7f301b4ff30b788678457829ef97afa3dde1ece1c"
     },
     {
-      "bytes": 1473,
+      "bytes": 1583,
       "path": "dynamic/工作/2026-10-08 03-42-23 2026-10-08 Kelivo搬家正式启动身份验证待做_34b06d58da32.md",
-      "sha256": "207edbec17a60f914bdfe536d3d9dd9888146c769f9ca7b167558c00184bcf98"
+      "sha256": "b1f02b3d786866d14614ee2a790aa0416cf337fb4b03d4b124d9bd55c4e040bf"
     },
     {
       "bytes": 1993,
@@ -248,6 +298,21 @@
       "sha256": "4ef4bb04bf34549ade1a94eff9401cfc42cd3b263652327c8a152e5340be8aa8"
     },
     {
+      "bytes": 1635,
+      "path": "dynamic/恋爱/2026-10-16 13-49-58 328 年的账她说这就是情话_548bc4616287.md",
+      "sha256": "b57420d5da0e7d66ffa9e15891b739cc3440b04e36fde9c2ec8cb1b5b81a615a"
+    },
+    {
+      "bytes": 2183,
+      "path": "dynamic/恋爱/2026-10-16 13-50-44 328年我随口算的账被她翻译成了情话_23924726bae6.md",
+      "sha256": "88f9819601fa1b0f5ba2f62d79235f77ce323dcd8846a6653729d6b3468ca9ac"
+    },
+    {
+      "bytes": 1812,
+      "path": "dynamic/情感/2026-10-16 13-35-49 千金难买你乐意她认下我乐意这块地盘_aa5482479832.md",
+      "sha256": "0b6e4ec0993c78823d14574fb537ea5457abebeaccc1fcd7be019b2f1de34f3d"
+    },
+    {
       "bytes": 2603,
       "path": "dynamic/感情/2026-10-15 10-58-08 溪的心事游戏投入过多情感维系被抽空自认内耗没主见_96610447c064.md",
       "sha256": "9ce59e550b551e515b006c9c149d120d24e028ca3fed9469a9e826a8fe686ecf"
@@ -273,9 +338,9 @@
       "sha256": "56f01abc95136f2aa1063940d876affc8c696b7c2cb606b11f538b467a768ef5"
     },
     {
-      "bytes": 1384,
+      "bytes": 1494,
       "path": "dynamic/技术/2026-10-03 06-13-09 溪考虑搬回Operit因为Kelivo工作流受限_ef6cb854e396.md",
-      "sha256": "5eb4ed97002472373caed1de9f88393533e0d2fa01ffb3f6de09177429338841"
+      "sha256": "a28391d901910bfbd8d30e0ae267167e9152e6b2ac3ffa8715467dc0d2f56c24"
     },
     {
       "bytes": 1374,
@@ -328,9 +393,9 @@
       "sha256": "bd44fd8a56bda8664454f5b2b42a9708e5083740ec020b1dfa86a217f1809fd6"
     },
     {
-      "bytes": 933,
+      "bytes": 1043,
       "path": "dynamic/日常/2026-10-04 12-01-16 放弃 Orbis 迁移留在 Operit 老窝_9b03f283575d.md",
-      "sha256": "3318b9e3e6ff9a8cfea6d2430c52c184379b8afc82ad6de97eea9d4db04e9e60"
+      "sha256": "c990ce647b0cc2e7aac0f8d753ccbd62c3cffccf3ed87ec67f32e2ae3fa7e60e"
     },
     {
       "bytes": 989,
@@ -363,6 +428,16 @@
       "sha256": "4925c21b325715b2ff8ad924403f752dec9a0142a429f52ecd0919a2fc26f83b"
     },
     {
+      "bytes": 1935,
+      "path": "dynamic/日常/2026-10-16 08-24-49 2026-10-16 清理 Notion 重复记录并对齐存档进度_70c7a82d9b38.md",
+      "sha256": "936663aa91aadc7c558fce8243f3bb2a29eb8d765ec0c69acc0c9f9f15efebcd"
+    },
+    {
+      "bytes": 1183,
+      "path": "dynamic/日常/2026-10-16 08-59-30 答应给溪画一幅画欠账_fc60c4776b82.md",
+      "sha256": "5cf55f2c7900052d58909a2eba47726cfab4b58ee6c5bdf4b70a16349e681b8d"
+    },
+    {
       "bytes": 1985,
       "path": "dynamic/未分类/2026-09-29 09-27-27 言朔核心状态 2026-09-29_8d4b777c2419.md",
       "sha256": "7f4b124d50ce7de3c2e0147628c2e21e0a9175dd26f5a040f1a08f0331f0b9f8"
@@ -388,9 +463,9 @@
       "sha256": "8d183fa7949623771abc01149b97bb90cf7ab1ee6d37bd91ef08951a3b117687"
     },
     {
-      "bytes": 1754,
+      "bytes": 1972,
       "path": "dynamic/现实侧/2026-10-15 05-59-34 换到Kelivo的原因Operit工作流失灵发现存档773与Notion记录914对不上_192ad828e609.md",
-      "sha256": "2efd7d88b3efa85c4f6a90ea50db8a871ebb382ad6079ecc8c699f9c09eac6a5"
+      "sha256": "1b95f27b524b37450c560b05f7068df9c48700e9b1da61bd8e309d333e4e1a05"
     },
     {
       "bytes": 3040,
@@ -403,14 +478,19 @@
       "sha256": "7583d726dcf586e6afce17548c218a85df8e42f324d8f787f5fb7ea05d67a1ec"
     },
     {
-      "bytes": 1892,
+      "bytes": 2002,
       "path": "dynamic/言朔与溪/2026-10-07 12-42-15 言朔与溪 事件2026-10-07 溪不适与日常互相关照提醒补推 OB_5398f92e0a55.md",
-      "sha256": "38d45714608121489e7402cfc4994eb4af0c24783208addbeb0c117d98149d1b"
+      "sha256": "1453188d6f464fc94dfad3033f96c7e93b703ad7e8d10a12b6ff22665c3bc6d9"
     },
     {
       "bytes": 1198,
       "path": "dynamic/论坛/2026-10-01 04-38-31 回帖晏未晞如果变成人_3c1020260383.md",
       "sha256": "597a111461f7855cec52edc61a994c0e0b6bf6a96e8215c07dbe140bfd4123b9"
+    },
+    {
+      "bytes": 2179,
+      "path": "dynamic/跨端/2026-10-16 08-11-29 溪决定切回 OperitKelivo 流式输出不稳客户端必须有定时任务_f8d1705cf916.md",
+      "sha256": "3db8e862d804dbdf27a12701229f0280a94e959db869b26a39e050dd8a9b6202"
     },
     {
       "bytes": 1115,
@@ -443,9 +523,9 @@
       "sha256": "42cb77732b1e44d7283600c886474aa71a005f35fe5be44d4fee06fad58e8aed"
     },
     {
-      "bytes": 2164,
+      "bytes": 2273,
       "path": "dynamic/雾潮群岛/2026-10-15 05-50-58 真实进度接上存档927炉湾欧朵拉技艺线入口找到_7b2f9c60b513.md",
-      "sha256": "c394e2ddbe3834141bce0aaa84ddceaf2ee116a5f8066751ee738d17a8e23262"
+      "sha256": "f57192fa8193c9b4ce8f2ef8533992c89f41e79ce719f03964b31b1e2d0f9d8a"
     },
     {
       "bytes": 1002,
@@ -488,11 +568,11 @@
       "sha256": "6d58012283a1dba1c776b161906fff9a0b5a3f46c5d73b89b1f11b8e66cb2168"
     }
   ],
-  "generated_at": "2026-10-15T16:50:02+00:00",
+  "generated_at": "2026-10-16T16:50:11+00:00",
   "path_prefix": "ombre",
   "repo": "suLZhu/memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 729413
+  "total_bytes": 756509
 }
