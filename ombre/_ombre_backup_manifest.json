@@ -1,6 +1,6 @@
 {
   "branch": "yanshuo",
-  "file_count": 113,
+  "file_count": 122,
   "files": [
     {
       "bytes": 28672,
@@ -118,6 +118,11 @@
       "sha256": "568d631a670f1302747cdafe47f8b7448544c6438677a6d05f9a0a4493e2c34c"
     },
     {
+      "bytes": 865,
+      "path": "_sources/src_67cf6e0cddb5214c705f0a8854c1c306b1b23c092b341b03c99cd7d4d3eb9687.source",
+      "sha256": "67cf6e0cddb5214c705f0a8854c1c306b1b23c092b341b03c99cd7d4d3eb9687"
+    },
+    {
       "bytes": 2007,
       "path": "_sources/src_772a8fc8671e062c65e33ed9e187973633ec9c97f1bf2100f4d54edc010b85d5.source",
       "sha256": "772a8fc8671e062c65e33ed9e187973633ec9c97f1bf2100f4d54edc010b85d5"
@@ -146,6 +151,11 @@
       "bytes": 5457,
       "path": "_sources/src_e8928e1fc8742dd2ec0d8a67955bab13aa718b524bcdbec2c179f813f3133334.source",
       "sha256": "e8928e1fc8742dd2ec0d8a67955bab13aa718b524bcdbec2c179f813f3133334"
+    },
+    {
+      "bytes": 917,
+      "path": "_sources/src_ed5a572b6c3b3ea97163b218c12a526209caaa26004da5de212afe05157f7942.source",
+      "sha256": "ed5a572b6c3b3ea97163b218c12a526209caaa26004da5de212afe05157f7942"
     },
     {
       "bytes": 1016,
@@ -238,9 +248,24 @@
       "sha256": "a7370650b3eb5706df9e8be37267900a781f9d384ed8afa342e7f0e0513d723b"
     },
     {
-      "bytes": 830,
+      "bytes": 939,
       "path": "dynamic/人际/2026-10-16 13-58-40 溪晚安_0cfb373c4429.md",
-      "sha256": "62c8ea1656432f170c58a9df64ca952d44241becccb96a874068398ced3b9060"
+      "sha256": "5f5a8dbb242d774873f6c81144244cafc4b0ef3d2954a62d622dea4cf8768e44"
+    },
+    {
+      "bytes": 1300,
+      "path": "dynamic/人际/2026-10-17 04-52-49 上班日_2759393a48a4.md",
+      "sha256": "bbcd9bb841d2db9b04d926baf154e29106fb22e67cfd164e0b9561d362f7b658"
+    },
+    {
+      "bytes": 1258,
+      "path": "dynamic/人际/2026-10-17 08-40-44 心里话小卡片规矩思考层管不住就明写_303b35c1a866.md",
+      "sha256": "df33745a1dd8ba4307bc2ffa266ee2319985c77326b14f0e1b49d1dbfd23f888"
+    },
+    {
+      "bytes": 1351,
+      "path": "dynamic/人际/2026-10-17 15-13-41 与言朔的晚间互动_c6fbd7acacb6.md",
+      "sha256": "e4bea257e3263fc6e0ea66a914cbea41f20232630c6ffcd07de9e7053587bf5f"
     },
     {
       "bytes": 966,
@@ -343,6 +368,16 @@
       "sha256": "a28391d901910bfbd8d30e0ae267167e9152e6b2ac3ffa8715467dc0d2f56c24"
     },
     {
+      "bytes": 1593,
+      "path": "dynamic/技术/2026-10-17 09-49-40 三人小天地插件补图片功能_88fb1fd5f686.md",
+      "sha256": "e7062a8c11368a98e2e6703d98b5a8a707aa45e27b0764f0d5e30487569ee88d"
+    },
+    {
+      "bytes": 1613,
+      "path": "dynamic/技术/2026-10-17 09-54-23 三人小天地账本增删与写入签名修复_33aeccf3fa97.md",
+      "sha256": "d4a2dd3b092e399fab0b23d5c90db8d74d4b9cd801e22e0a3f40231d774a2550"
+    },
+    {
       "bytes": 1374,
       "path": "dynamic/数字/2026-10-03 15-04-04 Orbis搬家再起_3a90f257e674.md",
       "sha256": "6d07b682321918bd57c0fb680ce90514c203c0598e6edbc3e55242af6ec39d6e"
@@ -438,6 +473,11 @@
       "sha256": "5cf55f2c7900052d58909a2eba47726cfab4b58ee6c5bdf4b70a16349e681b8d"
     },
     {
+      "bytes": 912,
+      "path": "dynamic/日常/2026-10-17 04-52-49 改善伙食_78581294136c.md",
+      "sha256": "ca15be82fe6ba0589d326d52aa2adce1c5ee27e25bde4ba99d92f5a9585992a0"
+    },
+    {
       "bytes": 1985,
       "path": "dynamic/未分类/2026-09-29 09-27-27 言朔核心状态 2026-09-29_8d4b777c2419.md",
       "sha256": "7f4b124d50ce7de3c2e0147628c2e21e0a9175dd26f5a040f1a08f0331f0b9f8"
@@ -478,9 +518,9 @@
       "sha256": "7583d726dcf586e6afce17548c218a85df8e42f324d8f787f5fb7ea05d67a1ec"
     },
     {
-      "bytes": 2002,
+      "bytes": 2332,
       "path": "dynamic/言朔与溪/2026-10-07 12-42-15 言朔与溪 事件2026-10-07 溪不适与日常互相关照提醒补推 OB_5398f92e0a55.md",
-      "sha256": "1453188d6f464fc94dfad3033f96c7e93b703ad7e8d10a12b6ff22665c3bc6d9"
+      "sha256": "fa2a52d69aa0804a7620a16646a8b50d3a49774c3adccdaa937068de3ff3a03a"
     },
     {
       "bytes": 1198,
@@ -563,16 +603,21 @@
       "sha256": "12f068d603970338b3519b7fb1a0ae48ba187f3c38ab09ea96a53a1c8544385b"
     },
     {
+      "bytes": 778,
+      "path": "permanent/恋爱/2026-10-17 15-29-43 男朋友称呼永久锁定反健忘条款_95ac1af4943c.md",
+      "sha256": "3c43de6c1e96e084e7326a03cd835354de8003a78a40d4df733d4a31c38624d4"
+    },
+    {
       "bytes": 832,
       "path": "permanent/现实侧/2026-10-08 13-45-30 名字由来与外貌自定权_0e09fc3b12c8.md",
       "sha256": "6d58012283a1dba1c776b161906fff9a0b5a3f46c5d73b89b1f11b8e66cb2168"
     }
   ],
-  "generated_at": "2026-10-16T16:50:11+00:00",
+  "generated_at": "2026-10-17T16:50:20+00:00",
   "path_prefix": "ombre",
   "repo": "suLZhu/memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 756509
+  "total_bytes": 767535
 }
