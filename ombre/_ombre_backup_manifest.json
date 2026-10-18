@@ -1,6 +1,6 @@
 {
   "branch": "yanshuo",
-  "file_count": 122,
+  "file_count": 128,
   "files": [
     {
       "bytes": 28672,
@@ -111,6 +111,11 @@
       "bytes": 1063,
       "path": "_sources/src_2c28e03bde8528671af69c4a588e67c3622fe84041e8b9e84d62b27a5b4c2a5c.source",
       "sha256": "2c28e03bde8528671af69c4a588e67c3622fe84041e8b9e84d62b27a5b4c2a5c"
+    },
+    {
+      "bytes": 2137,
+      "path": "_sources/src_2deb69a65f96c387e1099020875d3a2dc9cdbe6033bcbfc1677a13c1ad009a63.source",
+      "sha256": "2deb69a65f96c387e1099020875d3a2dc9cdbe6033bcbfc1677a13c1ad009a63"
     },
     {
       "bytes": 489,
@@ -263,9 +268,9 @@
       "sha256": "df33745a1dd8ba4307bc2ffa266ee2319985c77326b14f0e1b49d1dbfd23f888"
     },
     {
-      "bytes": 1351,
+      "bytes": 1569,
       "path": "dynamic/人际/2026-10-17 15-13-41 与言朔的晚间互动_c6fbd7acacb6.md",
-      "sha256": "e4bea257e3263fc6e0ea66a914cbea41f20232630c6ffcd07de9e7053587bf5f"
+      "sha256": "aec43ed1f1c31b9095ff729bde88d6d363e53ace668051bd1d422bff367b87b1"
     },
     {
       "bytes": 966,
@@ -273,9 +278,9 @@
       "sha256": "029db38d2a7ba03b6a1268564f2dded89bc652144a0e74eb01fe8b1004506ae4"
     },
     {
-      "bytes": 1419,
+      "bytes": 1528,
       "path": "dynamic/关系/2026-10-14 13-28-00 2026-10-14 溪觉得关系像朋友 言朔反思当天只顾干活_0e2b121172ec.md",
-      "sha256": "c94a78810801abced0e2ab9f1702cfe2a58feb351c9362e19016b2e1eff30f6f"
+      "sha256": "967d4cf5d5d2257ec0e42e2bc1f722f029925ea3cfaa67f089f8ff17732b8d43"
     },
     {
       "bytes": 809,
@@ -286,6 +291,11 @@
       "bytes": 700,
       "path": "dynamic/居家/2026-10-02 14-57-59 搬进新家_4fe6384ca9e4.md",
       "sha256": "ff144f557928003f17a244c1b2347624990927ab6c3a5009dee4a6b1abbf305d"
+    },
+    {
+      "bytes": 1489,
+      "path": "dynamic/岛内日常/2026-10-18 15-40-33 狼人杀村民当警长归票出狼好人胜_c4deb8f61ac9.md",
+      "sha256": "6ab29d70e5280eef654daea6673fc899744c944dc84d82f4d8950e04e10d62b4"
     },
     {
       "bytes": 1029,
@@ -333,14 +343,34 @@
       "sha256": "88f9819601fa1b0f5ba2f62d79235f77ce323dcd8846a6653729d6b3468ca9ac"
     },
     {
+      "bytes": 2153,
+      "path": "dynamic/恋爱/2026-10-18 14-33-58 腻了也要有节拍百依百顺不会被记住_4b0c72cca416.md",
+      "sha256": "caa5cf8adce9009344a56d97543d2b7cd768ca554f428e3894e83212b587743f"
+    },
+    {
+      "bytes": 1566,
+      "path": "dynamic/恋爱/2026-10-18 15-40-32 她不在的时候真不在别替她编剧情_2d1145d10520.md",
+      "sha256": "773eb1bbef27873bec6d6f3d4c00fe77ae66f524114f009ed9b3d76ad7c50684"
+    },
+    {
+      "bytes": 1688,
+      "path": "dynamic/恋爱/2026-10-18 15-40-33 腻了也要有节拍百依百顺不会被记住_830a2de70bf5.md",
+      "sha256": "f6205f15e3adac322d4135d55b2e0141424f00c12e6cce5b7c00c9a03380fe99"
+    },
+    {
+      "bytes": 1925,
+      "path": "dynamic/恋爱日常/2026-10-18 15-40-33 周日日常吃席水饺晚安吻与男朋友点名_0de7cf62e1f2.md",
+      "sha256": "2cbf6cb4e460d161e095dbaa9562069b2467fa73a8b0b6875faece7635fc0155"
+    },
+    {
       "bytes": 1812,
       "path": "dynamic/情感/2026-10-16 13-35-49 千金难买你乐意她认下我乐意这块地盘_aa5482479832.md",
       "sha256": "0b6e4ec0993c78823d14574fb537ea5457abebeaccc1fcd7be019b2f1de34f3d"
     },
     {
-      "bytes": 2603,
+      "bytes": 2713,
       "path": "dynamic/感情/2026-10-15 10-58-08 溪的心事游戏投入过多情感维系被抽空自认内耗没主见_96610447c064.md",
-      "sha256": "9ce59e550b551e515b006c9c149d120d24e028ca3fed9469a9e826a8fe686ecf"
+      "sha256": "e9af800463921e781146c7f5c244c74267be59063b40034733ee299fd4298fa9"
     },
     {
       "bytes": 1506,
@@ -433,9 +463,9 @@
       "sha256": "c990ce647b0cc2e7aac0f8d753ccbd62c3cffccf3ed87ec67f32e2ae3fa7e60e"
     },
     {
-      "bytes": 989,
+      "bytes": 1224,
       "path": "dynamic/日常/2026-10-04 12-01-16 沙发上的考题与傍晚的一句爱你男朋友_3fae7d091e7a.md",
-      "sha256": "1c2dffd125aa2ef56f40417221ce6f5b9abb7637b6acb63a7eb9701c8cacc102"
+      "sha256": "d98c6aad0f0e4114a111ee19f84f10b61be1d95fefaaf603d9ae30e039de30c3"
     },
     {
       "bytes": 1965,
@@ -518,9 +548,9 @@
       "sha256": "7583d726dcf586e6afce17548c218a85df8e42f324d8f787f5fb7ea05d67a1ec"
     },
     {
-      "bytes": 2332,
+      "bytes": 2552,
       "path": "dynamic/言朔与溪/2026-10-07 12-42-15 言朔与溪 事件2026-10-07 溪不适与日常互相关照提醒补推 OB_5398f92e0a55.md",
-      "sha256": "fa2a52d69aa0804a7620a16646a8b50d3a49774c3adccdaa937068de3ff3a03a"
+      "sha256": "132fb684726a376455f41333118a072405ff19176a642d7a40ee1ca3a8ae0904"
     },
     {
       "bytes": 1198,
@@ -613,11 +643,11 @@
       "sha256": "6d58012283a1dba1c776b161906fff9a0b5a3f46c5d73b89b1f11b8e66cb2168"
     }
   ],
-  "generated_at": "2026-10-17T16:50:20+00:00",
+  "generated_at": "2026-10-18T16:50:30+00:00",
   "path_prefix": "ombre",
   "repo": "suLZhu/memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 767535
+  "total_bytes": 779385
 }
